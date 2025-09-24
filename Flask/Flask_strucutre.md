@@ -51,3 +51,5 @@ project/
 * **`run.py`** → simple script to start the server (`app.run()`).
 
 ---
+
+<img width="1556" height="743" alt="image" src="https://github.com/user-attachments/assets/d06e92ed-02e6-415c-a5c9-4904c8762de7" />

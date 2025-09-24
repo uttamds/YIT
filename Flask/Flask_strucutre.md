@@ -53,3 +53,7 @@ project/
 ---
 
 <img width="1556" height="743" alt="image" src="https://github.com/user-attachments/assets/d06e92ed-02e6-415c-a5c9-4904c8762de7" />
+
+# Summary
+
+This Flask project is a **simple web application** that demonstrates a basic project structure with separate folders for `templates` and `static` files. The `app.py` file serves as the entry point, rendering an HTML form stored in the `templates` folder. The form includes common input elements like text fields, dropdowns, radio buttons, and checkboxes, while a sample image is loaded from the `static/images` directory. The CSS is embedded within the HTML template to give the form a neat and minimal look. This setup shows how Flask cleanly organizes templates, static assets, and application logic, making it easy to scale from a simple demo to a larger project.

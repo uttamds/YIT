@@ -1,11 +1,29 @@
-# User Login
+📂 You started by setting up your Flask project structure.
 
-When a user logs in, their username is stored in a Flask session.
+app.py to run the app.
 
-A session in Flask is server-side storage (on your machine where Flask runs).
+templates/ folder with HTML files (index.html, user.html, yit.html).
 
-To make this work, Flask uses a secret key to cryptographically sign the session cookie.
+static/ folder with an images/ subfolder to hold things like sample.jpg.
 
-The browser only gets a session cookie (a small identifier), not the actual username/password.
+🖥️ Next, you wanted to demo authentication.
 
-Flask then uses that cookie to match the request with session data stored on the server.
+We added a simple login / logout system using Flask sessions.
+
+Created a login.html page for users to enter credentials.
+
+Updated index.html to greet the logged-in user and show a logout option.
+
+🔑 For testing purposes:
+
+Username is set to admin.
+
+Password is set to 1234.
+
+💾 How it works:
+
+When a user logs in, their info is stored in a Flask session (server-side).
+
+The browser just keeps a signed session cookie.
+
+Logging out clears the session.

@@ -1,0 +1,14 @@
+# List of students
+students <- list(
+  student1 = list(name = "Ravi", marks = c(78, 85, 92)),
+  student2 = list(name = "Asha", marks = c(90, 88, 95)),
+  student3 = list(name = "Vikram", marks = c(65, 70, 72))
+)
+
+# Access Ravi's marks
+cat("Ravi's Marks:", students$student1$marks, "\n")
+
+# Display average marks of each student
+for (s in students) {
+  cat(s$name, "- Average Marks:", mean(s$marks), "\n")
+}

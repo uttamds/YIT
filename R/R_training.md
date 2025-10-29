@@ -1,17 +1,3 @@
-# Create a vector of marks
-marks <- c(75, 82, 90, 68, 88, 79)
-
-# Calculate average marks
-average <- mean(marks)
-cat("Average Marks:", average, "\n")
-
-# Display marks greater than 80
-cat("Marks greater than 80:\n")
-print(marks[marks > 80])
-====================================================================
-Program 2
-===================================================================
-
 # Vector of marks
 marks <- c(95, 72, 88, 65, 91, 78, 83, 59, 87)
 
@@ -35,8 +21,6 @@ performance <- ifelse(marks >= 80, "Distinction",
 
 # Combine marks and performance into a data frame
 result <- data.frame(Marks = marks, Performance = performance)
-
-======================================================
 
 cat("\nDetailed Performance:\n")
 print(result)

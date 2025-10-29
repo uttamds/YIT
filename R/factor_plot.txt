@@ -1,0 +1,21 @@
+# Vector of cities
+cities <- c("Delhi", "Mumbai", "Pune", "Delhi", "Pune", "Mumbai", "Delhi")
+
+# Convert to factor
+city_factor <- factor(cities)
+
+# Get frequency count
+freq <- table(city_factor)
+
+# Display frequencies
+print(freq)
+
+# Create a bar plot
+barplot(
+  freq,
+  main = "Number of Entries per City",
+  xlab = "City",
+  ylab = "Frequency",
+  col = "skyblue",
+  border = "darkblue"
+)

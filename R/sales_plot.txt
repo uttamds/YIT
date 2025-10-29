@@ -1,0 +1,35 @@
+# Sample sales data
+sales <- data.frame(
+  product = c("Laptop", "Phone", "Tablet", "Laptop", "Phone", "Tablet"),
+  units_sold = c(5, 10, 8, 7, 6, 9),
+  price = c(55000, 20000, 30000, 56000, 21000, 31000)
+)
+
+# Calculate total revenue per product
+revenue_summary <- aggregate(units_sold * price ~ product, data = sales, sum)
+colnames(revenue_summary) <- c("Product", "Total_Revenue")
+
+# Compute overall statistics
+total_sales <- sum(sales$units_sold)
+average_price <- mean(sales$price)
+
+# Generate a bar plot
+barplot(
+  revenue_summary$Total_Revenue,
+  names.arg = revenue_summary$Product,
+  main = "Total Revenue by Product",
+  ylab = "Revenue (INR)",
+  col = "steelblue"
+)
+
+# Create a list to hold everything
+sales_report <- list(
+  raw_data = sales,
+  summary = revenue_summary,
+  total_sales = total_sales,
+  average_price = average_price,
+  plot = "Bar plot displayed above"
+)
+
+# Display the structured list
+print(sales_report)

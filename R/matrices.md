@@ -77,6 +77,7 @@ Would you like me to include a **sample solution code** for this lab (for instru
 
 <img width="862" height="812" alt="image" src="https://github.com/user-attachments/assets/9547095f-010b-4699-9b22-5000112de8d6" />
 <img width="420" height="169" alt="image" src="https://github.com/user-attachments/assets/deffe416-6615-4ed2-a824-85a208bc805e" />
+<img width="633" height="812" alt="image" src="https://github.com/user-attachments/assets/f2252e04-4b82-4b03-a850-88767f3cf12a" />
 
 
 

@@ -1,0 +1,9 @@
+# Creating a Data Frame
+students <- data.frame(
+  name = c("Ravi", "Asha", "Vikram", "Neha"),
+  age = c(21, 22, 20, 23),
+  marks = c(85, 90, 78, 92)
+)
+
+# Display the data frame
+print(students)

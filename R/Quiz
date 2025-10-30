@@ -1,0 +1,117 @@
+Here’s the same MCQ set in **plain text format (without answers)** — suitable for student handouts or quizzes:
+
+---
+
+### **R Programming – Multiple Choice Questions**
+
+#### **1. Basics of R**
+
+1. Which of the following is the assignment operator in R?
+   A. ->
+   B. <-
+   C. =
+   D. All of the above
+
+2. What will `getwd()` do in R?
+   A. Get working directory
+   B. Get web data
+   C. Go write directory
+   D. Generate working data
+
+3. Which function is used to see the structure of an R object?
+   A. summary()
+   B. print()
+   C. str()
+   D. typeof()
+
+---
+
+#### **2. Data Types**
+
+4. Which of the following is not a basic data type in R?
+   A. Numeric
+   B. Character
+   C. String
+   D. Logical
+
+5. What will be the output of `class(TRUE)`?
+   A. numeric
+   B. logical
+   C. boolean
+   D. integer
+
+6. Which data type will result from this code: `x <- c(1, 2, "3")`?
+   A. numeric
+   B. character
+   C. logical
+   D. factor
+
+---
+
+#### **3. Vectors**
+
+7. Which function is used to create a vector in R?
+   A. v()
+   B. vec()
+   C. c()
+   D. vector() only
+
+8. What is the length of `v <- c(2, 4, 6, 8)`?
+   A. 3
+   B. 4
+   C. 8
+   D. 2
+
+9. What will `v[2]` return for `v <- c(10, 20, 30)`?
+   A. 10
+   B. 20
+   C. 30
+   D. Error
+
+---
+
+#### **4. Matrices**
+
+10. Which function is used to create a matrix in R?
+    A. array()
+    B. matrix()
+    C. data.frame()
+    D. mat()
+
+11. What does the argument `byrow=TRUE` do in the `matrix()` function?
+    A. Fills the matrix column-wise
+    B. Fills the matrix row-wise
+    C. Randomly fills matrix
+    D. None
+
+12. Which of the following extracts the 2nd row from a matrix `m`?
+    A. m[,2]
+    B. m[2,]
+    C. m[2:2]
+    D. m[1,2]
+
+---
+
+#### **5. Lists**
+
+13. What is a List in R?
+    A. Collection of same type elements
+    B. Collection of different type elements
+    C. Only numeric elements
+    D. Only data frames
+
+14. Which function is used to create a list in R?
+    A. list()
+    B. c()
+    C. vector()
+    D. append()
+
+15. How to access the 2nd element of a list `mylist`?
+    A. mylist[2]
+    B. mylist[[2]]
+    C. mylist(2)
+    D. mylist$2
+
+---
+
+Would you like me to format this as a **Word (.docx)** or **PDF** quiz sheet for easy printing and sharing with students?

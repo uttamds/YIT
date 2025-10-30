@@ -1,9 +1,0 @@
-# Create a matrix with numbers 1 to 9 (3 rows, 3 columns)
-mat <- matrix(1:9, nrow = 3, ncol = 3)
-print(mat)
-
-
-==================
-
-mat <- matrix(1:9, nrow = 3, byrow = TRUE)
-print(mat)

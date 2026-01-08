@@ -47,6 +47,7 @@ Task 3
 Change the color of the column to Orange Color
 
 ================================
+
 Task 4
 
 Click on an empty area of the report
@@ -61,5 +62,19 @@ Sales → Values
 
 Rename title to
 “Sales Contribution by Product”
+
+===============================
+
+Task 5  (Apply Filter)
+
+Click on any visual
+
+In the Filters pane (right side):
+
+Drag Year into Visual level filters
+
+Select 2014
+
+Observe how the visual updates
 
 

@@ -40,3 +40,29 @@ Use white space properly
 Highlight important insights
 
 Keep formatting consistent across visuals
+
+
+=========================
+
+
+## Power BI UI – Simple List
+
+Report View is used to create and design visuals
+
+Data View is used to see table data
+
+Model View is used to manage relationships
+
+Fields Pane shows tables and columns
+
+Visualizations Pane is used to choose chart types
+
+Filters Pane is used to apply filters
+
+Canvas is the main area where visuals are placed
+
+Format Pane is used to customize visuals
+
+Selection Pane controls visibility and layering
+
+View tab controls themes and layout

@@ -41,3 +41,22 @@ Press Enter
 📝 Student note
 Renaming columns improves readability.
 Good names make reports easier to understand.
+
+============
+
+Task 3: Change Data Type
+Goal
+
+Ensure correct data types.
+
+Steps
+
+Select Sales column
+
+From toolbar, set Data Type → Decimal Number
+
+Observe the data type icon change
+
+📝 Student note
+Correct data types are important for calculations.
+Wrong data types can cause errors.

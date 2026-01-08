@@ -1,3 +1,7 @@
+https://yopad.eu/p/r.a2d5f04a6683966b5c65843d976ce1e9
+=======================================================
+
+
 Task 1: Open Power Query Editor
 Goal
 

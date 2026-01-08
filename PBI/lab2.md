@@ -15,3 +15,28 @@ Rename titles
 📝 2-line note
 Cards display one important value.
 They are used for KPIs like total sales or profit.
+
+
+===================
+
+## Visualization Principles (Simple List)
+
+Choose the right chart for the data
+
+Keep visuals simple and uncluttered
+
+Use colors with clear meaning
+
+Sort data for easy comparison
+
+Use consistent scales and axes
+
+Write clear and meaningful titles
+
+Focus on comparison, not decoration
+
+Use white space properly
+
+Highlight important insights
+
+Keep formatting consistent across visuals

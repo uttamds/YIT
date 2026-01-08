@@ -77,4 +77,11 @@ Select 2014
 
 Observe how the visual updates
 
+================
+
+Task 6
+
+Using the clear filer (Eraser) button, remove the filter applied.
+Observe the changes to the viz.
+
 

@@ -26,3 +26,17 @@ Click on the chart title → rename to
 “Sales by Country”
 
 =====================
+Task 2
+
+Goal: Sort countries by highest sales
+
+Steps
+
+Click on the Sales by Country chart
+
+Click the three dots (⋯) on top-right of the visual
+
+Select Sort by → Sales
+
+Choose Descending
+===================================

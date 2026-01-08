@@ -78,7 +78,13 @@ Select 2014
 Observe how the visual updates
 
 ================
+Task 6
 
+Using the clear filer (Eraser) button, remove the filter applied.
+Observe the changes to the viz.
+
+
+==========================
 Task 7  (tabular data)
 
 Select Table visual
@@ -97,9 +103,6 @@ Click the Sales column header to sort
 
 Click again to toggle ascending/descending
 
-Task 6
 
-Using the clear filer (Eraser) button, remove the filter applied.
-Observe the changes to the viz.
 
 

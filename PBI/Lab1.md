@@ -40,3 +40,9 @@ Select Sort by → Sales
 
 Choose Descending
 
+=========================
+
+Task 3
+
+Change the color of the column to Orange Color
+

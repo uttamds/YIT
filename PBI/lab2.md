@@ -19,6 +19,8 @@ They are used for KPIs like total sales or profit.
 
 ===================
 
+# Notes - Write in your notebook.
+
 ## Visualization Principles (Simple List)
 
 Choose the right chart for the data

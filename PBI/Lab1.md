@@ -79,6 +79,24 @@ Observe how the visual updates
 
 ================
 
+Task 7  (tabular data)
+
+Select Table visual
+
+Drag these fields:
+
+Country
+
+Product
+
+Sales
+
+Profit
+
+Click the Sales column header to sort
+
+Click again to toggle ascending/descending
+
 Task 6
 
 Using the clear filer (Eraser) button, remove the filter applied.

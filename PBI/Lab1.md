@@ -103,6 +103,18 @@ Click the Sales column header to sort
 
 Click again to toggle ascending/descending
 
+==================
 
+Task 8  (Conditional Formatting the table data)
+
+Select the Table visual
+
+In Values, click dropdown next to Profit
+
+Choose Conditional formatting → Background color
+
+Select Color scale
+
+Click OK
 
 

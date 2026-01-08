@@ -46,3 +46,20 @@ Task 3
 
 Change the color of the column to Orange Color
 
+================================
+Task 4
+
+Click on an empty area of the report
+
+Select Pie Chart from Visualizations
+
+Drag:
+
+Product → Legend
+
+Sales → Values
+
+Rename title to
+“Sales Contribution by Product”
+
+

@@ -32,6 +32,60 @@ npx playwright test
 
 ---
 
+
+# More explanation 
+
+### Why the Browser Doesn’t Open (Concise Summary)
+
+* **Playwright runs in headless mode by default**
+
+  * Browser opens in the background
+  * Website **does load**, but UI is not visible
+
+* **Your code is correct**
+
+```js
+const { test } = require('@playwright/test');
+
+test('open google', async ({ page }) => {
+  await page.goto('https://www.google.com');
+});
+```
+
+* **To see the browser**
+
+```bash
+npx playwright test --headed
+```
+
+* **To prove the site opened (best practice)**
+
+```js
+const { test, expect } = require('@playwright/test');
+
+test('open google', async ({ page }) => {
+  await page.goto('https://www.google.com');
+  await expect(page).toHaveTitle(/Google/);
+});
+```
+
+* **For classroom demo (slow motion)**
+
+```bash
+npx playwright test --headed --slow-mo=1000
+```
+
+* **Key takeaway for students**
+
+  * No visible browser ≠ test didn’t run
+  * Validation > visual confirmation
+------------------------------------------
+
+
+
+
+
+
 ### Task 3: Multiple Tests in One File
 
 ```js

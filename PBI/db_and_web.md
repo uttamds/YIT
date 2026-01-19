@@ -241,3 +241,229 @@ I can provide:
 * ❓ **MBA-style discussion questions**
 
 Just tell me what you want to deliver next 👍
+
+
+
+Below is a **clear, classroom-ready lesson plan** for **pulling data into Power BI from the Web**, designed for **MBA / beginner learners** and suitable for a **60–90 minute session**.
+
+---
+
+## Lesson Title
+
+**Power BI – Connecting to Web Data**
+
+**Target Audience:** MBA / Non-technical learners
+**Tool:** Microsoft Power BI Desktop
+**Duration:** 1–1.5 hours
+
+---
+
+![Image](https://learn.microsoft.com/en-us/power-bi/connect-data/media/desktop-tutorial-importing-and-analyzing-data-from-a-web-page/get-data-web3.png)
+
+![Image](https://learn.microsoft.com/en-us/power-bi/connect-data/media/desktop-connect-to-web/connect-to-web-01.png)
+
+![Image](https://learn.microsoft.com/en-us/power-bi/create-reports/media/desktop-buttons/example-report.png)
+
+![Image](https://learn.microsoft.com/en-us/power-bi/connect-data/media/desktop-connect-to-data/datasources_fromnavigatordialog.png)
+
+## Learning Objectives
+
+By the end of the session, learners will be able to:
+
+* Understand **what web data is** and why businesses use it
+* Connect Power BI to **web pages and APIs**
+* Clean and transform web data using **Power Query**
+* Refresh and validate web-based datasets
+
+---
+
+## Lesson Flow (Suggested Delivery)
+
+---
+
+## 1️⃣ Business Context (10 minutes)
+
+**Start with WHY before HOW**
+
+### Discussion Points:
+
+* Businesses frequently use **external data**:
+
+  * Government portals
+  * Financial websites
+  * Company APIs
+  * Market statistics
+* Examples:
+
+  * Stock prices
+  * Exchange rates
+  * COVID / population data
+  * Product prices from websites
+
+💡 *Explain:*
+
+> “Power BI can directly pull data from the internet — no manual copy-paste.”
+
+---
+
+## 2️⃣ Types of Web Data in Power BI (10 minutes)
+
+### Explain with simple classification:
+
+| Type       | Description                   | Example               |
+| ---------- | ----------------------------- | --------------------- |
+| Web Tables | Data displayed in HTML tables | Wikipedia, reports    |
+| Web Pages  | Semi-structured content       | Company sites         |
+| APIs       | Structured JSON/XML data      | Weather, finance APIs |
+
+📌 Emphasize:
+
+* Beginners mostly work with **Web Tables**
+* APIs are usually introduced later
+
+---
+
+## 3️⃣ Hands-On Demo: Connecting to Web Data (20 minutes)
+
+### Step-by-Step (Live Demo)
+
+1. Open **Power BI Desktop**
+2. Click **Home → Get Data → Web**
+3. Choose **Basic**
+4. Paste a public URL
+   *(example: Wikipedia table, government stats site)*
+5. Click **OK**
+
+Power BI will:
+
+* Scan the page
+* Detect available tables
+* Show **Navigator window**
+
+🎯 Teaching Tip:
+Point out how Power BI “understands” web structure automatically.
+
+---
+
+## 4️⃣ Using the Navigator Window (10 minutes)
+
+### Explain:
+
+* Left panel → List of detected tables
+* Preview pane → Sample data
+* Checkbox → Select required tables only
+
+Ask students:
+
+> “Which table makes business sense?”
+
+Then:
+
+* Click **Transform Data** (not Load yet)
+
+---
+
+![Image](https://learn.microsoft.com/en-us/power-bi/transform-model/media/desktop-query-overview/query-overview-view-icons.png)
+
+![Image](https://learn.microsoft.com/en-us/power-query/connectors/web/web-formula-bar.png)
+
+![Image](https://k21academy.com/wp-content/uploads/2021/05/18-b-1.png)
+
+![Image](https://k21academy.com/wp-content/uploads/2021/05/1-5.png)
+
+## 5️⃣ Data Cleaning using Power Query (20 minutes)
+
+### Common Transformations to Demo:
+
+* Remove unnecessary columns
+* Rename columns
+* Change data types
+* Remove blank rows
+* Filter rows (e.g., country = India)
+
+📌 Explain conceptually:
+
+> “Power Query is like Excel cleaning, but automated.”
+
+Highlight:
+
+* **Steps pane** records every action
+* Changes reapply automatically on refresh
+
+---
+
+## 6️⃣ Load & Refresh Data (10 minutes)
+
+### Steps:
+
+1. Click **Close & Apply**
+2. Data loads into Power BI Model
+3. Create:
+
+   * Simple table visual
+   * Bar chart or card
+
+### Show:
+
+* **Refresh button**
+* Explain live refresh behavior:
+
+  * Depends on website availability
+  * Some sites block refresh
+
+---
+
+## 7️⃣ Limitations & Best Practices (10 minutes)
+
+### Key Points:
+
+* Not all websites allow scraping
+* Website structure changes can break reports
+* Prefer:
+
+  * Government portals
+  * Official APIs
+  * Stable public data sources
+
+✅ Best Practices:
+
+* Document source URL
+* Use Transform instead of manual fixes
+* Test refresh before publishing
+
+---
+
+## 8️⃣ Quick Practice / Assignment (Optional)
+
+### Student Task:
+
+* Connect to **any public website**
+* Load **one table**
+* Perform **2 transformations**
+* Create **one visual**
+
+---
+
+## Wrap-Up Summary (5 minutes)
+
+Reinforce:
+
+* Web data = **real-time external insights**
+* Power BI simplifies web integration
+* Power Query is the backbone of cleaning
+
+---
+
+## Next Lesson Suggestions
+
+* Web APIs (JSON)
+* Scheduled refresh in Power BI Service
+* Combining Web + Excel / Database data
+
+If you want, I can also:
+
+* Share **safe demo URLs** for class
+* Create a **step-by-step PPT**
+* Design a **lab worksheet** for students
+
+Just tell me 👍

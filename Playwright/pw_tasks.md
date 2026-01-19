@@ -1,13 +1,4 @@
-Perfect 👍
-Below is a **clean, step-by-step set of EXACT Playwright codes** mapped **1:1 with the flow I gave earlier**.
-You can **copy–paste and demo each step in class**.
 
-I’ll assume:
-
-* JS + Playwright already installed
-* Default Playwright project structure
-
----
 
 # PHASE 1: First Working Test
 
@@ -250,13 +241,3 @@ test('end to end demo', async ({ page }) => {
 ✔ Debugging failures
 ✔ HTML reports
 
----
-
-If you want next:
-
-* 🔹 **Same flow converted into LAB sheets**
-* 🔹 **Interview-oriented Playwright tasks**
-* 🔹 **Comparison demo: Selenium vs Playwright**
-* 🔹 **7-day classroom-ready Playwright plan**
-
-Say the word 👍

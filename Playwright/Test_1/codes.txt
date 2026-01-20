@@ -1,5 +1,12 @@
 Note: Ensure you comment the FireFox and Webkit workers in the playwright.config.js file so that the test runs just in Chrome.
 ================================================================================================================================
+test command:   npx playwright test tests/input.spec.js --headed
+======================================================================
+
+create the input.spect.js file in your pw project.  Code for the test is given below
+====================================================================================
+
+
 input.spec.js
 =================
 

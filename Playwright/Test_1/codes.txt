@@ -1,4 +1,5 @@
-
+Note: Ensure you comment the FireFox and Webkit workers in the playwright.config.js file so that the test runs just in Chrome.
+================================================================================================================================
 input.spec.js
 =================
 

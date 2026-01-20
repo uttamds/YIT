@@ -1,0 +1,55 @@
+
+input.spec.js
+=================
+
+const { test, expect } = require('@playwright/test');
+
+test('verify input value 1234 with visible pauses', async ({ page }) => {
+
+  await page.goto('http://127.0.0.1:5500/uttam.html');
+  await page.waitForTimeout(3000);
+
+  await page.fill('#codeInput', '1234');
+  await page.waitForTimeout(3000);
+
+  await page.click('#checkBtn');
+  await page.waitForTimeout(3000);
+
+  // ✅ Wait first, then assert
+  await page.waitForTimeout(3000);
+  const resultText = await page.textContent('#result');
+
+  expect(resultText).toBe('SUCCESS');
+});
+===============================
+
+uttam.html
+===========
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simple Input Test</title>
+</head>
+<body>
+
+  <input type="text" id="codeInput" placeholder="Enter code" />
+  <button id="checkBtn" onclick="checkValue()">Check</button>
+
+  <p id="result"></p>
+
+  <script>
+    function checkValue() {
+      const value = document.getElementById("codeInput").value;
+      if (value === "1234") {
+        document.getElementById("result").innerText = "SUCCESS";
+      } else {
+        document.getElementById("result").innerText = "FAIL";
+      }
+    }
+  </script>
+
+</body>
+</html>
+========================================

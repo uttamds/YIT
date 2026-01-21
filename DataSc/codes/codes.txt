@@ -22,3 +22,37 @@ print("\nDataFrame after handling missing values:")
 print(df)   
 
 ====================================
+
+#Supervised Learning using LinearRegression
+
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+
+# Step 1: Training Data (Known)
+hours = np.array([1, 2, 3, 4, 5]).reshape(-1, 1)
+scores = np.array([35, 40, 50, 60, 75])
+
+# Step 2: Train the model
+model = LinearRegression()
+model.fit(hours, scores)
+
+# Step 3: Predict NEW unseen value
+new_hours = np.array([[6]])   # Student studies 6 hours
+predicted_score = model.predict(new_hours)
+print("Predicted score for 6 hours:", predicted_score[0])
+
+
+new_hours = np.array([[10]])   # Student studies 6 hours
+predicted_score = model.predict(new_hours)
+print("Predicted score for 10 hours:", predicted_score[0])
+
+# Step 4: Plot
+plt.scatter(hours, scores, label="Training Data")
+plt.plot(hours, model.predict(hours), label="Model Line")
+plt.scatter(new_hours, predicted_score, color="red", label="New Prediction")
+plt.xlabel("Hours Studied")
+plt.ylabel("Score")
+plt.legend()
+plt.show()
+=================================

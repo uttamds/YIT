@@ -1,0 +1,24 @@
+
+#data cleaning and label encoding
+import pandas as pd 
+from sklearn.preprocessing import LabelEncoder
+
+le = LabelEncoder()
+
+data = {
+    "Age": [22, 25, None, 28, 35],
+    "Salary": [30000, 40000, 35000, None, 50000],
+    "City": ["Bangalore", "Delhi", "Bangalore", "Mumbai", None],
+    "Purchased": ["Yes", "No", "Yes", "No", "Yes"]
+}
+
+df = pd.DataFrame(data)
+df["Purchased"] = le.fit_transform(df["Purchased"])
+print(df)
+df["Age"].fillna(df["Age"].mean(), inplace=True)
+df["Salary"].fillna(df["Salary"].mean(), inplace=True)
+df["City"].fillna(df["City"].mode()[0], inplace=True)
+print("\nDataFrame after handling missing values:")     
+print(df)   
+
+====================================

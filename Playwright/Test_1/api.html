@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DummyJSON API Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        button {
+            padding: 8px 15px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        .card {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 10px;
+            width: 300px;
+            border-radius: 5px;
+        }
+        img {
+            width: 100px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>DummyJSON API Demo</h2>
+
+    <button onclick="loadProducts()">Load Products</button>
+
+    <div id="output"></div>
+
+    <script>
+        function loadProducts() {
+
+            // 1. API URL
+            const url = "https://dummyjson.com/products?limit=15";
+
+            // 2. Fetch API (GET request)
+            fetch(url)
+                .then(response => response.json())   // Convert response to JSON
+                .then(data => {
+                    const products = data.products;
+                    let html = "";
+
+                    // 3. Loop through API data
+                    products.forEach(product => {
+                        html += `
+                            <div class="card">
+                                <h4>${product.title}</h4>
+                                <p>Price: $${product.price}</p>
+                                <img src="${product.thumbnail}" />
+                            </div>
+                        `;
+                    });
+
+                    // 4. Display data on UI
+                    document.getElementById("output").innerHTML = html;
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                });
+        }
+    </script>
+
+</body>
+</html>

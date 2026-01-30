@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Playwright Full Demo Page</title>
+  <style>
+    body { font-family: Arial; padding: 20px; }
+    .hidden { display: none; }
+    .box {
+      width: 100px; height: 100px;
+      background: lightblue; margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1 id="main-heading">Playwright Demo</h1>
+
+  <!-- TEXT INPUT -->
+  <label>Name:</label>
+  <input type="text" id="nameInput" placeholder="Enter name">
+  <button id="clearBtn" onclick="document.getElementById('nameInput').value=''">Clear</button>
+
+  <br><br>
+
+  <!-- DROPDOWN -->
+  <label>Country:</label>
+  <select id="countrySelect">
+    <option value="">Select</option>
+    <option value="india">India</option>
+    <option value="usa">USA</option>
+  </select>
+
+  <br><br>
+
+  <!-- CHECKBOX -->
+  <label>
+    <input type="checkbox" id="subscribeCheck"> Subscribe to newsletter
+  </label>
+
+  <br><br>
+
+  <!-- RADIO BUTTONS -->
+  <label><input type="radio" name="gender" value="male"> Male</label>
+  <label><input type="radio" name="gender" value="female"> Female</label>
+
+  <br><br>
+
+  <!-- BUTTON ACTION -->
+  <button id="actionBtn" onclick="showMessage()">Click Me</button>
+
+  <p id="message" class="hidden">Button Clicked Successfully!</p>
+
+  <br>
+
+  <!-- ENABLE / DISABLE -->
+  <button id="disabledBtn" disabled>Disabled Button</button>
+
+  <br><br>
+
+  <!-- MOUSE ACTION TARGET -->
+  <div class="box" id="hoverBox">Hover Over Me</div>
+
+  <script>
+    function showMessage() {
+      document.getElementById("message").classList.remove("hidden");
+    }
+
+    const box = document.getElementById("hoverBox");
+    box.addEventListener("mouseover", () => {
+      box.style.background = "orange";
+    });
+  </script>
+
+</body>
+</html>
+    
+==================================================
+
+import { test, expect } from '@playwright/test';
+
+test('Full User Actions + Assertions Demo', async ({ page }) => {
+
+  // Load local file
+  await page.goto('http://127.0.0.1:5500/jan30.html');
+
+  // ---------------------------
+  // 🔹 BASIC PAGE ASSERTIONS
+  // ---------------------------
+  await expect(page).toHaveTitle('Playwright Full Demo Page');
+  await expect(page).toHaveURL(/jan30.html/);
+  await expect(page.locator('#main-heading')).toHaveText('Playwright Demo');
+
+  // ---------------------------
+  // 🔹 INPUT ACTIONS
+  // ---------------------------
+  const nameInput = page.locator('#nameInput');
+
+  await nameInput.fill('Rahul');
+  await expect(nameInput).toHaveValue('Rahul');
+
+  await nameInput.press('Control+A');   // Keyboard action
+  await nameInput.press('Backspace');
+  await expect(nameInput).toHaveValue('');
+
+  await nameInput.type('Anita');
+  await expect(nameInput).toHaveValue('Anita');
+
+  await page.click('#clearBtn');
+  await expect(nameInput).toBeEmpty();
+
+  // ---------------------------
+  // 🔹 DROPDOWN
+  // ---------------------------
+  await page.selectOption('#countrySelect', 'india');
+  await expect(page.locator('#countrySelect')).toHaveValue('india');
+
+  // ---------------------------
+  // 🔹 CHECKBOX
+  // ---------------------------
+  const checkbox = page.locator('#subscribeCheck');
+  await checkbox.check();
+  await expect(checkbox).toBeChecked();
+
+  await checkbox.uncheck();
+  await expect(checkbox).not.toBeChecked();
+
+  // ---------------------------
+  // 🔹 RADIO BUTTON
+  // ---------------------------
+  await page.locator('input[value="female"]').check();
+  await expect(page.locator('input[value="female"]')).toBeChecked();
+
+  // ---------------------------
+  // 🔹 BUTTON CLICK + TEXT VALIDATION
+  // ---------------------------
+  await page.click('#actionBtn');
+  const message = page.locator('#message');
+  await expect(message).toBeVisible();
+  await expect(message).toHaveText('Button Clicked Successfully!');
+
+  // ---------------------------
+  // 🔹 ENABLED / DISABLED
+  // ---------------------------
+  const disabledBtn = page.locator('#disabledBtn');
+  await expect(disabledBtn).toBeDisabled();
+  await expect(page.locator('#actionBtn')).toBeEnabled();
+
+  // ---------------------------
+  // 🔹 ATTRIBUTE CHECK
+  // ---------------------------
+  await expect(nameInput).toHaveAttribute('placeholder', 'Enter name');
+
+  // ---------------------------
+  // 🔹 MOUSE ACTION (HOVER)
+  // ---------------------------
+  const hoverBox = page.locator('#hoverBox');
+  await hoverBox.hover();
+
+  // Validate CSS change after hover
+  await expect(hoverBox).toHaveCSS('background-color', 'rgb(255, 165, 0)');
+});
+
+
+
+
+
+
+
+    

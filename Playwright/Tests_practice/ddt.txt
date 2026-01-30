@@ -1,0 +1,127 @@
+Array based
+=========================
+Login page
+===========================
+  <!DOCTYPE html>
+<html>
+<head><title>Login Demo</title></head>
+<body>
+  <h2>Login Page</h2>
+
+  <input id="username" placeholder="Username">
+  <input id="password" type="password" placeholder="Password">
+  <button onclick="login()">Login</button>
+
+  <p id="result">am here</p>
+
+  <script>
+    function login() {
+      const u = document.getElementById('username').value;
+      const p = document.getElementById('password').value;
+      const result = document.getElementById('result');
+
+      if ((u === 'rahul' && p === '1234') ||
+          (u === 'anita' && p === 'pass') ||
+          (u === 'vikram' && p === 'test')) {
+        result.textContent = 'Login Successful';
+      } else {
+        result.textContent = 'Login Failed';
+      }
+    }
+  </script>
+</body>
+</html>
+
+==========================
+ddt.demo.spec.js      (Array)
+  =======================
+
+import { test, expect } from '@playwright/test';
+
+const testData = [
+  { user: 'rahul',  pass: '1234', expected: 'Login Successful' },
+  { user: 'anita',  pass: 'pass', expected: 'Login Successful' },
+  { user: 'vikram', pass: 'wrong', expected: 'Login Failed' }
+];
+
+
+
+test.describe('Data Driven Login Tests', () => {
+
+  for (const data of testData) {
+
+    test(`Login test for ${data.user}`, async ({ page }) => {
+
+      await page.goto('http://127.0.0.1:5500/DDT/login.html');
+
+      await page.fill('#username', data.user);
+      await page.fill('#password', data.pass);
+      await page.click('button');
+
+      await expect(page.locator('#result')).toHaveText(data.expected);
+
+    });
+
+  }
+
+});
+==================================================================
+
+ ddt.demo.json.spec.js 
+========================================================================
+
+import { test, expect } from '@playwright/test';
+import loginData from './loginData.json';
+
+test.describe('Data Driven Login Tests (JSON)', () => {
+
+  for (const data of loginData) {
+
+    test(`Login test for ${data.user}`, async ({ page }) => {
+
+      await page.goto('http://127.0.0.1:5500/DDT/login.html');
+
+      await page.fill('#username', data.user);
+      await page.fill('#password', data.pass);
+      await page.click('button');
+
+      await expect(page.locator('#result')).toHaveText(data.expected);
+
+    });
+
+  }
+
+});
+=========================================================
+LoginData.json
+=============================
+  [
+  { "user": "rahul", "pass": "1234", "expected": "Login Successful" },
+  { "user": "anita", "pass": "pass", "expected": "Login Successful" },
+  { "user": "vikram", "pass": "wrong", "expected": "Login Failed" }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+    

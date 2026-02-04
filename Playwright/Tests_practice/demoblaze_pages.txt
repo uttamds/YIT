@@ -1,0 +1,26 @@
+export class SignupPage { 
+  constructor(page) {
+    this.page = page;
+
+    // Input fields
+    this.signupusername = page.locator('#sign-username');
+    this.signuppassword = page.locator('#sign-password');
+
+    // Buttons
+    this.signUpButton = page.getByRole('button', { name: 'Sign up' });
+  }
+
+  async enterSignupDetails(username, password) {
+    await this.signupusername.fill(username);
+    await this.signuppassword.fill(password);
+  }
+
+  async submitSignup() {
+    await this.signUpButton.click();
+  }
+
+  async signup(username, password) {
+    await this.enterSignupDetails(username, password);
+    await this.submitSignup();
+  }
+}

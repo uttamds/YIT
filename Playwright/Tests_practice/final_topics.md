@@ -1,5 +1,4 @@
-Love this question — this is exactly how a trainer thinks 👏
-Your students know Playwright framework… now we turn them into **job-ready automation testers**.
+
 
 Here’s a **“Finish Strong” checklist** you can use to conclude the training.
 
@@ -180,36 +179,138 @@ Make sure they can explain:
 
 ---
 
-## 🎓 Final Capstone Project (VERY IMPORTANT)
-
-**Give them a mini real-world project:**
-
-Automate an e-commerce flow:
-
-1. Login
-2. Add products
-3. Checkout
-4. Verify order
-
-Include:
-
-* POM
-* Test data file
-* Config for environments
-* HTML report
-* GitHub repo submission
-
-👉 This becomes their **portfolio project**.
+# FINAL PROJECT STRUCTURE
 
 ---
 
-## 🏁 How to close the training
+## 🗂 Final Project Folder Structure (Playwright Framework)
 
-Tell them:
+![Image](https://media.licdn.com/dms/image/v2/D5612AQFp-dPRmCIHew/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1733290299305?e=2147483647\&t=XCdvZlpCKMl3h45E6zhJQxd2ZpT2ewPeprxFb886whE\&v=beta)
 
-> “You are no longer just writing test scripts.
-> You now know how to build, structure, run, debug, and maintain an automation framework like in real companies.”
+![Image](https://techno-geeks.co.in/images/POM%20Structure%20for%20every%20page%20class%20there%20is%20a%20corresponding%20test%20class.png)
+
+![Image](https://soclabs.org/sites/default/files/2023-07/Project%20STructure.png)
+
+![Image](https://media2.dev.to/dynamic/image/width%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36b6e1c76mpk2rke2k3b.png)
+
+```
+playwright-ecommerce-framework/
+│
+├── tests/                  # Test files (only test logic)
+│   ├── login.spec.js
+│   ├── add-to-cart.spec.js
+│   └── checkout.spec.js
+│
+├── pages/                  # Page Object Model classes
+│   ├── LoginPage.js
+│   ├── InventoryPage.js
+│   ├── CartPage.js
+│   └── CheckoutPage.js
+│
+├── test-data/              # Test data files
+│   └── users.json
+│
+├── utils/                  # Reusable helper functions
+│   ├── testHelpers.js
+│   └── constants.js
+│
+├── playwright.config.js    # Main Playwright configuration
+├── global-setup.js         # Runs once before all tests
+├── storageState.json       # Saved login session (auto-generated)
+├── package.json
+└── README.md               # Project explanation
+```
 
 ---
 
-If you want, I can create a **complete final project folder structure example** for your class next.
+## 📁 What Each Folder Teaches
+
+### 🧪 `tests/`
+
+**Purpose:** Contains only test scenarios
+**Student Learning:** Writing clean, readable test cases
+**Rule:** No locators here ❌ Only method calls from Page classes
+
+---
+
+### 🧱 `pages/` (POM Layer)
+
+**Purpose:** Stores all locators and page actions
+**Student Learning:** Framework design & maintainability
+**Example:**
+`LoginPage.login(username, password)`
+
+---
+
+### 📊 `test-data/`
+
+**Purpose:** Separate test data from code
+**Student Learning:** Data-driven testing
+**Example:** Multiple user credentials for login testing
+
+---
+
+### 🛠 `utils/`
+
+**Purpose:** Common reusable code
+**Student Learning:** Avoid duplication
+**Example:** Random email generator, date helper, etc.
+
+---
+
+### ⚙️ `playwright.config.js`
+
+**Purpose:** Controls how tests run
+**Student Learning:** Real-world environment configuration
+Includes:
+
+* Browsers
+* Timeouts
+* Reports
+* Retries
+* Base URL
+
+---
+
+### 🌍 `global-setup.js`
+
+**Purpose:** Prepares environment before tests
+**Student Learning:** Session handling & preconditions
+Example: Login once and save session
+
+---
+
+### 🔐 `storageState.json`
+
+**Purpose:** Stores logged-in session
+**Student Learning:** Speed optimization in test execution
+
+---
+
+### 📄 `README.md`
+
+**Purpose:** Project documentation
+**Student Learning:** Professional project presentation
+Should include:
+
+* How to install
+* How to run tests
+* Framework explanation
+
+---
+
+## 🎯 Final Project Requirements for Students
+
+Ask them to implement:
+
+✅ Page Object Model
+✅ At least 3 test scenarios
+✅ Use test data from JSON
+✅ Use global setup for login
+✅ Generate HTML report
+✅ Push project to GitHub
+
+---
+
+
+

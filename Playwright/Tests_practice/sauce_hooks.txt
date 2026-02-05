@@ -1,0 +1,46 @@
+import { test, expect } from '@playwright/test';
+
+test.describe('SauceDemo Hooks Demo', () => {
+
+  // 🔹 Runs BEFORE every test
+  test.beforeEach(async ({ page }) => {
+    console.log('🔵 Logging into SauceDemo before test');
+
+    await page.goto('https://www.saucedemo.com/');
+    await page.fill('#user-name', 'standard_user');
+    await page.fill('#password', 'secret_sauce');
+    await page.click('#login-button');
+
+    // Verify login success
+    await expect(page).toHaveURL(/inventory/);
+  });
+
+  // 🔹 Runs AFTER every test
+  test.afterEach(async ({ page }) => {
+    console.log('🟠 Logging out after test');
+
+    await page.click('#react-burger-menu-btn');
+    await page.click('#logout_sidebar_link');
+
+    // Verify logout success
+    await expect(page).toHaveURL('https://www.saucedemo.com/');
+  });
+
+  // 🧪 Test 1
+  test('Add a product to cart', async ({ page }) => {
+    await page.click('#add-to-cart-sauce-labs-backpack');
+    await page.click('.shopping_cart_link');
+
+    const cartItem = page.locator('.inventory_item_name');
+    await expect(cartItem).toHaveText('Sauce Labs Backpack');
+  });
+
+  // 🧪 Test 2
+  test('Sort products by price (low to high)', async ({ page }) => {
+    await page.selectOption('.product_sort_container', 'lohi');
+
+    const firstItemPrice = page.locator('.inventory_item_price').first();
+    await expect(firstItemPrice).toHaveText('$7.99');
+  });
+
+});

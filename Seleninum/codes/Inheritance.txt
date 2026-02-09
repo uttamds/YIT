@@ -1,0 +1,79 @@
+package mamatha;
+class Employee {
+    String name, address, drivers_lic;
+    int age;
+
+    void getData(String name, String address, int age, String drivers_lic) {
+        this.name = name;
+        this.address = address;
+        this.age = age;
+        this.drivers_lic = drivers_lic;
+    }
+
+    void showData() {
+        System.out.println("Name: " + name);
+        System.out.println("Address: " + address);
+        System.out.println("Age: " + age);
+        System.out.println("Drivers License: " + drivers_lic);
+    }
+}
+
+class Contract extends Employee {
+    String agency_code;
+
+    void getData(String name, String address, int age, String agency_code, String drivers_lic) {
+        super.getData(name, address, age, drivers_lic);  // Call parent method
+        this.agency_code = agency_code;
+    }
+
+    void showData() {
+        super.showData();  // Show employee details
+        System.out.println("Agency Code: " + agency_code);
+    }
+}
+class Fulltimer extends Employee {
+    String MgrID;
+
+    void getData(String name, String address, int age, String MgrID, String drivers_lic) {
+        super.getData(name, address, age, drivers_lic);  // Call parent method
+        this.MgrID = MgrID;
+    }
+
+    void showData() {
+        super.showData();  // Show employee details
+        System.out.println("Manager ID: " + MgrID);
+    }
+}
+public class CompanyTest {
+    public static void main(String[] args) {
+
+        Contract c = new Contract();
+        c.getData("Ravi", "Mumbai", 28, "AG123", "DRV234982374");
+        System.out.println("---- Contract Employee ----");
+        c.showData();
+
+        System.out.println();
+        
+        Contract c1 = new Contract();
+        c1.getData("Uttam", "Bangalore", 48, "AG007", "DRV23424234");
+        System.out.println("---- Contract Employee ----");
+        c1.showData();
+        
+        System.out.println();
+
+        Fulltimer f = new Fulltimer();
+        f.getData("Anita", "Pune", 30, "MGR456", "DRV2222");
+        System.out.println("---- Fulltime Employee ----");
+        f.showData();
+        
+        System.out.println();
+
+        Fulltimer f1 = new Fulltimer();
+        f1.getData("Tina", "New Jersy", 30, "MGR456", "DRV333333");
+        System.out.println("---- Fulltime Employee ----");
+        f1.showData();
+        
+        
+        
+    }
+}

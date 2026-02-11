@@ -1,0 +1,190 @@
+HTML
+____________
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flight Booking Demo</title>
+  <style>
+    body { font-family: Arial; margin: 40px; }
+    .section { margin-bottom: 25px; }
+    input { padding: 6px; margin: 5px 0; width: 250px; }
+    button { padding: 8px 14px; background: #0078d7; color: white; border: none; cursor: pointer; }
+    #payment-status { font-weight: bold; margin-top: 15px; }
+    #error-message { color: red; }
+  </style>
+</head>
+<body>
+
+  <h2>✈ Flight Booking</h2>
+
+  <div class="section">
+    <button onclick="selectFlight()">Search Flights</button>
+    <button onclick="confirmFlight()">Select Flight</button>
+  </div>
+
+  <div class="section" id="passenger-section" style="display:none;">
+    <h3>Passenger Details</h3>
+    <input type="text" id="name" placeholder="Passenger Name"><br>
+    <input type="email" id="email" placeholder="Email"><br>
+    <button onclick="goToPayment()">Continue to Payment</button>
+  </div>
+
+  <div class="section" id="payment-section" style="display:none;">
+    <h3>Payment</h3>
+    <input type="text" id="cardNumber" placeholder="Card Number"><br>
+    <input type="text" id="cvv" placeholder="CVV"><br>
+    <button onclick="processPayment()">Pay Now</button>
+
+    <div id="payment-status"></div>
+    <div id="transaction-id"></div>
+    <div id="error-message"></div>
+  </div>
+
+<script>
+function selectFlight() {
+  alert("Flights loaded!");
+}
+
+function confirmFlight() {
+  document.getElementById('passenger-section').style.display = 'block';
+}
+
+function goToPayment() {
+  document.getElementById('payment-section').style.display = 'block';
+}
+
+async function processPayment() {
+  document.getElementById('payment-status').innerText = "Processing Payment...";
+  document.getElementById('error-message').innerText = "";
+  document.getElementById('transaction-id').innerText = "";
+
+  const paymentData = {
+    bookingId: "BK1023",
+    amount: 5400,
+    cardNumber: document.getElementById('cardNumber').value,
+    cvv: document.getElementById('cvv').value
+  };
+
+  try {
+    const response = await fetch('/api/payment/process', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(paymentData)
+    });
+
+    const result = await response.json();
+
+    if (result.status === "SUCCESS") {
+      document.getElementById('payment-status').innerText = "Payment Successful";
+      document.getElementById('transaction-id').innerText = "Transaction ID: " + result.transactionId;
+    } else {
+      document.getElementById('payment-status').innerText = "Payment Failed";
+      document.getElementById('error-message').innerText = result.message;
+    }
+
+  } catch (err) {
+    document.getElementById('payment-status').innerText = "Payment Error";
+    document.getElementById('error-message').innerText = "Network issue";
+  }
+}
+</script>
+
+</body>
+</html>
+
+______________
+
+
+
+___________________
+flighttest.spec.js
+___________________
+import { test, expect } from '@playwright/test';
+
+test('Flight booking payment success - mocked', async ({ page }) => {
+
+  // 🔹 Intercept payment API before page loads
+  await page.route('**/api/payment/process', async route => {
+
+    const requestBody = route.request().postDataJSON();
+    console.log('Payment Request Sent:', requestBody);
+
+    // 🔹 Mocked successful payment response
+    await route.fulfill({
+      status: 200,
+      contentType: 'application/json',
+      body: JSON.stringify({
+        status: 'SUCCESS',
+        transactionId: 'TXN123456'
+      })
+    });
+  });
+
+  // Step 1: Open flight booking site
+  await page.goto('http://127.0.0.1:5500/Flight.html');
+
+  // Step 2: Select a flight
+  await page.click('text=Search Flights');
+  await page.click('text=Select Flight');
+
+  // Step 3: Fill passenger details
+  await page.fill('#name', 'Aarav Sharma');
+  await page.fill('#email', 'aarav@test.com');
+  await page.click('text=Continue to Payment');
+
+  // Step 4: Enter payment details
+  await page.fill('#cardNumber', '4111111111111111');
+  await page.fill('#cvv', '123');
+
+  // Step 5: Click Pay Now (this triggers mocked API)
+  await page.click('text=Pay Now');
+
+  // Step 6: Validate success message from mocked response
+  await expect(page.locator('#payment-status'))
+    .toHaveText('Payment Successful');
+
+  await expect(page.locator('#transaction-id'))
+    .toContainText('TXN123456');
+});
+
+
+____________________________
+flighttest_fail.spec.js
+_____________________________
+
+
+import { test, expect } from '@playwright/test';
+test('Flight booking payment failure - mocked', async ({ page }) => {
+
+  await page.route('**/api/payment/process', async route => {
+    await route.fulfill({
+      status: 400,
+      contentType: 'application/json',
+      body: JSON.stringify({
+        status: 'FAILED',
+        message: 'Insufficient funds'        
+      })
+    });
+  });
+
+  await page.goto('http://127.0.0.1:5500/Flight.html');
+  await page.click('text=Search Flights');
+  await page.click('text=Select Flight');
+  await page.click('text=Continue to Payment');
+
+  await page.fill('#cardNumber', '4000000000000002');
+  await page.fill('#cvv', '456');
+
+  await page.click('text=Pay Now');
+
+  await expect(page.locator('#payment-status'))
+    .toHaveText('Payment Failed');
+
+  await expect(page.locator('#error-message'))
+    .toContainText('Insufficient funds');
+});
+
+
+
+
+

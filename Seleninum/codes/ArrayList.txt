@@ -1,0 +1,26 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class StoreNames {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        // Create ArrayList to store names
+        ArrayList<String> names = new ArrayList<>();
+
+        // Accept 3 names from user
+        for (int i = 1; i <= 3; i++) {
+            System.out.print("Enter name " + i + ": ");
+            String name = sc.nextLine();
+            names.add(name);
+        }
+
+        // Display stored names
+        System.out.println("\nNames in the ArrayList:");
+        for (String n : names) {
+            System.out.println(n);
+        }
+
+        sc.close();
+    }
+}

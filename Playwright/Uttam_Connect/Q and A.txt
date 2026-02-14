@@ -1,0 +1,127 @@
+Below are **very simple, bare-minimum answers** (interview-ready, 1–2 lines each):
+
+---
+
+### 1. Key differences between Playwright and Selenium
+
+Playwright is faster, auto-waits, and supports modern browsers natively; Selenium needs manual waits and extra setup.
+
+---
+
+### 2. How does Playwright handle waits and synchronization?
+
+Playwright **auto-waits** for elements, actions, and network to be ready.
+
+---
+
+### 3. What is a BrowserContext and why is it important?
+
+It’s an **isolated browser session** (cookies, cache). Used for parallel and multi-user tests.
+
+---
+
+### 4. How do you design a Playwright automation framework?
+
+Tests + Page Objects + fixtures + config + reports (simple folder structure).
+
+---
+
+### 5. How do you implement Page Object Model in Playwright?
+
+Create classes per page with locators and actions, reuse them in tests.
+
+---
+
+### 6. How can Playwright be used for API testing?
+
+Using `request.newContext()` to send API calls and validate responses.
+
+---
+
+### 7. How do you intercept or mock network requests?
+
+Using `page.route()` to mock or modify requests and responses.
+
+---
+
+### 8. How do you integrate Playwright with CI/CD?
+
+Run tests via CLI in pipelines (GitHub Actions, GitLab, Jenkins).
+
+---
+
+### 9. How do you manage test data and isolation?
+
+Use BrowserContexts, reset data via APIs, avoid shared state.
+
+---
+
+### 10. How do you identify and reduce flaky tests?
+
+Remove hard waits, rely on auto-waits, stable locators, retries.
+
+---
+
+## Advanced / Experience-level
+
+### 11. Why adopt Playwright over Selenium or Cypress?
+
+Better stability, faster runs, built-in waits, cross-browser support.
+
+---
+
+### 12. Strategies to reduce flakiness across teams?
+
+Standard locators, API setup, retries, strict code reviews.
+
+---
+
+### 13. Parallelism, isolation, multi-user at scale?
+
+Parallel tests + separate BrowserContexts per user.
+
+---
+
+### 14. Scalable framework for multiple teams?
+
+Shared standards, reusable components, linting, common configs.
+
+---
+
+### 15. Enforcing POM best practices and code quality?
+
+Code reviews, ESLint, folder rules, shared base classes.
+
+---
+
+### 16. Balancing UI and API automation?
+
+Use API tests for logic, UI tests only for critical flows.
+
+---
+
+### 17. Managing external dependency risks?
+
+Mock unstable services using `page.route()`.
+
+---
+
+### 18. CI/CD for fast, reliable feedback?
+
+Smoke tests on PR, full suite nightly, parallel execution.
+
+---
+
+### 19. Governing test data and environment stability?
+
+Dedicated test envs, API resets, no shared user data.
+
+---
+
+### 20. Measuring effectiveness and ROI?
+
+Track execution time, failure rate, defects caught early.
+
+---
+
+If you want, I can **compress this into a 1-page interview cheat sheet** or **map junior vs senior-level answers**.

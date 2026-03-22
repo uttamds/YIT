@@ -1,0 +1,1201 @@
+Record_ID,Year,Month,Month_Name,Quarter,Branch_Zone,State,Segment,KPI_Name,Budget_INR_Lakhs,Actual_INR_Lakhs,Variance_INR_Lakhs,Variance_Pct,Target_Achieved,RM_Responsible,Last_Updated
+BA00001,2015,7,July,Q3,South Zone,haryana,Priority Banking,Total Deposits,2120.94,1901.5,219.44,-10.35%,No,Arun Mehta,24-07-2015
+BA00002,2016,4,April,Q2,Central Zone,ANDHRA PRADESH,SME Banking,fee income,62.65,51.07,-11.58,-18.48%,No,nitin joshi,11-Apr-24
+BA00003,2015,12,Dec,Q4,West Zone,Andhra Pradesh,retail banking,Cross Sell Revenue,402.34,370.86,-31.48,-7.83%,Y,Priya Nair,20-12-2025
+BA00004,2011,1,January,Q1,west zone,Delhi,Priority Banking,OPERATING EXPENSE,4910.72,5070.77,160.05,3.26%,Yes,Kavitha Subramanian,02-12-2022
+BA00005,2022,1,January,Q1,South Zone,Punjab,NRI Banking,Total Disbursement,3544.84,Rs.2758.37,-786.47,-22.19%,No,Anita Bose,25-Oct-23
+BA00006,2020,7,Jul,Q3,west zone,Gujarat,nri banking,total disbursement,4278.2,3085.47,-1192.73,-27.88%,No,Nitin Joshi,18-08-2021
+BA00007,2025,1,Jan,Q1,North Zone,Kerala,NRI BANKING,Total Deposits,2676.42,3289.57,613.15,22.91%,Yes,Lalita Devi,16-03-2025
+BA00008,2017,9,September,Q3,West Zone,Punjab,NRI Banking,Total Disbursement,2618.79,2604.19,-14.6,-0.56%,No,Arun Mehta,24-09-2017
+BA00009,2025,9,September,Q3,South Zone,Maharashtra,Corporate Banking,Net Interest Income,3604.2,3893.34,289.14,8.02%,YES,  Ramesh Yadav,09-Aug-25
+BA00010,2017,7,July,Q3,East Zone,Odisha,SME Banking,New Customer Acquisition,598.32,498.6,-207.39,-29.38%,No,Deepa Krishnan,24-07-2017
+BA00011,2012,4,April,Q2,East Zone,Tamil Nadu,SME Banking,New Customer Acquisition,769.61,566.29,-203.32,-26.42%,No,sanjay gupta,24-04-2012
+BA00012,2015,11,NOVEMBER,Q4,South Zone,TELANGANA,Corporate Banking,Operating Expense,3601.72,3045.14,-556.58,-15.45%,No,Lalita Devi,24-11-2015
+BA00013,2018,7,July,Q3,West Zone,  Uttar Pradesh,SME Banking,  Fee Income,1840.13,2165.21,325.08,17.67%,yes,Nitin Joshi,28-Dec-24
+BA00014,2020,8,August,Q3,East Zone,Telangana,SME Banking,Operating Expense,4268.9,4512.56,243.66,5.71%,Yes,Kavitha Subramanian,26-Oct-20
+BA00015,2024,4,April,Q2,West Zone,Madhya Pradesh,Retail Banking,Cross Sell Revenue,2989.96,,-612.2,-20.48%,No,Kavitha Subramanian,24-04-2024
+BA00016,2012,10,10,Q4,East Zone,Gujarat,Retail Banking,Cross Sell Revenue,4166.96,3134.94,-1032.02,-24.77,No,Ramesh Yadav,24-10-2012
+BA00017,2010,6,JUNE,Q2,South Zone,Karnataka,Corporate Banking,Fee Income,4436.15,3723.33,-712.82,-16.07%,No,Deepa Krishnan,11-05-2021
+BA00018,2022,6,June,Q2,East Zone,Madhya Pradesh,Retail Banking,Net Interest Income,82.16,76.65,-5.51,-6.70%,No,Mohan Das,29-04-2024
+BA00019,2021,2,FEBRUARY,Q1,Central Zone,Rajasthan,Retail Banking,new customer acquisition,460.308,383.59,Rs.-63.44,-14.19%,No,Sanjay Gupta,21-03-2024
+BA00020,2023,6,June,Q2,Central Zone,Delhi,Retail Banking,OPERATING EXPENSE,909.44,1002.5,93.06,10.23%,Yes,Sunita Rao,30-03-2023
+BA00021,2020,4,April,Q2,central zone,  Andhra Pradesh,NRI Banking,Fee Income,3438.59,2985.24,-453.35,-13.18%,No,Arun Mehta,26-10-2015
+BA00022,2012,11,November,Q4,East Zone,Karnataka,SME Banking,Fee Income,2159.45,2230.49,71.04,3.29%,Yes,  Nitin Joshi,18-02-2017
+BA00023,2010,3,March,Q1,North Zone,Telangana,Corporate Banking,New Customer Acquisition,2052.61,2223.36,170.75,8.32%,Yes,Sanjay Gupta,10-03-2015
+BA00024,2023,9,Sep,Q3,  Central Zone,Tamil Nadu,SME BANKING,Profit Before Tax,Rs.3548.09,3467.38,-80.71,-2.27%,No,Arun Mehta,10-12-2024
+BA00025,2020,4,4,Q2,East Zone,Karnataka,SME Banking,Profit Before Tax,2304.07,1863.72,-440.35,-19.11%,No,anita bose,24-04-2020
+BA00026,2015,5,May,Q2,West Zone,Rajasthan,Priority Banking,Profit Before Tax,Rs.3793.97,2682.64,-1111.33,-29.29%,No,Anita Bose,07-06-2023
+BA00027,2016,6,June,Q2,West Zone,Odisha,  Corporate Banking,Fee Income,Rs.2126.16,1540.54,-585.62,-27.54%,No,Arun Mehta,24-06-2016
+BA00028,2010,7,7,Q3,East Zone,Gujarat,Corporate Banking,Recovery Amount,1108.79,966.52,-142.27,-12.83%,No,Nitin Joshi,10-Nov-19
+BA00029,2015,4,April,Q2,East Zone,Karnataka,NRI Banking,New Customer Acquisition,4160.16,4735.69,,13.83%,Yes,DEEPA KRISHNAN,12-Jul-16
+BA00030,2023,2,February,Q1,East Zone,Punjab,Priority Banking,New Customer Acquisition,4888.96,4743.08,-145.88,-2.98%,No,lalita devi,15-10-2025
+BA00031,2015,8,AUGUST,Q3,West Zone,  Haryana,Corporate Banking,  Total Deposits,1274.16,1179.98,-94.18,-7.39,No,Ramesh Yadav,29-Aug-25
+BA00032,2020,8,August,Q3,West Zone,Kerala,Priority Banking,total deposits,3142.34,3337.92,Rs.195.58,6.22%,Yes,Mohan Das,23-01-2020
+BA00033,2025,11,NOVEMBER,Q4,East Zone,Karnataka,Corporate Banking,Cross Sell Revenue,3794.18,4592.63,798.45,21.04%,Yes,Ramesh Yadav,06-May-25
+BA00034,2022,2,Feb,Q1,  Central Zone,Haryana,Priority Banking,Cross Sell Revenue,4375.54,3981.43,-394.11,-9.01%,No,Priya Nair,24-02-2022
+BA00035,2014,8,Aug,Q3,West Zone,Gujarat,Retail Banking,Fee Income,2085.97,2045.58,-40.39,-1.94%,No,Anita Bose,24-08-2014
+BA00036,2023,4,April,Q2,east zone,Madhya Pradesh,retail banking,Recovery Amount,4670.46,5278.22,,13.01%,Yes,Lalita Devi,21-04-2025
+BA00037,2011,2,February,Q1,West Zone,odisha,NRI Banking,Fee Income,3629.78,4599.03,969.25,26.70%,Yes,Anita Bose,24-02-2011
+BA00038,2011,12,December,Q4,West Zone,Telangana,SME Banking,recovery amount,152.82,192.18,39.36,25.76%,Yes,PRIYA NAIR,24-12-2011
+BA00039,2010,12,Dec,Q4,West Zone,Punjab,sme banking,Recovery Amount,924.3,1022.54,98.24,10.63%,Yes,Kavitha Subramanian,29-10-2024
+BA00040,2010,10,OCTOBER,Q4,North Zone,Telangana,  Retail Banking,Cross Sell Revenue,4196.74,5391.95,1195.21,28.48%,Yes,Mohan Das,02-08-2024
+BA00041,2023,8,Aug,Q3,West Zone,West Bengal,SME Banking,Recovery Amount,1597.91,2019.1,,26.36%,Yes,Priya Nair,08-03-2025
+BA00042,2013,10,October,Q4,South Zone,Tamil Nadu,SME Banking,Net Interest Income,1945.46,2073.35,127.89,6.57%,Yes,Deepa Krishnan,24-10-2013
+BA00043,2013,9,September,Q3,South Zone,kerala,Priority Banking,Fee Income,2870.712,2392.26,395.84,19.83%,Yes,kavitha subramanian,05-Sep-13
+BA00044,2013,4,April,Q2,central zone,Gujarat,Priority Banking,cross sell revenue,1882.36,1922.55,Rs.40.19,2.14%,YES,MEENA IYER,17-Sep-14
+BA00045,2017,5,May,Q2,WEST ZONE,Uttar Pradesh,SME Banking,  Profit Before Tax,3402.56,3950.37,547.81,16.10%,Yes,MOHAN DAS,17-08-2024
+BA00046,2022,11,November,Q4,South Zone,Madhya Pradesh,Priority Banking,Fee Income,3180.49,3523.88,343.39,10.80%,Yes,Sunita Rao,09-09-2024
+BA00047,2019,3,MARCH,Q1,SOUTH ZONE,Telangana,SME Banking,Total Deposits,1698.19,1569.4,Rs.-128.79,-7.58%,No,MEENA IYER,24-03-2019
+BA00048,2023,5,5,Q2,EAST ZONE,Uttar Pradesh,SME Banking,Recovery Amount,2775.97,2672.93,-103.04,-3.71%,No,Ramesh Yadav,03-Jul-24
+BA00049,2014,12,DECEMBER,Q4,South Zone,Odisha,SME BANKING,Operating Expense,785.36,705.81,-79.55,-10.13%,No,Sunita Rao,24-12-2014
+BA00050,2013,7,Jul,Q3,South Zone,Telangana,SME Banking,Total Disbursement,4259.65,3567.03,-692.62,-16.26%,No,Anita Bose,06-02-2021
+BA00051,2020,10,10,Q4,West Zone,UTTAR PRADESH,nri banking,RECOVERY AMOUNT,311.38,Rs.332.21,20.83,6.69%,Yes,Nitin Joshi,29-09-2023
+BA00052,2021,9,September,Q3,North Zone,Uttar Pradesh,Retail Banking,  Fee Income,1795.3,1985.39,190.09,10.59%,Yes,Kavitha Subramanian,24-09-2021
+BA00053,2015,12,Dec,Q4,Central Zone,  Andhra Pradesh,Retail Banking,Total Deposits,3714.46,4746.41,1031.95,27.78%,Yes,Mohan Das,15-12-2021
+BA00054,2014,5,May,Q2,South Zone,Odisha,Corporate Banking,New Customer Acquisition,1979.13,2570.78,591.65,29.89%,Yes,Ramesh Yadav,09-Aug-18
+BA00055,2014,12,December,Q4,North Zone,Uttar Pradesh,Corporate Banking,NPA AMOUNT,1795.56,1855.4,59.84,3.33%,Yes,Sanjay Gupta,05-05-2017
+BA00056,2010,5,MAY,Q2,East Zone,Rajasthan,Corporate Banking,Operating Expense,3853.05,4243.34,390.29,10.13%,YES ,arun mehta,14-11-2019
+BA00057,2011,6,June,Q2,West Zone,Tamil Nadu,Priority Banking,  Fee Income,Rs.4739.61,4029.66,-709.95,-14.98%,No,Sunita Rao,14-Jul-18
+BA00058,2024,10,October,Q4,West Zone,Maharashtra,NRI Banking,New Customer Acquisition,3376.03,3209.48,-166.55,-4.93%,No,Sanjay Gupta,09-05-2025
+BA00059,2013,6,June,Q2,South Zone,Delhi,SME Banking,FEE INCOME,1731.15,1789.74,58.59,3.38%,Yes,Rajesh Sharma,01-Sep-20
+BA00060,2013,8,August,Q3,West Zone,Kerala,RETAIL BANKING,NPA AMOUNT,2824.36,3150.11,325.75,11.53%,Yes,Nitin Joshi,01-12-2017
+BA00061,2012,8,Aug,Q3,South Zone,Kerala,NRI Banking,NPA AMOUNT,685.61,647.03,-38.58,-5.63%,No,lalita devi,24-08-2012
+BA00062,2014,4,April,Q2,Central Zone,Madhya Pradesh,Retail Banking,Recovery Amount,2789.22,2644.07,-145.15,-5.20%,No,Deepa Krishnan,05-11-2023
+BA00063,2024,9,September,Q3,West Zone,kerala,SME Banking,Profit Before Tax,3054.09,2710.2,-343.89,-11.26%,No,Rajesh Sharma,03-01-2025
+BA00064,2010,10,October,Q4,West Zone,Odisha,NRI Banking,Net Interest Income,4742.49,3435.4,-1307.09,-27.56%,No,Ramesh Yadav,17-06-2014
+BA00065,2020,1,January,Q1,north zone,Andhra Pradesh,Priority Banking,Profit Before Tax,2303.64,2274.02,-29.62,-1.29%,No,Arun Mehta,18-09-2021
+BA00066,2011,4,April,Q2,South Zone,UTTAR PRADESH,nri banking,Recovery Amount,1350.57,1377.15,26.58,1.97,Yes,Meena Iyer,24-04-2011
+BA00067,2020,10,October,Q4,CENTRAL ZONE,madhya pradesh,NRI Banking,NPA Amount,2739.51,2822.37,Rs.82.86,3.02%,Yes,Arun Mehta,06-08-2023
+BA00068,2025,12,DECEMBER,Q4,South Zone,Andhra Pradesh,SME Banking,PROFIT BEFORE TAX,186.7,180.3,-6.4,-3.43%,No,Sanjay Gupta,22-05-2025
+BA00069,2025,8,August,Q3,west zone,Andhra Pradesh,Corporate Banking,npa amount,4951.61,4657.35,-294.26,-5.94%,No,Deepa Krishnan,23-09-2025
+BA00070,2015,7,July,Q3,South Zone,Gujarat,Corporate Banking,Profit Before Tax,674.06,740.08,66.02,9.79%,Yes,Lalita Devi,04-12-2023
+BA00071,2011,5,May,Q2,Central Zone,delhi,  NRI Banking,Net Interest Income,1876.38,2064.91,,10.05%,Yes,Anita Bose,24-05-2011
+BA00072,2019,6,Jun,Q2,  West Zone,Rajasthan,Retail Banking,total deposits,1443.86,1384.46,-59.4,-4.11%,No,sanjay gupta,06-03-2019
+BA00073,2024,2,February,Q1,West Zone,  Andhra Pradesh,Retail Banking,Net Interest Income,4453.512,3711.26,582.99,18.64%,Yes,Lalita Devi,26-04-2025
+BA00074,2010,6,June,Q2,South Zone,PUNJAB,  Retail Banking,Operating Expense,1673.79,1984.48,310.69,18.56%,Yes,Lalita Devi,24-06-2010
+BA00075,2012,6,Jun,Q2,Central Zone,Kerala,NRI Banking,  Profit Before Tax,747.06,835.98,88.92,11.90%,Yes,Sanjay Gupta,23-12-2014
+BA00076,2024,4,April,Q2,West Zone,UTTAR PRADESH,SME Banking,Total Disbursement,3727.98,Rs.4325.82,,16.04%,Yes,Vijay Kumar,24-04-2024
+BA00077,2012,4,Apr,Q2,EAST ZONE,Karnataka,Corporate Banking,net interest income,2510.32,2979.46,469.14,18.69%,Yes,Lalita Devi,24-04-2012
+BA00078,2016,6,June,Q2,West Zone,Maharashtra,Priority Banking,Total Deposits,2129.77,2630.77,501,23.52%,Yes,Sunita Rao,16-01-2017
+BA00079,2021,1,1,Q1,EAST ZONE,  Tamil Nadu,sme banking,Net Interest Income,4828.49,5504.18,Rs.675.69,13.99%,YES,  Amit Patel,24-01-2021
+BA00080,2013,2,February,Q1,East Zone,Gujarat,Retail Banking,Total Disbursement,3090.07,3500.32,410.25,13.28,N,  Amit Patel,05-12-2025
+BA00081,2021,8,August,Q3,North Zone,west bengal,Corporate Banking,Recovery Amount,1049.03,1289.27,240.24,22.90%,Yes,Priya Nair,09-01-2021
+BA00082,2014,6,6,Q2,West Zone,Delhi,Priority Banking,total disbursement,1337.05,1493.71,156.66,11.72%,Yes,Lalita Devi,25-Oct-17
+BA00083,2013,2,February,Q1,West Zone,Madhya Pradesh,RETAIL BANKING,NPA Amount,2116.59,2241.95,125.36,5.92%,Yes,Amit Patel,24-02-2013
+BA00084,2017,7,Jul,Q3,North Zone,Gujarat,sme banking,NEW CUSTOMER ACQUISITION,4557.18,5690.76,1133.58,24.87%,YES,  Priya Nair,20-11-2020
+BA00085,2010,10,October,Q4,East Zone,Telangana,SME Banking,NPA Amount,309.44,251.09,-58.35,-18.86%,N,Mohan Das,30-06-2011
+BA00086,2018,5,May,Q2,North Zone,Madhya Pradesh,NRI BANKING,Total Deposits,4713.26,5773.77,1060.51,22.50%,Yes,RAMESH YADAV,16-12-2019
+BA00087,2019,12,DECEMBER,Q4,West Zone,  Andhra Pradesh,  Corporate Banking,Net Interest Income,3182.57,3520.47,337.9,10.62%,Yes,Lalita Devi,24-12-2019
+BA00088,2013,6,June,Q2,East Zone,Punjab,Corporate Banking,Profit Before Tax,3015.49,2808.73,-206.76,-6.86%,No,Anita Bose,24-06-2013
+BA00089,2011,9,September,Q3,West Zone,Gujarat,retail banking,New Customer Acquisition,4708.48,5411.77,,14.94%,Yes,lalita devi,24-09-2011
+BA00090,2022,10,10,Q4,CENTRAL ZONE,delhi,Corporate Banking,Cross Sell Revenue,3741.74,3803.13,61.39,1.64%,Yes,Arun Mehta,20-03-2025
+BA00091,2025,4,4,Q2,East Zone,Gujarat,Priority Banking,New Customer Acquisition,244.54,219.31,-25.23,-10.32%,YES ,ramesh yadav,24-04-2025
+BA00092,2012,6,June,Q2,SOUTH ZONE,Maharashtra,Priority Banking,Operating Expense,3427.74,4416.81,989.07,28.85%,Yes,Anita Bose,24-06-2012
+BA00093,2012,8,Aug,Q3,North Zone,  Maharashtra,NRI Banking,Total Disbursement,1033.92,1222.31,188.39,18.22%,Yes,Arun Mehta,24-08-2012
+BA00094,2019,1,January,Q1,West Zone,Haryana,Corporate Banking,Net Interest Income,4213.11,3975.72,-237.39,-5.63,No,Deepa Krishnan,22-04-2021
+BA00095,2016,6,June,Q2,North Zone,Punjab,Priority Banking,Total Deposits,812.71,832.55,19.84,2.44%,Yes,meena iyer,24-06-2016
+BA00096,2014,2,February,Q1,Central Zone,Punjab,Priority Banking,Cross Sell Revenue,3750.79,4217.12,466.33,12.43%,Yes,ramesh yadav,24-02-2014
+BA00097,2012,4,Apr,Q2,east zone,Telangana,NRI Banking,Net Interest Income,1139.01,897.75,-241.26,-21.18%,No,Sanjay Gupta,24-04-2012
+BA00098,2013,10,October,Q4,Central Zone,Delhi,NRI Banking,Total Disbursement,360.21,344.33,-15.88,-4.41%,No,Vijay Kumar,24-10-2013
+BA00099,2016,8,August,Q3,East Zone,  Haryana,NRI Banking,Net Interest Income,4178.676,3482.23,Rs.-1317.72,-27.45%,No,Nitin Joshi,10-Oct-19
+BA00100,2024,6,June,Q2,WEST ZONE,Karnataka,NRI BANKING,Total Deposits,3293.79,2620.33,-673.46,-20.45%,No,Arun Mehta,24-07-2025
+BA00101,2017,7,July,Q3,Central Zone,Odisha,SME Banking,Total Deposits,2656.79,1913.63,-743.16,-27.97%,Y,Lalita Devi,10-Feb-23
+BA00102,2011,11,November,Q4,North Zone,DELHI,NRI BANKING,NPA Amount,1782.09,1850.76,68.67,3.85%,Yes,Ramesh Yadav,11-02-2020
+BA00103,2010,6,Jun,Q2,West Zone,Andhra Pradesh,SME Banking,FEE INCOME,4360.88,3669.73,-691.15,-15.85%,No ,Arun Mehta,05-10-2025
+BA00104,2016,7,July,Q3,  West Zone,Karnataka,Retail Banking,New Customer Acquisition,165.33,120.87,-44.46,-26.89%,No,Ramesh Yadav,28-01-2018
+BA00105,2022,3,March,Q1,Central Zone,Maharashtra,NRI Banking,cross sell revenue,3759.45,4557.41,797.96,21.23,Yes,priya nair,22-07-2022
+BA00106,2016,6,June,Q2,Central Zone,Punjab,Retail Banking,Recovery Amount,2218.49,2224.05,5.56,0.25%,Yes,Priya Nair,27-10-2025
+BA00107,2016,7,July,Q3,WEST ZONE,West Bengal,RETAIL BANKING,FEE INCOME,2766.23,2251.9,-514.33,-18.59%,No,Anita Bose,17-03-2023
+BA00108,2010,4,April,Q2,South Zone,punjab,Retail Banking,NPA Amount,4109.8,3516.65,-593.15,-14.43%,No,Meena Iyer,23-Apr-12
+BA00109,2013,4,April,Q2,South Zone,Punjab,SME Banking,Fee Income,3072.32,3267.92,195.6,6.37%,Yes,Lalita Devi,24-04-2013
+BA00110,2010,10,October,Q4,North Zone,TELANGANA,Corporate Banking,Net Interest Income,4760.73,Rs.4770.78,10.05,0.21%,Yes,Meena Iyer,24-10-2010
+BA00111,2020,6,June,Q2,North Zone,Uttar Pradesh,retail banking,Total Disbursement,3953.6,4781.9,828.3,20.95%,Yes,Rajesh Sharma,09-Dec-25
+BA00112,2013,2,February,Q1,central zone,Tamil Nadu,Corporate Banking,Net Interest Income,1292.12,1649.41,357.29,27.65%,Yes,KAVITHA SUBRAMANIAN,24-02-2013
+BA00113,2022,7,July,Q3,Central Zone,WEST BENGAL,Priority Banking,NPA Amount,4876.68,4957.13,80.45,1.65%,Yes,nitin joshi,24-07-2022
+BA00114,2017,3,Mar,Q1,North Zone,MADHYA PRADESH,NRI Banking,New Customer Acquisition,1405.43,,-299.94,-21.34%,No,Rajesh Sharma,24-03-2017
+BA00115,2015,7,JULY,Q3,South Zone,Telangana,NRI Banking,CROSS SELL REVENUE,1267.81,1340.71,72.9,5.75,Yes,Anita Bose,24-07-2015
+BA00116,2015,11,NOVEMBER,Q4,South Zone,  Delhi,NRI Banking,New Customer Acquisition,2052.05,2532.53,480.48,23.41%,Yes,Deepa Krishnan,24-11-2015
+BA00117,2021,1,Jan,Q1,  North Zone,Karnataka,sme banking,Net Interest Income,2793.34,2239.1,-554.24,-19.84%,No,Rajesh Sharma,24-01-2021
+BA00118,2010,7,July,Q3,east zone,Punjab,Corporate Banking,  Cross Sell Revenue,Rs.4401.6,3755.37,-646.23,-14.68%,No,Deepa Krishnan,17-02-2011
+BA00119,2016,8,August,Q3,West Zone,Gujarat,  Corporate Banking,Total Disbursement,2447.96,2498.03,50.07,2.05%,Yes,Rajesh Sharma,24-08-2016
+BA00120,2022,2,February,Q1,Central Zone,Punjab,SME BANKING,Recovery Amount,738.09,623.46,-114.63,-15.53%,No,Priya Nair,10-09-2022
+BA00121,2025,8,Aug,Q3,Central Zone,Telangana,Corporate Banking,cross sell revenue,2830.97,3113.71,Rs.282.74,9.99%,Yes,Ramesh Yadav,02-11-2025
+BA00122,2012,9,September,Q3,South Zone,Rajasthan,Retail Banking,Fee Income,4123.23,4454.25,331.02,8.03%,Yes,Kavitha Subramanian,24-09-2012
+BA00123,2012,11,November,Q4,South Zone,GUJARAT,retail banking,NPA Amount,3322.9,4013.23,690.33,20.77%,Yes,Sunita Rao,24-11-2012
+BA00124,2015,7,July,Q3,central zone,Odisha,NRI BANKING,Total Deposits,865.83,1108.16,Rs.242.33,27.99%,Yes,Nitin Joshi,21-Aug-18
+BA00125,2018,9,September,Q3,North Zone,Telangana,NRI Banking,Fee Income,1953.33,1677.3,-276.03,-14.13%,No,Nitin Joshi,24-09-2018
+BA00126,2018,7,July,Q3,Central Zone,Andhra Pradesh,Retail Banking,Cross Sell Revenue,3406.27,3626.12,219.85,6.45%,Yes,Deepa Krishnan,12-10-2022
+BA00127,2022,6,Jun,Q2,East Zone,Karnataka,SME Banking,Profit Before Tax,1942.51,2166.94,Rs.224.43,11.55%,Yes,Kavitha Subramanian,12-03-2022
+BA00128,2022,2,February,Q1,South Zone,  West Bengal,Corporate Banking,Fee Income,1548.58,1715.31,166.73,10.77%,Yes,Ramesh Yadav,24-02-2022
+BA00129,2020,6,June,Q2,North Zone,Andhra Pradesh,Corporate Banking,Net Interest Income,2025.59,1789.31,-236.28,-11.66%,No,Lalita Devi,07-01-2025
+BA00130,2025,1,January,Q1,South Zone,HARYANA,nri banking,New Customer Acquisition,1307.14,1645.81,338.67,25.91%,Yes,Priya Nair,24-01-2025
+BA00131,2023,2,February,Q1,North Zone,Odisha,retail banking,Recovery Amount,484.84,543.35,58.51,12.07%,Yes,  Amit Patel,24-11-2023
+BA00132,2016,11,November,Q4,West Zone,Kerala,corporate banking,  Fee Income,1690.13,Rs.1377.05,-313.08,-18.52%,No,  Amit Patel,01-10-2020
+BA00133,2020,1,Jan,Q1,East Zone,Gujarat,Priority Banking,fee income,2238.16,2825.78,587.62,26.25%,Yes,Arun Mehta,21-Dec-23
+BA00134,2010,3,March,Q1,Central Zone,Kerala,  Priority Banking,NPA AMOUNT,2255.92,2326.06,70.14,3.11%,Yes,Deepa Krishnan,27-Apr-13
+BA00135,2024,8,Aug,Q3,NORTH ZONE,HARYANA,priority banking,npa amount,4586.38,4922.25,335.87,7.32%,Yes,Sunita Rao,21-07-2025
+BA00136,2024,1,January,Q1,North Zone,Punjab,NRI Banking,  Fee Income,1026.23,788.54,-237.69,-23.16%,No,deepa krishnan,31-Dec-25
+BA00137,2010,2,Feb,Q1,Central Zone,KARNATAKA,Retail Banking,New Customer Acquisition,2339.86,2218.77,-121.09,-5.17%,No,PRIYA NAIR,24-02-2010
+BA00138,2015,7,July,Q3,Central Zone,ANDHRA PRADESH,NRI Banking,NPA Amount,1525.14,1757.94,232.8,15.26%,Yes,Deepa Krishnan,30-01-2023
+BA00139,2025,1,January,Q1,North Zone,ANDHRA PRADESH,Priority Banking,New Customer Acquisition,793.37,864.38,71.01,8.95%,Yes,ARUN MEHTA,01-04-2025
+BA00140,2012,6,June,Q2,South Zone,Delhi,SME Banking,Total Disbursement,4949.85,5910.19,960.34,19.4,Yes,Priya Nair,13-08-2023
+BA00141,2017,4,April,Q2,west zone,MAHARASHTRA,retail banking,New Customer Acquisition,2077.43,2337.53,260.1,12.52%,N,Priya Nair,16-05-2022
+BA00142,2024,5,May,Q2,East Zone,Uttar Pradesh,Corporate Banking,  Profit Before Tax,2085.49,1745.58,-339.91,-16.30%,No,sunita rao,08-11-2025
+BA00143,2019,4,April,Q2,South Zone,Andhra Pradesh,sme banking,  Fee Income,2376.67,3021.75,645.08,27.14%,Yes,Kavitha Subramanian,11-03-2022
+BA00144,2010,3,March,Q1,North Zone,West Bengal,Corporate Banking,New Customer Acquisition,1529.34,1148.41,-380.93,-24.91%,No,Kavitha Subramanian,24-03-2010
+BA00145,2010,12,DECEMBER,Q4,West Zone,Odisha,SME Banking,Fee Income,2931.59,3228.43,296.84,10.13%,Yes,SANJAY GUPTA,16-Jan-15
+BA00146,2021,6,June,Q2,South Zone,TELANGANA,SME Banking,Operating Expense,3001.98,2542.71,Rs.-459.27,-15.30%,No,Kavitha Subramanian,27-09-2022
+BA00147,2025,11,November,Q4,East Zone,Haryana,SME BANKING,New Customer Acquisition,1383.78,1334.51,-49.27,-3.56%,No,Mohan Das,12-08-2025
+BA00148,2014,9,September,Q3,Central Zone,Punjab,  Corporate Banking,Net Interest Income,624.57,734.02,109.45,17.52%,Yes,Arun Mehta,24-09-2014
+BA00149,2024,7,7,Q3,  North Zone,Maharashtra,SME Banking,Total Deposits,1620.49,1305.52,-314.97,-19.44,No,Kavitha Subramanian,18-Jan-24
+BA00150,2018,11,Nov,Q4,West Zone,Madhya Pradesh,Retail Banking,Total Disbursement,3275.01,2666.36,-608.65,-18.58%,No,Sanjay Gupta,24-11-2018
+BA00151,2020,7,7,Q3,South Zone,Delhi,Priority Banking,NPA Amount,1107.98,1192.12,84.14,7.59%,Yes,meena iyer,09-03-2022
+BA00152,2025,11,Nov,Q4,central zone,odisha,Priority Banking,npa amount,3455.49,4354.82,899.33,26.03,Yes,Vijay Kumar,24-11-2025
+BA00153,2013,7,July,Q3,East Zone,ANDHRA PRADESH,Retail Banking,  New Customer Acquisition,767.85,618.09,-149.76,-19.50%,No,meena iyer,16-08-2017
+BA00154,2016,2,February,Q1,CENTRAL ZONE,Gujarat,Priority Banking,Operating Expense,4903.05,5526.69,623.64,12.72%,Yes,Sanjay Gupta,05-01-2021
+BA00155,2013,4,Apr,Q2,South Zone,Telangana,Retail Banking,  Total Disbursement,2574.13,3113.95,539.82,20.97%,Yes,Meena Iyer,26-06-2015
+BA00156,2021,3,Mar,Q1,North Zone,UTTAR PRADESH,SME Banking,Total Disbursement,698.26,779.63,81.37,11.65%,Yes,Arun Mehta,24-03-2021
+BA00157,2024,8,AUGUST,Q3,South Zone,Odisha,Priority Banking,NPA Amount,543.08,651.44,108.36,19.95%,Yes,Lalita Devi,17-08-2025
+BA00158,2021,1,Jan,Q1,east zone,Rajasthan,Priority Banking,Fee Income,204.63,182.1,-22.53,-11.01%,N,Sanjay Gupta,03-04-2025
+BA00159,2022,11,November,Q4,West Zone,Andhra Pradesh,NRI Banking,profit before tax,2897.71,2673.75,-223.96,-7.73%,No,LALITA DEVI,03-02-2025
+BA00160,2025,1,JANUARY,Q1,East Zone,West Bengal,sme banking,Total Disbursement,1941.46,2503.77,562.31,28.96,Yes,Kavitha Subramanian,24-01-2025
+BA00161,2018,1,January,Q1,East Zone,Punjab,corporate banking,NPA AMOUNT,1632.46,1470.93,-161.53,-9.90%,No,Rajesh Sharma,15-Nov-23
+BA00162,2013,11,November,Q4,East Zone,telangana,SME Banking,  Fee Income,3768,3275.51,-492.49,-13.07%,No,Meena Iyer,24-11-2013
+BA00163,2020,1,January,Q1,East Zone,  Andhra Pradesh,Retail Banking,RECOVERY AMOUNT,655.8,565.38,-90.42,-13.79%,No,Amit Patel,18-08-2016
+BA00164,2015,11,11,Q4,West Zone,Odisha,Retail Banking,npa amount,4010.02,5173.25,1163.23,29.01%,Yes,Anita Bose,22-09-2023
+BA00165,2014,7,July,Q3,CENTRAL ZONE,West Bengal,Corporate Banking,Net Interest Income,2750.85,3116.19,,13.28%,Yes,Nitin Joshi,01-02-2024
+BA00166,2015,8,August,Q3,  East Zone,Maharashtra,  SME Banking,Recovery Amount,888.11,Rs.960.72,72.61,8.18%,Yes,Deepa Krishnan,11-07-2019
+BA00167,2022,12,DECEMBER,Q4,West Zone,Delhi,Retail Banking,OPERATING EXPENSE,1614.31,1724.76,Rs.110.45,6.84%,Yes,Rajesh Sharma,12-08-2022
+BA00168,2010,6,June,Q2,Central Zone,Karnataka,SME Banking,profit before tax,705.61,634.55,-71.06,-10.07,YES ,Vijay Kumar,26-09-2021
+BA00169,2022,7,July,Q3,West Zone,Telangana,SME Banking,New Customer Acquisition,3955.87,3216.03,-739.84,-18.70%,No,Nitin Joshi,14-Apr-24
+BA00170,2012,11,November,Q4,East Zone,punjab,corporate banking,New Customer Acquisition,3517.84,2732.25,-785.59,-22.33%,No,Vijay Kumar,19-04-2017
+BA00171,2023,11,Nov,Q4,NORTH ZONE,Maharashtra,  Retail Banking,Profit Before Tax,1915.91,1426.75,-489.16,-25.53%,No,amit patel,21-06-2025
+BA00172,2023,6,June,Q2,Central Zone,Telangana,Priority Banking,Fee Income,2189.09,2086.64,-102.45,-4.68%,No,Sunita Rao,24-06-2023
+BA00173,2011,5,MAY,Q2,South Zone,Kerala,Priority Banking,Total Disbursement,2277.29,1636.84,Rs.-640.45,-28.12%,No,Mohan Das,05-Aug-23
+BA00174,2015,2,February,Q1,Central Zone,  Tamil Nadu,Corporate Banking,Fee Income,1930.66,2082.53,151.87,7.87%,Yes,Sanjay Gupta,02-06-2025
+BA00175,2017,1,January,Q1,East Zone,Karnataka,Retail Banking,Profit Before Tax,500.72,611.12,110.4,22.05%,Yes,Priya Nair,23-11-2025
+BA00176,2020,8,August,Q3,South Zone,Maharashtra,Corporate Banking,New Customer Acquisition,3480.25,,-541.62,-15.56,No,Vijay Kumar,06-May-23
+BA00177,2020,4,April,Q2,South Zone,TELANGANA,  Corporate Banking,Recovery Amount,1839.61,1457.2,-382.41,-20.79%,No,Mohan Das,02-10-2023
+BA00178,2022,2,FEBRUARY,Q1,North Zone,Gujarat,Priority Banking,Cross Sell Revenue,Rs.1711.32,1515.61,-195.71,-11.44%,No,ramesh yadav,28-10-2024
+BA00179,2010,12,DECEMBER,Q4,North Zone,Karnataka,SME Banking,New Customer Acquisition,3661.056,3050.88,-596.32,-16.35,No,Sanjay Gupta,25-Oct-24
+BA00180,2010,2,Feb,Q1,Central Zone,ANDHRA PRADESH,Corporate Banking,  NPA Amount,4083.12,2941.15,-1141.97,-27.97%,No,  Amit Patel,20-Mar-12
+BA00181,2023,2,Feb,Q1,SOUTH ZONE,GUJARAT,NRI Banking,total deposits,178.6,190.63,12.03,6.74%,Yes,Lalita Devi,09-06-2025
+BA00182,2024,3,March,Q1,NORTH ZONE,MADHYA PRADESH,Retail Banking,NPA Amount,1415.07,1564.12,149.05,10.53%,Yes,  Amit Patel,24-03-2024
+BA00183,2012,2,February,Q1,north zone,Gujarat,Corporate Banking,Total Disbursement,4938.69,3982.68,,-19.36,No,Ramesh Yadav,29-11-2015
+BA00184,2012,7,July,Q3,South Zone,Karnataka,priority banking,recovery amount,2932.79,3322.05,389.26,13.27%,Yes,Priya Nair,30-10-2022
+BA00185,2023,4,April,Q2,  Central Zone,Odisha,SME BANKING,Total Deposits,1716.65,1591.77,-124.88,-7.27,No,Mohan Das,24-04-2023
+BA00186,2011,4,Apr,Q2,South Zone,  Haryana,NRI Banking,NPA AMOUNT,2083.63,2125.07,41.44,1.99%,Yes,priya nair,24-04-2011
+BA00187,2013,8,August,Q3,Central Zone,Punjab,SME BANKING,  Fee Income,666.32,826.55,160.23,24.05%,Yes,Deepa Krishnan,19-03-2018
+BA00188,2010,11,November,Q4,South Zone,Kerala,RETAIL BANKING,Net Interest Income,3581.83,4101.39,519.56,14.51%,Yes,Anita Bose,24-11-2010
+BA00189,2025,4,April,Q2,West Zone,Tamil Nadu,SME Banking,Total Disbursement,3226.29,2608.61,-617.68,-19.15%,No,Sanjay Gupta,27-11-2025
+BA00190,2010,4,April,Q2,Central Zone,kerala,NRI Banking,New Customer Acquisition,Rs.4011.5,3700.17,-311.33,-7.76%,No,Rajesh Sharma,24-04-2010
+BA00191,2025,5,MAY,Q2,East Zone,Delhi,priority banking,Total Disbursement,2133.95,1496.95,,-29.85%,No,sunita rao,11-Oct-25
+BA00192,2012,5,May,Q2,Central Zone,Haryana,RETAIL BANKING,Recovery Amount,4881.6,5818.87,937.27,19.20%,Yes,Nitin Joshi,24-05-2012
+BA00193,2025,1,JANUARY,Q1,NORTH ZONE,Telangana,SME Banking,PROFIT BEFORE TAX,1084.89,1362.48,277.59,25.59%,N,sunita rao,25-02-2025
+BA00194,2012,8,August,Q3,South Zone,Telangana,NRI Banking,NPA Amount,3670.02,4501.66,831.64,22.66%,Yes,  Ramesh Yadav,24-08-2012
+BA00195,2020,4,April,Q2,West Zone,Andhra Pradesh,NRI Banking,Fee Income,4886.02,5887.07,1001.05,20.49%,Yes,Anita Bose,14-11-2024
+BA00196,2015,7,JULY,Q3,  Central Zone,Rajasthan,  SME Banking,New Customer Acquisition,1516.18,Rs.1649.54,133.36,8.80%,Yes,NITIN JOSHI,25-06-2025
+BA00197,2018,12,DECEMBER,Q4,central zone,Andhra Pradesh,Retail Banking,Total Disbursement,915.6,1089.68,174.08,19.01%,Yes,Deepa Krishnan,17-Feb-24
+BA00198,2020,2,FEBRUARY,Q1,Central Zone,West Bengal,Priority Banking,Operating Expense,Rs.1433.17,,80.29,5.60%,Yes,Nitin Joshi,10-02-2024
+BA00199,2010,3,March,Q1,North Zone,Rajasthan,SME Banking,Cross Sell Revenue,1256.12,1459.03,202.91,16.15%,Yes,Anita Bose,24-03-2010
+BA00200,2022,6,June,Q2,South Zone,Delhi,SME Banking,Recovery Amount,2085.77,2099.66,13.89,0.67%,Yes,Priya Nair,15-11-2024
+BA00201,2022,1,January,Q1,North Zone,Delhi,Priority Banking,FEE INCOME,1347.39,1090.66,-256.73,-19.05%,No,Ramesh Yadav,14-09-2025
+BA00202,2020,8,Aug,Q3,South Zone,Kerala,NRI Banking,Net Interest Income,Rs.1230.22,1478.18,247.96,20.16%,Yes,Sanjay Gupta,03-04-2025
+BA00203,2014,9,September,Q3,East Zone,kerala,Corporate Banking,PROFIT BEFORE TAX,2154.11,1989.99,-164.12,-7.62,No,  Kavitha Subramanian,23-12-2019
+BA00204,2023,9,September,Q3,Central Zone,Punjab,PRIORITY BANKING,New Customer Acquisition,2148.28,2205.02,Rs.56.74,2.64%,Yes,Priya Nair,24-09-2023
+BA00205,2015,10,October,Q4,South Zone,  Andhra Pradesh,corporate banking,Recovery Amount,3383.5,3821.14,437.64,12.93%,Yes,  Meena Iyer,04-07-2025
+BA00206,2011,8,August,Q3,North Zone,Madhya Pradesh,SME BANKING,Operating Expense,1355.21,1395.77,40.56,2.99%,Yes,Sunita Rao,27-08-2015
+BA00207,2020,3,March,Q1,Central Zone,HARYANA,SME Banking,New Customer Acquisition,2038,2509.85,471.85,23.15%,Yes,Sanjay Gupta,17-06-2021
+BA00208,2025,6,June,Q2,NORTH ZONE,Delhi,Corporate Banking,Operating Expense,581.44,620.16,38.72,6.66%,Yes,LALITA DEVI,24-06-2025
+BA00209,2020,1,January,Q1,east zone,Rajasthan,SME Banking,New Customer Acquisition,498.22,428.65,-69.57,-13.96%,yes,Amit Patel,21-01-2022
+BA00210,2020,7,July,Q3,west zone,MADHYA PRADESH,SME Banking,total disbursement,568.464,473.72,22.98,5.10%,Yes,Sanjay Gupta,24-07-2020
+BA00211,2016,1,January,Q1,Central Zone,Tamil Nadu,Retail Banking,fee income,2098.54,1939.29,-159.25,-7.59%,No,sunita rao,24-01-2016
+BA00212,2011,3,March,Q1,East Zone,Punjab,Priority Banking,Total Deposits,2274.43,1731.57,-542.86,-23.87%,No,ANITA BOSE,28-05-2011
+BA00213,2022,4,Apr,Q2,NORTH ZONE,Rajasthan,Corporate Banking,Total Disbursement,3922.29,4386.58,464.29,11.84%,Yes,meena iyer,09-06-2025
+BA00214,2019,11,November,Q4,West Zone,delhi,  Retail Banking,Cross Sell Revenue,1908.05,1527.97,-380.08,-19.92%,Y,Ramesh Yadav,24-11-2019
+BA00215,2025,7,July,Q3,West Zone,West Bengal,SME Banking,Cross Sell Revenue,1214.88,925.77,-289.11,-23.80%,No,KAVITHA SUBRAMANIAN,08-01-2025
+BA00216,2020,1,January,Q1,North Zone,Punjab,Corporate Banking,  Operating Expense,393.51,337.05,-56.46,-14.35%,Y,  Arun Mehta,10-03-2025
+BA00217,2024,2,February,Q1,West Zone,Telangana,Priority Banking,Cross Sell Revenue,176.43,199.57,23.14,13.12%,Yes,Priya Nair,30-05-2025
+BA00218,2011,10,October,Q4,South Zone,Karnataka,corporate banking,Net Interest Income,Rs.709.49,813.71,104.22,14.69,Yes,Meena Iyer,24-10-2011
+BA00219,2020,12,December,Q4,East Zone,Punjab,CORPORATE BANKING,Total Disbursement,4478.42,5085.32,606.9,13.55%,Yes,ARUN MEHTA,24-12-2020
+BA00220,2015,2,February,Q1,North Zone,gujarat,SME Banking,Total Deposits,1480.23,1055.79,-424.44,-28.67%,No,Meena Iyer,24-02-2015
+BA00221,2020,6,June,Q2,West Zone,UTTAR PRADESH,SME Banking,  New Customer Acquisition,3291.89,2626.44,Rs.-665.45,-20.21%,No,Nitin Joshi,07-08-2023
+BA00222,2019,1,JANUARY,Q1,  North Zone,Delhi,Corporate Banking,Profit Before Tax,1609.14,1705.41,96.27,5.98%,Yes,DEEPA KRISHNAN,11-10-2019
+BA00223,2019,7,Jul,Q3,West Zone,  Andhra Pradesh,corporate banking,cross sell revenue,1657.52,2013.51,355.99,21.48%,Yes,Sunita Rao,25-07-2019
+BA00224,2010,12,December,Q4,East Zone,gujarat,Retail Banking,  NPA Amount,4940.23,4371.8,-568.43,-11.51%,N,sunita rao,24-12-2010
+BA00225,2020,10,October,Q4,Central Zone,Kerala,Priority Banking,Operating Expense,56.6,72.71,16.11,28.47%,Yes,Sunita Rao,24-02-2022
+BA00226,2017,11,November,Q4,South Zone,Karnataka,Priority Banking,New Customer Acquisition,2147.8,2551.96,404.16,18.82%,Yes,Sunita Rao,05-09-2021
+BA00227,2018,2,February,Q1,North Zone,Haryana,sme banking,Net Interest Income,2809.43,3281.99,472.56,16.82%,Yes,Amit Patel,02-01-2020
+BA00228,2016,4,April,Q2,West Zone,  Andhra Pradesh,Corporate Banking,Total Disbursement,4206.97,3578.78,-628.19,-14.93%,No,Lalita Devi,13-Mar-23
+BA00229,2010,12,Dec,Q4,West Zone,MAHARASHTRA,NRI Banking,  Fee Income,4739.4,5339.38,599.98,12.66%,Yes,Rajesh Sharma,07-03-2023
+BA00230,2015,8,August,Q3,South Zone,Punjab,Corporate Banking,NET INTEREST INCOME,2665.37,,-661.94,-24.83,No,Meena Iyer,04-10-2016
+BA00231,2017,12,December,Q4,West Zone,Odisha,Corporate Banking,New Customer Acquisition,3841.5,3787.55,Rs.-53.95,-1.40%,No,Amit Patel,05-05-2018
+BA00232,2025,9,September,Q3,Central Zone,Rajasthan,  NRI Banking,NEW CUSTOMER ACQUISITION,711.62,545.01,-166.61,-23.41%,No,Anita Bose,24-05-2025
+BA00233,2014,12,December,Q4,central zone,Kerala,NRI Banking,net interest income,2189.6,2406.12,216.52,9.89%,Yes,Anita Bose,28-12-2018
+BA00234,2014,11,November,Q4,East Zone,Gujarat,SME Banking,New Customer Acquisition,2517.66,1996.21,-521.45,-20.71%,No,vijay kumar,20-10-2022
+BA00235,2016,3,March,Q1,East Zone,Karnataka,SME Banking,NPA AMOUNT,2688.108,2240.09,-749.83,-25.08%,No,anita bose,26-Aug-21
+BA00236,2011,4,Apr,Q2,CENTRAL ZONE,  Uttar Pradesh,Priority Banking,New Customer Acquisition,216.46,219.05,2.59,1.20%,Yes,Priya Nair,24-04-2011
+BA00237,2015,9,September,Q3,south zone,punjab,SME BANKING,Net Interest Income,1047.63,839.92,-207.71,-19.83%,No,Priya Nair,24-09-2015
+BA00238,2013,4,April,Q2,East Zone,madhya pradesh,NRI Banking,net interest income,3026.78,2258.35,-768.43,-25.39%,No,  Sanjay Gupta,22-11-2014
+BA00239,2022,9,September,Q3,Central Zone,HARYANA,  Priority Banking,PROFIT BEFORE TAX,953.85,876.95,-76.9,-8.06%,No,Sunita Rao,08-01-2025
+BA00240,2019,6,June,Q2,Central Zone,Rajasthan,SME Banking,Recovery Amount,771.3,959.34,188.04,24.38%,Yes,ANITA BOSE,24-06-2019
+BA00241,2018,10,October,Q4,West Zone,Uttar Pradesh,Retail Banking,Total Disbursement,813.69,,-99.13,-12.18%,No,kavitha subramanian,24-10-2018
+BA00242,2016,1,January,Q1,South Zone,MAHARASHTRA,SME Banking,Total Deposits,56.484,47.07,-16.18,-25.57%,No,Mohan Das,12-02-2024
+BA00243,2015,12,December,Q4,Central Zone,  Andhra Pradesh,RETAIL BANKING,Total Disbursement,Rs.1212.39,997.31,-215.08,-17.74%,No,Sanjay Gupta,12-06-2023
+BA00244,2019,8,August,Q3,West Zone,Delhi,Corporate Banking,Cross Sell Revenue,101.52,71.33,-30.19,-29.74%,No,Nitin Joshi,28-06-2023
+BA00245,2021,6,6,Q2,Central Zone,Odisha,NRI Banking,Cross Sell Revenue,4298.51,4680.6,382.09,8.89%,Yes,Rajesh Sharma,21-03-2025
+BA00246,2018,5,May,Q2,North Zone,WEST BENGAL,Priority Banking,NPA Amount,3842.66,4822.9,980.24,25.51%,Yes,Vijay Kumar,11-01-2022
+BA00247,2024,6,June,Q2,south zone,Telangana,SME Banking,Operating Expense,4113.22,4245.01,131.79,3.20%,Yes,sunita rao,04-07-2025
+BA00248,2013,3,MARCH,Q1,South Zone,Haryana,NRI Banking,Profit Before Tax,4386.32,3373.82,-1012.5,-23.08%,No,Nitin Joshi,05-Jan-16
+BA00249,2020,10,Oct,Q4,East Zone,Uttar Pradesh,SME Banking,RECOVERY AMOUNT,1304.8,1496.14,191.34,14.66%,Yes,Deepa Krishnan,14-11-2011
+BA00250,2022,7,July,Q3,North Zone,Delhi,SME Banking,NEW CUSTOMER ACQUISITION,1016.48,1277.6,261.12,25.69,Yes,  Amit Patel,26-Mar-24
+BA00251,2024,12,Dec,Q4,South Zone,Maharashtra,  SME Banking,total disbursement,2866.19,2194.81,-671.38,-23.42%,No,Priya Nair,01-02-2025
+BA00252,2017,4,Apr,Q2,West Zone,Telangana,SME Banking,NPA Amount,222.22,223.29,1.07,0.48%,Yes,Nitin Joshi,29-01-2019
+BA00253,2010,3,Mar,Q1,WEST ZONE,Telangana,nri banking,  Recovery Amount,2167,2350.61,183.61,8.47%,Yes,Arun Mehta,24-03-2010
+BA00254,2023,12,DECEMBER,Q4,South Zone,Madhya Pradesh,sme banking,Recovery Amount,2685.59,3292.27,606.68,22.59%,Yes,  Kavitha Subramanian,24-12-2023
+BA00255,2016,4,April,Q2,south zone,Telangana,RETAIL BANKING,Recovery Amount,2845.53,2396.44,-449.09,-15.78,No,Nitin Joshi,24-04-2016
+BA00256,2025,4,April,Q2,Central Zone,Tamil Nadu,SME BANKING,total disbursement,3506,2977.49,-528.51,-15.07%,No,RAMESH YADAV,23-11-2025
+BA00257,2025,10,Oct,Q4,East Zone,Gujarat,NRI BANKING,New Customer Acquisition,731.82,667.83,-63.99,-8.74%,No,anita bose,24-10-2025
+BA00258,2024,4,APRIL,Q2,South Zone,Punjab,Retail Banking,Fee Income,2038.14,1628.85,-409.29,-20.08%,No,Anita Bose,24-04-2024
+BA00259,2017,9,Sep,Q3,South Zone,Telangana,  Corporate Banking,New Customer Acquisition,1810.68,1847.43,36.75,2.03,Yes,ramesh yadav,28-05-2025
+BA00260,2022,6,June,Q2,Central Zone,Tamil Nadu,Priority Banking,Recovery Amount,3706.58,3765.16,,1.58%,Yes,Amit Patel,21-02-2023
+BA00261,2021,4,April,Q2,East Zone,Karnataka,priority banking,Profit Before Tax,4998.97,5479.83,480.86,9.62%,Yes,Sunita Rao,22-Apr-23
+BA00262,2015,4,April,Q2,North Zone,RAJASTHAN,Retail Banking,profit before tax,4278.97,3467.28,-811.69,-18.97%,No,Deepa Krishnan,15-May-24
+BA00263,2010,10,10,Q4,South Zone,Haryana,Retail Banking,Recovery Amount,356.55,328.04,-28.51,-8.00%,No,Nitin Joshi,24-10-2010
+BA00264,2011,12,December,Q4,Central Zone,Maharashtra,Retail Banking,Total Deposits,1667.7,1318.2,-349.5,-20.96%,Y,PRIYA NAIR,08-06-2013
+BA00265,2018,9,September,Q3,West Zone,Karnataka,SME BANKING,New Customer Acquisition,2365.89,2797.67,431.78,18.25%,Yes,Priya Nair,24-09-2018
+BA00266,2016,10,OCTOBER,Q4,North Zone,TELANGANA,Retail Banking,Fee Income,4547.05,3777.78,,-16.92%,No,SANJAY GUPTA,09-Feb-24
+BA00267,2011,4,Apr,Q2,East Zone,Madhya Pradesh,Retail Banking,total deposits,1163.35,Rs.1286.14,122.79,10.55%,Yes,Vijay Kumar,24-08-2017
+BA00268,2023,12,12,Q4,north zone,  Andhra Pradesh,Corporate Banking,npa amount,Rs.4709.01,4753.58,44.57,0.95%,Yes,Nitin Joshi,24-12-2023
+BA00269,2023,2,Feb,Q1,east zone,Uttar Pradesh,PRIORITY BANKING,Cross Sell Revenue,2121.39,1827.65,Rs.-293.74,-13.85%,No,Deepa Krishnan,22-Apr-25
+BA00270,2025,7,Jul,Q3,West Zone,Uttar Pradesh,Priority Banking,Profit Before Tax,880.97,1119.53,238.56,27.08%,Yes,Arun Mehta,04-03-2025
+BA00271,2020,1,January,Q1,South Zone,karnataka,Priority Banking,NPA Amount,3723.71,3057.26,-666.45,-17.90%,No,Vijay Kumar,31-Aug-22
+BA00272,2025,1,January,Q1,West Zone,Punjab,  Corporate Banking,Operating Expense,3154.16,2503.88,-650.28,-20.62%,No,Rajesh Sharma,25-03-2025
+BA00273,2017,7,Jul,Q3,West Zone,Maharashtra,NRI Banking,Total Disbursement,842.44,889.04,Rs.46.6,5.53%,Yes,Meena Iyer,24-07-2017
+BA00274,2020,4,April,Q2,West Zone,Punjab,Retail Banking,Total Disbursement,210.47,187.03,-23.44,-11.14%,No,  Priya Nair,15-09-2023
+BA00275,2016,4,April,Q2,  Central Zone,andhra pradesh,SME Banking,cross sell revenue,903.08,999.17,96.09,10.64%,YES,rajesh sharma,10-Mar-17
+BA00276,2016,2,February,Q1,South Zone,  Andhra Pradesh,Retail Banking,Net Interest Income,2021.12,Rs.2348.6,327.48,16.20%,yes,  Mohan Das,02-05-2022
+BA00277,2023,7,July,Q3,West Zone,Karnataka,Retail Banking,Recovery Amount,1520.25,1520.92,0.67,0.04%,Yes,Sanjay Gupta,15-Mar-25
+BA00278,2010,8,August,Q3,East Zone,Madhya Pradesh,Priority Banking,  Total Deposits,1153.79,1400.19,246.4,21.36%,Yes,Sunita Rao,21-09-2018
+BA00279,2011,7,July,Q3,South Zone,rajasthan,SME Banking,  Fee Income,1741.86,1379.15,-362.71,-20.82%,No,ramesh yadav,24-07-2011
+BA00280,2020,10,October,Q4,West Zone,West Bengal,SME Banking,Net Interest Income,3422.74,2963.44,-459.3,-13.42%,No,Vijay Kumar,18-05-2020
+BA00281,2015,10,October,Q4,East Zone,Andhra Pradesh,Priority Banking,Cross Sell Revenue,2847.53,2153.84,-693.69,-24.36%,No,Vijay Kumar,22-03-2020
+BA00282,2010,9,SEPTEMBER,Q3,North Zone,  Andhra Pradesh,SME Banking,New Customer Acquisition,1799.19,1742.52,-56.67,-3.15%,No,Amit Patel,24-09-2010
+BA00283,2021,9,September,Q3,Central Zone,Andhra Pradesh,sme banking,Cross Sell Revenue,1133.67,1272.71,139.04,12.26%,Yes,SUNITA RAO,17-09-2025
+BA00284,2020,8,August,Q3,north zone,Gujarat,Priority Banking,New Customer Acquisition,881.96,969.33,87.37,9.91%,Yes,Amit Patel,24-08-2020
+BA00285,2020,9,September,Q3,south zone,  Kerala,retail banking,fee income,3840.58,4733.5,892.92,23.25%,Yes,Arun Mehta,24-09-2020
+BA00286,2021,4,April,Q2,  West Zone,  Maharashtra,nri banking,Net Interest Income,1098.91,917.72,-181.19,-16.49,No,Meena Iyer,24-04-2021
+BA00287,2025,3,March,Q1,EAST ZONE,Gujarat,Priority Banking,fee income,193.1,157.88,-35.22,-18.24%,No,Deepa Krishnan,27-06-2025
+BA00288,2010,10,October,Q4,Central Zone,Rajasthan,Corporate Banking,New Customer Acquisition,1135.08,1244.66,109.58,9.65%,Yes,Rajesh Sharma,20-10-2023
+BA00289,2015,5,May,Q2,North Zone,Delhi,NRI Banking,Fee Income,4507.63,4730.96,223.33,4.95%,Yes,  Vijay Kumar,01-09-2022
+BA00290,2015,5,May,Q2,West Zone,Haryana,NRI Banking,Profit Before Tax,2093.13,1793.07,-300.06,-14.34%,No,Priya Nair,24-05-2015
+BA00291,2011,4,April,Q2,West Zone,West Bengal,SME Banking,NPA Amount,1552.78,1648.42,95.64,6.16%,Yes,priya nair,24-04-2011
+BA00292,2011,12,DECEMBER,Q4,East Zone,maharashtra,  Corporate Banking,Total Deposits,4057.91,4292.77,234.86,5.79%,No ,Rajesh Sharma,24-12-2011
+BA00293,2011,12,December,Q4,East Zone,TELANGANA,NRI Banking,Cross Sell Revenue,536.52,382.02,-154.5,-28.80%,No,Deepa Krishnan,24-12-2011
+BA00294,2018,11,November,Q4,East Zone,Tamil Nadu,  Priority Banking,New Customer Acquisition,1956.92,1793.63,-163.29,-8.34%,No,Deepa Krishnan,29-Oct-22
+BA00295,2017,12,December,Q4,North Zone,Telangana,RETAIL BANKING,Total Deposits,3934.18,4851.08,916.9,23.31%,Yes,Arun Mehta,02-09-2021
+BA00296,2025,2,Feb,Q1,  Central Zone,gujarat,Priority Banking,total disbursement,1887.51,2237.49,349.98,18.54%,Yes,arun mehta,20-09-2025
+BA00297,2013,2,2,Q1,  West Zone,maharashtra,Retail Banking,new customer acquisition,3154.6,2510.03,-644.57,-20.43%,No,Rajesh Sharma,30-12-2013
+BA00298,2015,1,January,Q1,South Zone,Haryana,Retail Banking,Operating Expense,3536.26,,775.2,21.92,Yes,Vijay Kumar,20-11-2015
+BA00299,2011,8,August,Q3,West Zone,Delhi,Corporate Banking,Recovery Amount,1991.98,1443.4,-548.58,-27.54%,No,Rajesh Sharma,09-Mar-11
+BA00300,2014,8,AUGUST,Q3,NORTH ZONE,TAMIL NADU,  Corporate Banking,PROFIT BEFORE TAX,2914.82,3087.78,172.96,5.93%,Yes,Priya Nair,06-07-2014
+BA00301,2019,4,April,Q2,Central Zone,Uttar Pradesh,SME Banking,NPA Amount,1565.628,1304.69,294.81,29.19%,Yes,deepa krishnan,24-04-2019
+BA00302,2015,9,Sep,Q3,East Zone,Delhi,Retail Banking,recovery amount,928.06,738.44,-189.62,-20.43%,No,Sunita Rao,24-09-2015
+BA00303,2022,4,April,Q2,North Zone,ODISHA,Retail Banking,Total Deposits,1786.51,1258.42,-528.09,-29.56,No,Mohan Das,10-08-2024
+BA00304,2011,3,March,Q1,east zone,Gujarat,Corporate Banking,net interest income,4968.26,4099.99,Rs.-868.27,-17.48%,No,Amit Patel,31-10-2011
+BA00305,2013,3,March,Q1,Central Zone,Rajasthan,Corporate Banking,Total Deposits,3389.1,3232.16,-156.94,-4.63%,No,Deepa Krishnan,24-03-2013
+BA00306,2025,8,August,Q3,East Zone,West Bengal,Corporate Banking,NEW CUSTOMER ACQUISITION,1012.26,950.93,-61.33,-6.06%,No,  Arun Mehta,08-12-2025
+BA00307,2020,6,June,Q2,West Zone,Karnataka,  Corporate Banking,fee income,3061.03,2882.32,-178.71,-5.84%,No,RAMESH YADAV,09-01-2023
+BA00308,2022,9,September,Q3,EAST ZONE,Maharashtra,SME Banking,Profit Before Tax,1432.71,1543.76,111.05,7.75%,YES ,Mohan Das,31-03-2025
+BA00309,2012,10,October,Q4,East Zone,Madhya Pradesh,NRI Banking,Recovery Amount,2643.37,2563.98,-79.39,-3.00%,No,  Amit Patel,14-01-2014
+BA00310,2023,8,Aug,Q3,South Zone,Maharashtra,Priority Banking,cross sell revenue,1820.85,1366.79,-454.06,-24.94%,No,Vijay Kumar,27-Dec-25
+BA00311,2019,2,2,Q1,North Zone,Delhi,Retail Banking,RECOVERY AMOUNT,1505.6,1591.42,85.82,5.70%,Yes,Mohan Das,10-12-2023
+BA00312,2020,7,7,Q3,north zone,odisha,retail banking,Total Deposits,2962.36,3596.13,633.77,21.39%,Yes,  Amit Patel,10-08-2020
+BA00313,2014,9,September,Q3,East Zone,  Tamil Nadu,Corporate Banking,Fee Income,1169.46,Rs.1182.04,12.58,1.08%,YES ,Kavitha Subramanian,24-09-2014
+BA00314,2014,6,June,Q2,West Zone,Uttar Pradesh,SME Banking,Total Disbursement,2545.44,2612.02,66.58,2.62%,Yes,Arun Mehta,04-06-2020
+BA00315,2013,2,February,Q1,East Zone,Karnataka,Corporate Banking,NPA Amount,3545.62,3913.6,367.98,10.38%,Yes,Deepa Krishnan,21-10-2022
+BA00316,2016,1,January,Q1,North Zone,Telangana,Corporate Banking,OPERATING EXPENSE,188.57,199.26,10.69,5.67%,Yes,Vijay Kumar,09-Dec-25
+BA00317,2019,6,June,Q2,South Zone,Punjab,PRIORITY BANKING,total deposits,750.03,579.59,-170.44,-22.72%,No,RAMESH YADAV,17-07-2022
+BA00318,2014,1,January,Q1,West Zone,Andhra Pradesh,corporate banking,recovery amount,333.46,416.33,82.87,24.85%,Yes,deepa krishnan,31-05-2019
+BA00319,2024,9,September,Q3,South Zone,Madhya Pradesh,NRI BANKING,Fee Income,3921.92,2770.28,-1151.64,-29.36%,No,priya nair,20-02-2024
+BA00320,2010,12,DECEMBER,Q4,South Zone,UTTAR PRADESH,sme banking,Total Deposits,4508.01,3881.98,Rs.-626.03,-13.89%,No,SUNITA RAO,29-01-2011
+BA00321,2025,8,August,Q3,South Zone,Uttar Pradesh,Priority Banking,  Profit Before Tax,3854.91,2740.08,-1114.83,-28.92%,No,ARUN MEHTA,29-11-2025
+BA00322,2024,3,Mar,Q1,Central Zone,  Andhra Pradesh,Corporate Banking,Recovery Amount,2720.02,3040.77,320.75,11.79%,Yes,Anita Bose,24-03-2024
+BA00323,2015,7,July,Q3,West Zone,Maharashtra,Corporate Banking,Fee Income,3995.25,4455.51,460.26,11.52%,Yes,Sanjay Gupta,26-Mar-21
+BA00324,2021,7,July,Q3,Central Zone,GUJARAT,Corporate Banking,NPA Amount,4433.58,4895.25,461.67,10.41%,Yes,lalita devi,24-07-2021
+BA00325,2022,5,May,Q2,NORTH ZONE,Maharashtra,Retail Banking,Recovery Amount,3962.03,4359.79,397.76,10.04%,Yes,Nitin Joshi,24-05-2022
+BA00326,2014,1,January,Q1,EAST ZONE,  Andhra Pradesh,Priority Banking,NPA Amount,416.83,521.83,105,25.19%,Yes,Nitin Joshi,06-08-2014
+BA00327,2012,11,November,Q4,West Zone,  Telangana,Retail Banking,Profit Before Tax,581.17,520.38,-60.79,-10.46%,No,Kavitha Subramanian,24-11-2012
+BA00328,2020,3,March,Q1,South Zone,PUNJAB,NRI Banking,Recovery Amount,3241.5,2840.2,-401.3,-12.38%,No,Nitin Joshi,01-01-2021
+BA00329,2020,2,February,Q1,Central Zone,Uttar Pradesh,Priority Banking,Total Deposits,52.66,51.35,-1.31,-2.50%,No,Sunita Rao,24-02-2020
+BA00330,2020,12,December,Q4,West Zone,Maharashtra,NRI Banking,Cross Sell Revenue,4599.01,3312.73,-1286.28,-27.97%,No,  Amit Patel,12-02-2018
+BA00331,2015,2,FEBRUARY,Q1,south zone,MAHARASHTRA,Corporate Banking,Cross Sell Revenue,1754.29,1609.98,-144.31,-8.23%,No,Ramesh Yadav,17-05-2015
+BA00332,2014,6,June,Q2,South Zone,Rajasthan,Priority Banking,Profit Before Tax,977.15,981.04,3.89,0.40%,Yes,RAJESH SHARMA,10-Jul-18
+BA00333,2023,1,January,Q1,East Zone,Punjab,SME Banking,Total Disbursement,4506.05,4885.65,379.6,8.42%,Yes,Arun Mehta,24-01-2023
+BA00334,2020,5,May,Q2,Central Zone,Odisha,Priority Banking,Total Deposits,722.44,844.57,Rs.122.13,16.91%,YES ,Rajesh Sharma,07-Nov-19
+BA00335,2019,8,August,Q3,North Zone,RAJASTHAN,Priority Banking,Recovery Amount,4397.23,3389.83,-1007.4,-22.91%,No,Kavitha Subramanian,11-Dec-22
+BA00336,2020,9,September,Q3,West Zone,Punjab,  SME Banking,Net Interest Income,Rs.3682.0,4500.69,818.69,22.23%,Yes,sunita rao,20-09-2024
+BA00337,2018,8,August,Q3,West Zone,Maharashtra,  Corporate Banking,Cross Sell Revenue,1462.64,,-333.27,-22.79%,No,vijay kumar,10-09-2018
+BA00338,2011,11,November,Q4,West Zone,TAMIL NADU,Retail Banking,Recovery Amount,4370.97,4846.77,475.8,10.89%,Yes,Meena Iyer,03-07-2015
+BA00339,2018,10,Oct,Q4,north zone,Andhra Pradesh,  NRI Banking,NPA Amount,4426.48,3841.7,-584.78,-13.21%,No,Mohan Das,29-05-2024
+BA00340,2022,5,May,Q2,North Zone,Uttar Pradesh,Corporate Banking,FEE INCOME,231.78,239.88,8.1,3.50%,Yes,Rajesh Sharma,05-Feb-25
+BA00341,2010,3,March,Q1,North Zone,Delhi,retail banking,OPERATING EXPENSE,1726.38,2094,367.62,21.29%,Yes,Lalita Devi,21-May-17
+BA00342,2012,3,March,Q1,West Zone,  Tamil Nadu,NRI Banking,  Fee Income,2948.63,3826.2,877.57,29.76%,Yes,  Amit Patel,02-09-2023
+BA00343,2017,6,June,Q2,West Zone,Gujarat,Retail Banking,Cross Sell Revenue,3834.04,4580.13,,19.46%,Yes,DEEPA KRISHNAN,15-Jul-23
+BA00344,2010,5,May,Q2,South Zone,Andhra Pradesh,Corporate Banking,Profit Before Tax,665.27,634.44,-30.83,-4.63%,No,RAMESH YADAV,04-09-2023
+BA00345,2017,3,March,Q1,west zone,Haryana,Retail Banking,NPA Amount,3625.92,4226.53,600.61,16.56%,Yes,Rajesh Sharma,04-Feb-17
+BA00346,2020,2,February,Q1,Central Zone,Gujarat,Corporate Banking,Net Interest Income,2155.76,2652.83,497.07,23.06%,Yes,Sanjay Gupta,24-02-2020
+BA00347,2021,11,November,Q4,North Zone,Maharashtra,Retail Banking,New Customer Acquisition,75.51,54.96,-20.55,-27.21%,No,ramesh yadav,16-06-2022
+BA00348,2012,2,Feb,Q1,Central Zone,  Andhra Pradesh,nri banking,Total Deposits,384.79,398.13,,3.47%,No ,Lalita Devi,02-03-2022
+BA00349,2024,8,August,Q3,SOUTH ZONE,Maharashtra,SME Banking,Net Interest Income,1504.37,Rs.1340.35,-164.02,-10.9,No,Ramesh Yadav,16-05-2024
+BA00350,2018,12,December,Q4,Central Zone,  Madhya Pradesh,Corporate Banking,fee income,1129.33,1195.28,65.95,5.84%,Yes,Mohan Das,05-05-2021
+BA00351,2017,5,May,Q2,Central Zone,Maharashtra,Retail Banking,NPA Amount,3287.33,4254.07,966.74,29.41%,Yes,  Sunita Rao,04-04-2019
+BA00352,2012,7,Jul,Q3,NORTH ZONE,  Haryana,Priority Banking,  Net Interest Income,366.79,461.88,95.09,25.92%,Yes,Nitin Joshi,08-09-2013
+BA00353,2012,4,APRIL,Q2,West Zone,Odisha,Priority Banking,Total Disbursement,4384.38,5199.18,814.8,18.58%,Yes,Nitin Joshi,24-05-2025
+BA00354,2012,3,Mar,Q1,South Zone,  Madhya Pradesh,Priority Banking,Total Deposits,3997.44,3028.07,-969.37,-24.25%,No,Nitin Joshi,24-03-2012
+BA00355,2023,12,DECEMBER,Q4,north zone,TELANGANA,SME Banking,Total Disbursement,3697.65,4307.9,610.25,16.50%,Yes,Mohan Das,24-12-2023
+BA00356,2017,11,November,Q4,Central Zone,Odisha,Retail Banking,profit before tax,3727.69,2699.87,,-27.57,No,Lalita Devi,24-11-2017
+BA00357,2015,7,July,Q3,West Zone,Gujarat,Retail Banking,NEW CUSTOMER ACQUISITION,836.97,988.13,151.16,18.06%,Yes,Kavitha Subramanian,24-07-2015
+BA00358,2013,12,December,Q4,North Zone,Tamil Nadu,nri banking,NPA Amount,2700.47,2881.38,180.91,6.70%,yes,Amit Patel,17-12-2018
+BA00359,2011,3,March,Q1,West Zone,Punjab,Retail Banking,NPA Amount,232.13,250.99,18.86,8.12%,Yes,Lalita Devi,22-01-2012
+BA00360,2023,3,3,Q1,CENTRAL ZONE,  Karnataka,Priority Banking,Operating Expense,4723.73,4497.33,Rs.-226.4,-4.79%,No,Sanjay Gupta,24-03-2023
+BA00361,2021,11,November,Q4,central zone,Punjab,SME Banking,Recovery Amount,Rs.3245.04,2394.63,,-26.21%,No,Kavitha Subramanian,05-02-2024
+BA00362,2015,3,March,Q1,North Zone,Delhi,NRI Banking,OPERATING EXPENSE,4369.04,4220.59,-148.45,-3.40%,No,Mohan Das,31-07-2022
+BA00363,2022,10,October,Q4,East Zone,Haryana,SME Banking,RECOVERY AMOUNT,4571.81,4708.09,136.28,2.98%,Yes,Deepa Krishnan,18-08-2024
+BA00364,2017,7,July,Q3,Central Zone,Rajasthan,Corporate Banking,Fee Income,1802.6,1937.98,135.38,7.51%,Yes,Kavitha Subramanian,24-07-2017
+BA00365,2025,7,7,Q3,  South Zone,Madhya Pradesh,Priority Banking,Recovery Amount,4065.36,4371.45,,7.53%,Yes,MEENA IYER,29-Dec-25
+BA00366,2020,10,October,Q4,West Zone,West Bengal,Corporate Banking,Net Interest Income,4220.09,5331.31,1111.22,26.33%,Yes,Nitin Joshi,18-Jul-20
+BA00367,2018,10,Oct,Q4,East Zone,ODISHA,Corporate Banking,Net Interest Income,190.99,149.67,-41.32,-21.63%,No,DEEPA KRISHNAN,23-May-23
+BA00368,2023,6,June,Q2,West Zone,Madhya Pradesh,retail banking,New Customer Acquisition,1373.59,1262.4,-111.19,-8.10%,No,Deepa Krishnan,24-06-2023
+BA00369,2012,10,October,Q4,South Zone,KERALA,SME Banking,TOTAL DISBURSEMENT,2323.36,2644.04,320.68,13.80%,Yes,Sunita Rao,24-10-2012
+BA00370,2012,5,MAY,Q2,Central Zone,DELHI,Corporate Banking,Profit Before Tax,2482.37,3098.26,615.89,24.81%,Yes,Priya Nair,05-11-2023
+BA00371,2014,2,February,Q1,Central Zone,Maharashtra,NRI Banking,Net Interest Income,4812.11,5249.78,437.67,9.10%,Yes,Meena Iyer,31-08-2024
+BA00372,2020,5,May,Q2,West Zone,Gujarat,Retail Banking,NPA Amount,3045.69,2809.71,-235.98,-7.75%,No,nitin joshi,12-Jan-14
+BA00373,2024,12,December,Q4,South Zone,Andhra Pradesh,NRI Banking,Cross Sell Revenue,4051.2,3019.69,-1031.51,-25.46%,No,Kavitha Subramanian,03-03-2025
+BA00374,2020,7,July,Q3,Central Zone,Madhya Pradesh,NRI Banking,Profit Before Tax,2170.65,1924.41,-246.24,-11.34%,No,LALITA DEVI,24-07-2020
+BA00375,2023,10,10,Q4,West Zone,Andhra Pradesh,NRI Banking,NPA Amount,4391.51,4319.04,Rs.-72.47,-1.65%,No,Arun Mehta,23-Mar-25
+BA00376,2022,1,January,Q1,west zone,Haryana,SME Banking,Operating Expense,1105.28,1222.91,117.63,10.64%,Yes,Lalita Devi,23-03-2024
+BA00377,2021,2,February,Q1,North Zone,Punjab,priority banking,Total Deposits,1600.65,1804.14,203.49,12.71%,Yes,Anita Bose,01-12-2022
+BA00378,2017,9,September,Q3,Central Zone,West Bengal,Priority Banking,Fee Income,3436.32,3929.01,492.69,14.34%,No ,Mohan Das,14-Jun-25
+BA00379,2019,11,Nov,Q4,West Zone,Delhi,  Retail Banking,Net Interest Income,4745.03,4642.39,-102.64,-2.16%,No,Vijay Kumar,03-01-2025
+BA00380,2014,6,6,Q2,West Zone,Uttar Pradesh,  Retail Banking,recovery amount,1259.79,1282.61,22.82,1.81%,Yes,Kavitha Subramanian,24-06-2014
+BA00381,2016,6,June,Q2,Central Zone,GUJARAT,NRI Banking,Fee Income,908.62,953.64,45.02,4.95%,Yes,  Rajesh Sharma,24-06-2016
+BA00382,2017,8,Aug,Q3,Central Zone,Delhi,Retail Banking,Cross Sell Revenue,4919.46,3519.01,-1400.45,-28.47%,No,Anita Bose,07-02-2022
+BA00383,2016,9,SEPTEMBER,Q3,North Zone,Karnataka,Retail Banking,Cross Sell Revenue,301.3,,-40.23,-13.35%,No,Vijay Kumar,24-09-2016
+BA00384,2025,11,Nov,Q4,South Zone,Andhra Pradesh,Corporate Banking,Fee Income,824.7,1044.96,220.26,26.71%,Yes,Deepa Krishnan,03-05-2025
+BA00385,2010,11,November,Q4,West Zone,Uttar Pradesh,nri banking,Net Interest Income,4773.26,3803.65,-969.61,-20.31%,No,Ramesh Yadav,01-06-2017
+BA00386,2010,10,10,Q4,South Zone,UTTAR PRADESH,corporate banking,Recovery Amount,1225.84,1274.36,48.52,3.96%,Yes,Deepa Krishnan,24-10-2010
+BA00387,2017,5,May,Q2,West Zone,Haryana,  SME Banking,Recovery Amount,2578.69,2112.43,Rs.-466.26,-18.08,No,Mohan Das,24-05-2017
+BA00388,2010,9,September,Q3,Central Zone,kerala,Corporate Banking,NPA Amount,3188.66,3855.52,666.86,20.91,Yes,Ramesh Yadav,16-12-2011
+BA00389,2017,7,Jul,Q3,Central Zone,Punjab,priority banking,total disbursement,3008.97,3158.91,149.94,4.98%,Yes,Ramesh Yadav,30-12-2020
+BA00390,2021,8,August,Q3,NORTH ZONE,  Andhra Pradesh,Corporate Banking,Fee Income,1694.54,1916.89,222.35,13.12%,Yes,Arun Mehta,22-May-23
+BA00391,2025,12,Dec,Q4,North Zone,  Maharashtra,Retail Banking,NEW CUSTOMER ACQUISITION,555.74,439.31,-116.43,-20.95%,No,Vijay Kumar,24-12-2025
+BA00392,2012,5,May,Q2,  North Zone,West Bengal,NRI Banking,Recovery Amount,Rs.3608.21,4076.02,467.81,12.97%,Yes,Sunita Rao,24-05-2012
+BA00393,2019,10,10,Q4,North Zone,Punjab,corporate banking,Net Interest Income,1436.74,1332.96,-103.78,-7.22%,No,Rajesh Sharma,04-03-2019
+BA00394,2024,5,MAY,Q2,South Zone,  Karnataka,SME Banking,RECOVERY AMOUNT,1934.6,2094.56,159.96,8.27%,Yes,Amit Patel,19-Nov-24
+BA00395,2014,8,August,Q3,East Zone,Uttar Pradesh,Corporate Banking,Profit Before Tax,1340.1,966.54,,-27.88%,No,  Amit Patel,24-08-2014
+BA00396,2018,10,October,Q4,south zone,  Uttar Pradesh,SME Banking,Fee Income,255.15,263.15,8,3.14%,Yes,Rajesh Sharma,24-10-2018
+BA00397,2020,5,May,Q2,West Zone,Rajasthan,Priority Banking,Total Deposits,704.57,Rs.772.26,67.69,9.61%,Yes,Rajesh Sharma,29-06-2017
+BA00398,2019,12,December,Q4,south zone,Odisha,nri banking,Recovery Amount,1826.42,1545.95,-280.47,-15.36%,No,Anita Bose,24-12-2019
+BA00399,2024,6,June,Q2,CENTRAL ZONE,Uttar Pradesh,Priority Banking,Operating Expense,1080.96,1146.62,65.66,6.07%,Yes,Anita Bose,20-05-2024
+BA00400,2010,10,October,Q4,South Zone,Tamil Nadu,Retail Banking,Recovery Amount,4782.87,4772.62,-10.25,-0.21%,No,Amit Patel,17-Apr-24
+BA00401,2010,11,November,Q4,North Zone,Haryana,Retail Banking,FEE INCOME,2981.64,2658.02,-323.62,-10.85%,No,Anita Bose,12-11-2014
+BA00402,2022,7,JULY,Q3,Central Zone,Haryana,Priority Banking,operating expense,2557.45,1904.54,-652.91,-25.53%,No,rajesh sharma,10-01-2022
+BA00403,2015,1,January,Q1,west zone,andhra pradesh,SME Banking,Operating Expense,1541.13,1874.43,333.3,21.63%,Yes,  Lalita Devi,30-09-2025
+BA00404,2013,12,December,Q4,SOUTH ZONE,DELHI,Retail Banking,RECOVERY AMOUNT,679.17,683.36,4.19,0.62%,Yes,Rajesh Sharma,26-02-2022
+BA00405,2020,8,August,Q3,east zone,Madhya Pradesh,CORPORATE BANKING,Cross Sell Revenue,834.14,1057.15,223.01,26.74%,Yes,Lalita Devi,10-10-2021
+BA00406,2018,2,February,Q1,Central Zone,Tamil Nadu,SME Banking,new customer acquisition,95.25,66.91,-28.34,-29.76%,YES ,Meena Iyer,24-02-2018
+BA00407,2013,5,May,Q2,Central Zone,Karnataka,NRI Banking,Total Disbursement,3567.34,4001.45,434.11,12.17%,Yes,Lalita Devi,12-08-2016
+BA00408,2022,3,March,Q1,South Zone,Delhi,SME BANKING,NPA Amount,627.43,523.62,-103.81,-16.54%,No,Amit Patel,29-03-2022
+BA00409,2010,7,July,Q3,South Zone,Madhya Pradesh,nri banking,Total Deposits,3229.51,3849.18,619.67,19.19%,Yes,Sanjay Gupta,10-05-2024
+BA00410,2010,5,May,Q2,Central Zone,  Punjab,Priority Banking,profit before tax,3053.46,3958.38,904.92,29.64%,YES ,Sunita Rao,26-08-2019
+BA00411,2013,2,February,Q1,  South Zone,Odisha,Priority Banking,NPA Amount,323.58,417.56,93.98,29.04%,Yes,Amit Patel,24-May-22
+BA00412,2019,2,February,Q1,East Zone,Andhra Pradesh,Corporate Banking,PROFIT BEFORE TAX,3467.16,4366.39,899.23,25.94%,Yes,Nitin Joshi,24-02-2019
+BA00413,2022,3,MARCH,Q1,South Zone,Punjab,Retail Banking,Fee Income,1234.68,1549.04,314.36,25.46%,Yes,  Vijay Kumar,24-03-2022
+BA00414,2023,4,April,Q2,Central Zone,  Karnataka,SME Banking,Profit Before Tax,2690.04,2822.36,132.32,4.92,Yes,Ramesh Yadav,20-08-2025
+BA00415,2011,12,December,Q4,North Zone,Haryana,SME Banking,New Customer Acquisition,3757.57,Rs.4609.79,852.22,22.68%,Yes,Amit Patel,24-12-2011
+BA00416,2012,11,November,Q4,Central Zone,Gujarat,NRI Banking,Profit Before Tax,4523.52,3769.6,-1036.69,-21.57%,No,VIJAY KUMAR,24-11-2012
+BA00417,2011,7,July,Q3,Central Zone,Gujarat,  Corporate Banking,  Cross Sell Revenue,96.31,78.22,-18.09,-18.78%,No,Ramesh Yadav,31-01-2013
+BA00418,2022,9,September,Q3,SOUTH ZONE,Telangana,Corporate Banking,Fee Income,3512.4,3865.63,353.23,10.06%,Yes,Mohan Das,07-02-2022
+BA00419,2020,11,November,Q4,West Zone,Andhra Pradesh,Corporate Banking,Total Deposits,1538.23,1851.32,313.09,20.35,Yes,mohan das,28-10-2020
+BA00420,2020,8,August,Q3,East Zone,gujarat,Corporate Banking,Cross Sell Revenue,1673,1451.89,-221.11,-13.22,No,meena iyer,19-07-2025
+BA00421,2021,10,Oct,Q4,west zone,Delhi,SME Banking,Recovery Amount,3202.92,2266.89,Rs.-936.03,-29.22%,No,Arun Mehta,24-10-2021
+BA00422,2023,3,3,Q1,EAST ZONE,Delhi,CORPORATE BANKING,Recovery Amount,4306.42,Rs.3089.34,-1217.08,-28.26%,No,NITIN JOSHI,28-Aug-23
+BA00423,2024,1,January,Q1,West Zone,  Telangana,Retail Banking,NPA Amount,1872.41,1510.32,-362.09,-19.34%,No,Arun Mehta,24-01-2024
+BA00424,2017,10,October,Q4,South Zone,Kerala,nri banking,NPA Amount,1927.26,2052.72,125.46,6.51%,Yes,Meena Iyer,24-10-2017
+BA00425,2017,7,July,Q3,CENTRAL ZONE,Maharashtra,Corporate Banking,Recovery Amount,536.3,671.89,135.59,25.28%,Yes,NITIN JOSHI,24-07-2017
+BA00426,2017,2,February,Q1,North Zone,Karnataka,Corporate Banking,  Fee Income,2052.03,1573.05,-478.98,-23.34%,No,LALITA DEVI,12-04-2020
+BA00427,2020,4,April,Q2,  Central Zone,West Bengal,SME Banking,TOTAL DISBURSEMENT,198.44,195.15,-3.29,-1.66%,No,Sunita Rao,28-Dec-25
+BA00428,2010,2,FEBRUARY,Q1,West Zone,  Haryana,SME Banking,Recovery Amount,2822.27,2715.7,-106.57,-3.78%,No,ANITA BOSE,23-03-2016
+BA00429,2024,8,August,Q3,East Zone,Telangana,Corporate Banking,NET INTEREST INCOME,3775.52,3066.04,Rs.-709.48,-18.79%,No,rajesh sharma,30-09-2025
+BA00430,2012,4,April,Q2,south zone,Maharashtra,nri banking,Net Interest Income,3468.76,2695.34,-773.42,-22.30%,No,Amit Patel,31-08-2020
+BA00431,2016,7,July,Q3,NORTH ZONE,Haryana,SME Banking,net interest income,561.77,679.75,117.98,21.00%,Yes,Meena Iyer,08-Nov-20
+BA00432,2022,9,September,Q3,North Zone,Kerala,  Corporate Banking,CROSS SELL REVENUE,715.57,540.12,-175.45,-24.52%,No,Sunita Rao,14-Jun-24
+BA00433,2021,6,June,Q2,Central Zone,Odisha,  Retail Banking,Total Disbursement,3871.5,3134.1,-737.4,-19.05%,No,Anita Bose,24-06-2021
+BA00434,2023,8,AUGUST,Q3,West Zone,Karnataka,SME Banking,Net Interest Income,1884.27,1833.55,-50.72,-2.69,No,Ramesh Yadav,24-08-2023
+BA00435,2022,5,May,Q2,EAST ZONE,West Bengal,  NRI Banking,Operating Expense,565.41,436.8,-128.61,-22.75%,No,Ramesh Yadav,07-06-2025
+BA00436,2011,7,July,Q3,South Zone,Odisha,  Priority Banking,fee income,1609.536,1341.28,Rs.79.32,6.29%,Yes,Meena Iyer,10-Jun-15
+BA00437,2017,12,December,Q4,North Zone,Punjab,Retail Banking,operating expense,2519.35,3008.43,489.08,19.41%,Yes,Kavitha Subramanian,01-03-2025
+BA00438,2024,9,Sep,Q3,East Zone,Odisha,  NRI Banking,Total Disbursement,4154.54,3825.82,-328.72,-7.91%,No,Anita Bose,13-Jan-25
+BA00439,2014,4,Apr,Q2,west zone,Kerala,Priority Banking,  Fee Income,3823.73,4343.26,519.53,13.59%,Yes,AMIT PATEL,24-04-2014
+BA00440,2014,12,12,Q4,North Zone,rajasthan,Retail Banking,Operating Expense,2772.26,2207.05,-565.21,-20.39%,No,Ramesh Yadav,05-Feb-25
+BA00441,2016,8,August,Q3,South Zone,  Tamil Nadu,NRI Banking,Total Deposits,4245.55,3335.66,-909.89,-21.43%,No,  Nitin Joshi,30-Oct-19
+BA00442,2011,12,12,Q4,North Zone,Tamil Nadu,  NRI Banking,Profit Before Tax,3278.62,Rs.2742.41,-536.21,-16.35%,No,Amit Patel,05-Nov-23
+BA00443,2012,11,November,Q4,East Zone,Odisha,CORPORATE BANKING,New Customer Acquisition,2951.65,3590.33,638.68,21.64%,Yes,Ramesh Yadav,12-05-2015
+BA00444,2013,8,August,Q3,North Zone,Odisha,Priority Banking,Operating Expense,2698.64,3492.56,793.92,29.42%,Yes,Mohan Das,06-07-2023
+BA00445,2015,9,Sep,Q3,South Zone,Telangana,Priority Banking,Profit Before Tax,Rs.3340.59,2846.43,-494.16,-14.79%,No,Vijay Kumar,17-11-2022
+BA00446,2020,7,Jul,Q3,west zone,Rajasthan,retail banking,New Customer Acquisition,1950.71,1986.36,35.65,1.83%,Yes,Arun Mehta,10-01-2024
+BA00447,2017,5,May,Q2,CENTRAL ZONE,  Haryana,SME Banking,New Customer Acquisition,1187.74,1252,,5.41%,Yes,Kavitha Subramanian,02-10-2021
+BA00448,2024,9,September,Q3,  South Zone,Haryana,CORPORATE BANKING,Total Disbursement,2434.31,1761.51,-672.8,-27.64,No,Meena Iyer,14-06-2025
+BA00449,2012,8,August,Q3,SOUTH ZONE,tamil nadu,Priority Banking,Fee Income,3212.61,3913.65,701.04,21.82%,Yes,Rajesh Sharma,24-08-2012
+BA00450,2018,9,September,Q3,South Zone,telangana,Priority Banking,Operating Expense,4974.29,4577.68,-396.61,-7.97%,No,Sunita Rao,01-03-2024
+BA00451,2013,1,January,Q1,Central Zone,Maharashtra,Retail Banking,Recovery Amount,2434.7,2806.86,372.16,15.29,Yes,KAVITHA SUBRAMANIAN,18-12-2014
+BA00452,2017,3,Mar,Q1,West Zone,Gujarat,NRI Banking,Recovery Amount,297.55,297.9,0.35,0.12%,Yes,AMIT PATEL,28-11-2017
+BA00453,2013,2,February,Q1,Central Zone,Karnataka,Retail Banking,total disbursement,4489.77,4331.56,-158.21,-3.52%,No,Amit Patel,12-01-2016
+BA00454,2015,4,Apr,Q2,South Zone,Delhi,Corporate Banking,npa amount,1717.15,1871.15,154,8.97,Yes,Deepa Krishnan,11-May-25
+BA00455,2024,6,June,Q2,West Zone,  Andhra Pradesh,SME BANKING,Profit Before Tax,3265.11,3115.95,-149.16,-4.57%,No,Priya Nair,29-Jun-25
+BA00456,2018,9,September,Q3,south zone,Andhra Pradesh,Corporate Banking,Recovery Amount,3230.64,2692.2,-637.26,-19.14,No,deepa krishnan,25-01-2025
+BA00457,2025,10,October,Q4,West Zone,Odisha,Priority Banking,Total Deposits,4906.98,4131.18,-775.8,-15.81,No,Sunita Rao,19-03-2025
+BA00458,2021,12,December,Q4,East Zone,West Bengal,SME Banking,New Customer Acquisition,2641.44,2115.53,-525.91,-19.91%,No,Lalita Devi,24-12-2021
+BA00459,2017,11,Nov,Q4,Central Zone,Tamil Nadu,SME Banking,FEE INCOME,1949.76,1371.85,-577.91,-29.64%,No,LALITA DEVI,24-11-2017
+BA00460,2012,9,9,Q3,Central Zone,KARNATAKA,retail banking,Total Deposits,995.05,1206.51,211.46,21.25%,Yes,Sunita Rao,06-Jun-19
+BA00461,2011,12,Dec,Q4,East Zone,Gujarat,SME Banking,fee income,4167.73,4540.8,373.07,8.95,Yes,anita bose,29-11-2023
+BA00462,2020,6,June,Q2,Central Zone,Rajasthan,CORPORATE BANKING,Profit Before Tax,1761.97,1361.33,-400.64,-22.74%,No,KAVITHA SUBRAMANIAN,11-06-2023
+BA00463,2011,9,September,Q3,North Zone,Telangana,  Corporate Banking,new customer acquisition,1762.04,2175.89,413.85,23.49,Yes,Vijay Kumar,24-09-2011
+BA00464,2014,8,August,Q3,East Zone,gujarat,RETAIL BANKING,RECOVERY AMOUNT,4637.24,5778.02,1140.78,24.60%,Yes,  Arun Mehta,24-08-2014
+BA00465,2025,4,April,Q2,Central Zone,Maharashtra,corporate banking,Total Disbursement,4220.43,4532.58,,7.40%,Yes,Lalita Devi,24-04-2025
+BA00466,2017,5,May,Q2,Central Zone,Madhya Pradesh,Corporate Banking,  Fee Income,2533.04,2777.83,244.79,9.66%,Yes,Sanjay Gupta,24-05-2017
+BA00467,2021,5,May,Q2,East Zone,ODISHA,NRI Banking,NPA Amount,3795.51,2827.86,-967.65,-25.49%,No ,Priya Nair,22-09-2021
+BA00468,2019,5,May,Q2,  North Zone,  Andhra Pradesh,Retail Banking,New Customer Acquisition,3239.34,4187.34,948,29.27%,Yes,Nitin Joshi,18-04-2022
+BA00469,2010,10,October,Q4,  North Zone,Madhya Pradesh,Priority Banking,profit before tax,3340.97,3572.97,232,6.94%,Yes,  Meena Iyer,06-11-2024
+BA00470,2024,7,July,Q3,central zone,Odisha,Corporate Banking,Total Deposits,623.69,769.59,145.9,23.39%,Yes,Arun Mehta,02-09-2025
+BA00471,2014,8,August,Q3,North Zone,uttar pradesh,Corporate Banking,Total Disbursement,2885.84,2293.13,-592.71,-20.54%,No,Lalita Devi,10-Mar-20
+BA00472,2021,12,December,Q4,west zone,Karnataka,Priority Banking,NET INTEREST INCOME,2401.62,2120.08,-281.54,-11.72%,No,  Amit Patel,02-Jun-25
+BA00473,2024,1,January,Q1,  East Zone,Uttar Pradesh,Priority Banking,Net Interest Income,2545.74,2050.45,-495.29,-19.46%,No,Meena Iyer,12-Sep-24
+BA00474,2017,1,January,Q1,East Zone,odisha,Priority Banking,Operating Expense,1247.14,1398.07,150.93,12.10%,Yes,Rajesh Sharma,18-06-2020
+BA00475,2015,9,September,Q3,North Zone,Telangana,Corporate Banking,Fee Income,2625.68,1984.23,-641.45,-24.43%,No,  Meena Iyer,12-06-2020
+BA00476,2013,2,February,Q1,EAST ZONE,Andhra Pradesh,Corporate Banking,Total Deposits,3940.32,4386.4,446.08,11.32%,Yes,Deepa Krishnan,12-03-2020
+BA00477,2021,8,August,Q3,North Zone,Rajasthan,SME Banking,npa amount,818.98,591.09,-227.89,-27.83%,No,Priya Nair,24-08-2021
+BA00478,2015,4,April,Q2,WEST ZONE,Punjab,nri banking,total deposits,1445.63,1656.65,211.02,14.60%,Yes,Nitin Joshi,24-04-2015
+BA00479,2025,4,4,Q2,West Zone,Tamil Nadu,PRIORITY BANKING,  Fee Income,4480.34,3679.71,-800.63,-17.87,No,Sunita Rao,19-07-2025
+BA00480,2018,10,October,Q4,Central Zone,WEST BENGAL,RETAIL BANKING,Cross Sell Revenue,659.97,720.72,60.75,9.20%,Yes,Amit Patel,24-02-2022
+BA00481,2010,4,April,Q2,east zone,Uttar Pradesh,Retail Banking,Operating Expense,4743.66,4118.33,-625.33,-13.18%,No,Sunita Rao,30-Sep-23
+BA00482,2023,10,October,Q4,East Zone,Punjab,Retail Banking,total deposits,669.36,557.8,112.64,25.30%,Yes,Meena Iyer,24-10-2023
+BA00483,2019,2,February,Q1,East Zone,ANDHRA PRADESH,SME Banking,Operating Expense,1291.88,926.7,-365.18,-28.27%,No,Vijay Kumar,30-10-2025
+BA00484,2024,1,January,Q1,North Zone,WEST BENGAL,Retail Banking,  Fee Income,3025.37,3239.32,213.95,7.07%,Yes,Nitin Joshi,22-09-2024
+BA00485,2012,4,April,Q2,West Zone,haryana,Priority Banking,Net Interest Income,2571.45,2355.54,-215.91,-8.40%,No,Vijay Kumar,24-04-2012
+BA00486,2024,10,October,Q4,South Zone,West Bengal,Corporate Banking,operating expense,4417.55,,-936.59,-21.20%,No,Priya Nair,27-02-2025
+BA00487,2024,4,4,Q2,Central Zone,Haryana,sme banking,Net Interest Income,2167.63,2804.65,637.02,29.39%,Yes,Anita Bose,11-01-2024
+BA00488,2018,9,SEPTEMBER,Q3,North Zone,Karnataka,PRIORITY BANKING,New Customer Acquisition,1859.86,2022.54,162.68,8.75,Yes,Deepa Krishnan,29-04-2021
+BA00489,2015,11,November,Q4,Central Zone,Gujarat,NRI Banking,NEW CUSTOMER ACQUISITION,149.11,135,-14.11,-9.46%,No,Ramesh Yadav,24-11-2015
+BA00490,2017,3,March,Q1,North Zone,Punjab,Retail Banking,  NPA Amount,1277.66,1632.85,Rs.355.19,27.80%,Yes,  Anita Bose,24-03-2017
+BA00491,2020,11,November,Q4,East Zone,punjab,NRI Banking,total deposits,1642.87,1845.69,202.82,12.35%,Yes,Mohan Das,02-01-2019
+BA00492,2025,1,January,Q1,  North Zone,  Andhra Pradesh,NRI Banking,Fee Income,1511.7,1888.08,376.38,24.90%,Yes,SUNITA RAO,24-01-2025
+BA00493,2020,7,July,Q3,west zone,Rajasthan,Priority Banking,NPA Amount,1446.46,1808.85,362.39,25.05%,Yes,Deepa Krishnan,24-07-2020
+BA00494,2015,10,October,Q4,East Zone,Madhya Pradesh,priority banking,OPERATING EXPENSE,1173.51,1348.94,175.43,14.95%,yes,Sunita Rao,10-Sep-21
+BA00495,2011,7,Jul,Q3,Central Zone,  Uttar Pradesh,Corporate Banking,FEE INCOME,2340.43,Rs.2444.01,103.58,4.43%,yes,Sanjay Gupta,17-May-24
+BA00496,2010,7,July,Q3,West Zone,Uttar Pradesh,Priority Banking,Cross Sell Revenue,1910.13,1618.45,,-15.27%,No,Vijay Kumar,30-Mar-12
+BA00497,2010,10,October,Q4,east zone,Haryana,Corporate Banking,npa amount,2776.75,2815.6,38.85,1.40%,Yes,Amit Patel,19-May-22
+BA00498,2011,9,September,Q3,North Zone,Rajasthan,retail banking,Profit Before Tax,Rs.3874.74,2994.93,-879.81,-22.71%,No,vijay kumar,12-06-2025
+BA00499,2014,2,2,Q1,East Zone,Maharashtra,NRI Banking,Total Deposits,3798.99,3765.15,-33.84,-0.89%,No,Mohan Das,24-02-2014
+BA00500,2022,12,Dec,Q4,Central Zone,HARYANA,NRI Banking,  Fee Income,2727.1,2899.26,172.16,6.31%,Yes,Sunita Rao,08-08-2025
+BA00501,2021,3,March,Q1,north zone,Maharashtra,SME Banking,Recovery Amount,Rs.1189.51,1058.88,-130.63,-10.98%,No,Kavitha Subramanian,10-02-2022
+BA00502,2016,10,October,Q4,West Zone,Delhi,Priority Banking,PROFIT BEFORE TAX,2360.96,2268.69,-92.27,-3.91%,No,Vijay Kumar,07-08-2016
+BA00503,2011,1,January,Q1,West Zone,Telangana,RETAIL BANKING,Profit Before Tax,3109.31,3297.63,188.32,6.06%,Yes,Ramesh Yadav,24-01-2011
+BA00504,2022,8,Aug,Q3,East Zone,Maharashtra,SME Banking,Recovery Amount,435.15,369.58,-65.57,-15.07%,No,Mohan Das,06-10-2024
+BA00505,2018,9,September,Q3,Central Zone,Kerala,SME Banking,total deposits,3916.11,3131.08,-785.03,-20.05%,No,Rajesh Sharma,24-09-2018
+BA00506,2022,12,12,Q4,WEST ZONE,Gujarat,Retail Banking,  NPA Amount,659.57,781.73,Rs.122.16,18.52%,Yes,Priya Nair,24-12-2022
+BA00507,2014,3,Mar,Q1,south zone,West Bengal,Priority Banking,NPA AMOUNT,89.65,,-7.73,-8.62%,No,Sanjay Gupta,26-03-2016
+BA00508,2016,12,December,Q4,Central Zone,PUNJAB,NRI Banking,Net Interest Income,325.86,,22.97,7.05%,Yes,Deepa Krishnan,12-Apr-20
+BA00509,2023,12,December,Q4,  East Zone,UTTAR PRADESH,PRIORITY BANKING,  Fee Income,980.02,976.03,-3.99,-0.41%,No,Rajesh Sharma,19-11-2023
+BA00510,2025,9,September,Q3,East Zone,Andhra Pradesh,  Priority Banking,Net Interest Income,2964.38,2534.21,-430.17,-14.51%,No,RAJESH SHARMA,24-09-2025
+BA00511,2016,7,7,Q3,North Zone,Maharashtra,NRI Banking,profit before tax,481.79,442.99,-38.8,-8.05%,No,priya nair,08-01-2019
+BA00512,2011,6,Jun,Q2,Central Zone,  Karnataka,NRI Banking,Net Interest Income,1178.4,1384.94,206.54,17.53%,Yes,  Amit Patel,10-03-2011
+BA00513,2012,5,May,Q2,South Zone,West Bengal,Corporate Banking,Operating Expense,402.92,495.63,92.71,23.01%,Yes,Vijay Kumar,24-05-2012
+BA00514,2025,5,5,Q2,West Zone,WEST BENGAL,Retail Banking,  Fee Income,771.43,911.65,140.22,18.18%,Yes,Deepa Krishnan,24-05-2025
+BA00515,2018,7,July,Q3,Central Zone,Uttar Pradesh,  Corporate Banking,NET INTEREST INCOME,4139.94,4759.52,619.58,14.97%,Yes,Nitin Joshi,20-10-2025
+BA00516,2013,11,November,Q4,East Zone,Delhi,Priority Banking,Total Deposits,613.59,711.14,97.55,15.9,Yes,Rajesh Sharma,24-11-2013
+BA00517,2024,7,July,Q3,south zone,Tamil Nadu,SME BANKING,New Customer Acquisition,150.18,113.36,-36.82,-24.52%,No,Anita Bose,12-12-2024
+BA00518,2019,4,April,Q2,East Zone,rajasthan,nri banking,NPA AMOUNT,892.43,734.88,-157.55,-17.65%,No,Arun Mehta,24-04-2019
+BA00519,2010,1,1,Q1,  North Zone,KERALA,Corporate Banking,  Profit Before Tax,4265.23,4605,339.77,7.97%,Yes,Anita Bose,12-03-2021
+BA00520,2014,7,July,Q3,Central Zone,Madhya Pradesh,Priority Banking,  Total Deposits,4597.55,3792.94,-804.61,-17.50%,No,arun mehta,24-07-2014
+BA00521,2010,11,November,Q4,West Zone,Rajasthan,NRI Banking,Total Deposits,2857.2,2043.7,-813.5,-28.47%,No,Nitin Joshi,16-07-2012
+BA00522,2013,8,Aug,Q3,East Zone,Gujarat,SME Banking,new customer acquisition,Rs.199.67,164.04,-35.63,-17.85%,No,PRIYA NAIR,24-08-2013
+BA00523,2017,10,October,Q4,North Zone,Telangana,retail banking,New Customer Acquisition,3062.34,2955.93,-106.41,-3.47%,No,Mohan Das,24-10-2017
+BA00524,2022,11,November,Q4,South Zone,Gujarat,SME Banking,Profit Before Tax,706.62,715.03,8.41,1.19%,Yes,Deepa Krishnan,24-11-2022
+BA00525,2020,3,March,Q1,south zone,TAMIL NADU,  Corporate Banking,Recovery Amount,942.48,1098.96,156.48,16.60%,Yes,Anita Bose,24-03-2020
+BA00526,2010,9,September,Q3,North Zone,Maharashtra,Retail Banking,Net Interest Income,1325.05,1394.81,,5.26%,Yes,Rajesh Sharma,24-04-2012
+BA00527,2021,3,March,Q1,east zone,Rajasthan,Corporate Banking,  Fee Income,2892.51,3437.44,544.93,18.84%,Yes,Lalita Devi,28-01-2024
+BA00528,2022,4,4,Q2,NORTH ZONE,TELANGANA,Corporate Banking,NPA Amount,4420.31,4991.78,571.47,12.93%,Yes,Amit Patel,14-Nov-23
+BA00529,2017,11,November,Q4,West Zone,delhi,  Retail Banking,net interest income,2520.58,2823.76,303.18,12.03%,Yes,Amit Patel,24-11-2017
+BA00530,2021,8,August,Q3,West Zone,Maharashtra,priority banking,Total Disbursement,1152.95,901.48,-251.47,-21.81%,No,Vijay Kumar,27-07-2025
+BA00531,2012,9,September,Q3,Central Zone,Punjab,Corporate Banking,Fee Income,582.66,488.24,-94.42,-16.20%,No,Sunita Rao,01-02-2018
+BA00532,2024,7,July,Q3,East Zone,Gujarat,Retail Banking,total deposits,1612.24,1372.73,-239.51,-14.86%,No ,Mohan Das,11-03-2025
+BA00533,2022,6,June,Q2,Central Zone,Maharashtra,NRI Banking,new customer acquisition,682.08,566.15,-115.93,-17.00%,No,Sanjay Gupta,24-06-2022
+BA00534,2025,11,NOVEMBER,Q4,South Zone,Tamil Nadu,CORPORATE BANKING,Cross Sell Revenue,1823.33,1444.79,-378.54,-20.76%,No,Mohan Das,03-11-2025
+BA00535,2024,7,July,Q3,SOUTH ZONE,Rajasthan,Retail Banking,Total Disbursement,4624.54,5034.04,409.5,8.85%,Yes,Nitin Joshi,24-07-2024
+BA00536,2021,11,November,Q4,South Zone,Odisha,Retail Banking,RECOVERY AMOUNT,4947.61,5132.82,185.21,3.74%,Yes,Sunita Rao,14-05-2025
+BA00537,2010,9,September,Q3,East Zone,  Maharashtra,sme banking,npa amount,2747.54,3317.42,569.88,20.74%,Yes,Sanjay Gupta,23-10-2010
+BA00538,2013,3,Mar,Q1,WEST ZONE,Tamil Nadu,Corporate Banking,New Customer Acquisition,863.86,1019.92,156.06,18.06%,Yes,priya nair,29-11-2018
+BA00539,2025,3,March,Q1,Central Zone,Karnataka,  Corporate Banking,FEE INCOME,1262.4,1581.91,319.51,25.31%,Yes,Sanjay Gupta,24-03-2025
+BA00540,2024,8,AUGUST,Q3,South Zone,UTTAR PRADESH,Priority Banking,Fee Income,2487.084,2072.57,-800.41,-27.86%,No,KAVITHA SUBRAMANIAN,16-03-2025
+BA00541,2024,1,January,Q1,East Zone,Tamil Nadu,  Corporate Banking,OPERATING EXPENSE,1550.74,1097.67,-453.07,-29.22%,No,Nitin Joshi,22-06-2025
+BA00542,2013,9,September,Q3,North Zone,  Andhra Pradesh,NRI Banking,Recovery Amount,3703.45,3366.76,-336.69,-9.09%,No,Vijay Kumar,21-Mar-22
+BA00543,2022,8,August,Q3,north zone,Tamil Nadu,retail banking,Profit Before Tax,2335.15,1760.09,-575.06,-24.63%,No,MOHAN DAS,20-09-2025
+BA00544,2013,8,August,Q3,north zone,Odisha,Retail Banking,Recovery Amount,4022.64,3641.24,,-9.48,No,meena iyer,24-08-2013
+BA00545,2024,6,June,Q2,West Zone,Madhya Pradesh,NRI BANKING,Recovery Amount,1094.49,1407.17,312.68,28.57%,Yes,Sanjay Gupta,09-12-2024
+BA00546,2019,5,May,Q2,East Zone,Rajasthan,Corporate Banking,Total Deposits,2366.94,2625.38,258.44,10.92%,Yes,Rajesh Sharma,24-05-2019
+BA00547,2014,4,April,Q2,North Zone,Punjab,  Corporate Banking,Cross Sell Revenue,1343.916,1119.93,175.53,18.59%,yes,Arun Mehta,25-03-2015
+BA00548,2024,9,Sep,Q3,  East Zone,Uttar Pradesh,Priority Banking,Total Disbursement,354.38,277.38,-77,-21.73%,yes,mohan das,24-09-2024
+BA00549,2024,9,September,Q3,Central Zone,maharashtra,priority banking,Total Disbursement,3606.48,2882.35,-724.13,-20.08%,No ,Priya Nair,11-02-2025
+BA00550,2017,2,2,Q1,east zone,telangana,Priority Banking,Fee Income,4421.58,3160.32,-1261.26,-28.53%,No,Arun Mehta,18-Jul-24
+BA00551,2012,5,May,Q2,South Zone,kerala,SME Banking,New Customer Acquisition,1270.18,1286.52,16.34,1.29%,Yes,Priya Nair,24-05-2012
+BA00552,2022,3,March,Q1,  North Zone,Kerala,  NRI Banking,New Customer Acquisition,2966.4,2766.13,-200.27,-6.75%,No,Sanjay Gupta,15-05-2023
+BA00553,2019,12,December,Q4,North Zone,  Andhra Pradesh,  SME Banking,Recovery Amount,3510.83,4212.5,701.67,19.99%,Yes,SUNITA RAO,12-May-19
+BA00554,2024,7,July,Q3,South Zone,West Bengal,Retail Banking,Profit Before Tax,121.49,107.31,-14.18,-11.67%,No,Vijay Kumar,24-07-2024
+BA00555,2024,4,APRIL,Q2,South Zone,rajasthan,Retail Banking,Net Interest Income,2397.25,2464.76,67.51,2.82%,Yes,Lalita Devi,27-07-2024
+BA00556,2011,10,Oct,Q4,West Zone,Delhi,Corporate Banking,Cross Sell Revenue,1811.17,1292.65,-518.52,-28.63%,No,Anita Bose,08-Feb-15
+BA00557,2010,9,9,Q3,South Zone,Kerala,NRI Banking,Net Interest Income,4876.15,4810.89,-65.26,-1.34%,No ,Mohan Das,24-09-2010
+BA00558,2022,4,April,Q2,NORTH ZONE,telangana,SME Banking,Cross Sell Revenue,955.08,808.64,Rs.-146.44,-15.33%,No,Sanjay Gupta,24-04-2022
+BA00559,2012,12,DECEMBER,Q4,Central Zone,HARYANA,  Corporate Banking,Net Interest Income,1351.76,1418.57,66.81,4.94%,N,Arun Mehta,06-04-2016
+BA00560,2022,1,January,Q1,  Central Zone,Gujarat,NRI Banking,Total Disbursement,3727.61,3202.79,-524.82,-14.08%,No,Meena Iyer,23-05-2024
+BA00561,2015,10,October,Q4,South Zone,Maharashtra,SME Banking,Net Interest Income,4215.29,4573.16,357.87,8.49,Yes,Arun Mehta,29-03-2018
+BA00562,2013,6,Jun,Q2,east zone,Gujarat,Retail Banking,Profit Before Tax,1029.19,1132.14,102.95,10.00%,Yes,Sunita Rao,13-11-2013
+BA00563,2019,2,February,Q1,West Zone,West Bengal,Retail Banking,PROFIT BEFORE TAX,1256.16,1052.17,-203.99,-16.24%,No,Sunita Rao,04-11-2021
+BA00564,2018,9,September,Q3,North Zone,Kerala,  Priority Banking,Total Disbursement,4912.81,4182.75,-730.06,-14.86%,No,  Lalita Devi,30-09-2018
+BA00565,2011,4,APRIL,Q2,South Zone,Madhya Pradesh,NRI Banking,NPA Amount,2223.9,2064.88,-159.02,-7.15%,No,Vijay Kumar,24-04-2011
+BA00566,2020,3,March,Q1,West Zone,Rajasthan,PRIORITY BANKING,Operating Expense,248.91,188.1,-60.81,-24.43%,No,Ramesh Yadav,24-09-2025
+BA00567,2018,7,July,Q3,Central Zone,maharashtra,Retail Banking,Profit Before Tax,2379.05,2788.4,409.35,17.21,Yes,nitin joshi,30-07-2022
+BA00568,2016,12,Dec,Q4,NORTH ZONE,MADHYA PRADESH,  Corporate Banking,New Customer Acquisition,1443.64,1528.8,85.16,5.90%,Yes,Anita Bose,10-Nov-21
+BA00569,2015,12,December,Q4,South Zone,RAJASTHAN,NRI Banking,Cross Sell Revenue,4126.05,4212.08,86.03,2.08%,N,RAJESH SHARMA,23-05-2023
+BA00570,2019,9,September,Q3,North Zone,  Andhra Pradesh,NRI Banking,Profit Before Tax,Rs.490.7,543.93,53.23,10.85%,Yes,Priya Nair,06-04-2021
+BA00571,2012,12,December,Q4,east zone,Madhya Pradesh,SME Banking,Total Deposits,4561.38,5289.04,727.66,15.95%,Yes,LALITA DEVI,21-08-2015
+BA00572,2016,12,Dec,Q4,  East Zone,  Andhra Pradesh,Retail Banking,Fee Income,120.68,85.25,-35.43,-29.36%,No,Arun Mehta,02-Jul-22
+BA00573,2016,1,January,Q1,South Zone,tamil nadu,Retail Banking,Operating Expense,3705.07,4131.08,426.01,11.50%,Yes,  Amit Patel,12-Jan-19
+BA00574,2024,3,March,Q1,South Zone,Telangana,Corporate Banking,Total Deposits,2782.02,2884.49,102.47,3.68,Yes,ramesh yadav,05-11-2025
+BA00575,2014,3,March,Q1,east zone,Andhra Pradesh,NRI Banking,Total Deposits,4557.28,3595.02,-962.26,-21.11%,No,Meena Iyer,12-10-2024
+BA00576,2024,6,June,Q2,West Zone,Odisha,Priority Banking,Cross Sell Revenue,4428.22,4063.8,-364.42,-8.23%,No,Kavitha Subramanian,06-01-2024
+BA00577,2018,6,6,Q2,South Zone,Maharashtra,  NRI Banking,Operating Expense,Rs.3345.02,2637.6,,-21.15%,No,priya nair,16-Jun-22
+BA00578,2011,10,October,Q4,South Zone,telangana,Priority Banking,New Customer Acquisition,3056.61,3214.31,157.7,5.16%,Yes,Vijay Kumar,24-10-2011
+BA00579,2021,3,March,Q1,South Zone,Rajasthan,NRI Banking,Total Deposits,4168.39,3052.71,-1115.68,-26.77,No,Sunita Rao,24-03-2021
+BA00580,2023,4,APRIL,Q2,East Zone,Maharashtra,NRI Banking,New Customer Acquisition,2856.4,3278.18,421.78,14.77%,Yes,Mohan Das,24-04-2023
+BA00581,2019,9,September,Q3,North Zone,Haryana,NRI Banking,Net Interest Income,1639.1,1797.76,158.66,9.68%,Yes,Lalita Devi,24-09-2019
+BA00582,2019,1,January,Q1,South Zone,Karnataka,NRI Banking,Total Deposits,Rs.4076.37,,-65.51,-1.61%,No,Sunita Rao,19-Dec-25
+BA00583,2015,7,July,Q3,East Zone,ANDHRA PRADESH,SME Banking,  Fee Income,3902.5,3420.03,-482.47,-12.36%,No,Arun Mehta,22-03-2018
+BA00584,2013,2,Feb,Q1,East Zone,Maharashtra,Retail Banking,NPA Amount,4872.14,3511.83,-1360.31,-27.92%,No,Lalita Devi,18-10-2025
+BA00585,2023,5,May,Q2,east zone,Andhra Pradesh,Retail Banking,Operating Expense,1123.59,1142.59,19,1.69,Yes,Vijay Kumar,23-Aug-24
+BA00586,2024,5,May,Q2,East Zone,Madhya Pradesh,Retail Banking,fee income,2789.77,2142.96,-646.81,-23.19%,No,DEEPA KRISHNAN,24-05-2024
+BA00587,2020,3,March,Q1,East Zone,  Uttar Pradesh,  Retail Banking,Total Disbursement,3451.36,3463.33,,0.35%,Yes,Deepa Krishnan,27-07-2020
+BA00588,2020,6,6,Q2,North Zone,West Bengal,SME Banking,Recovery Amount,283.05,255.17,-27.88,-9.85%,No,Priya Nair,02-06-2021
+BA00589,2019,5,May,Q2,East Zone,Tamil Nadu,NRI Banking,total deposits,2242.84,2183.4,-59.44,-2.65%,No,Meena Iyer,18-Sep-23
+BA00590,2017,10,10,Q4,Central Zone,Punjab,Corporate Banking,operating expense,447.11,423.95,-23.16,-5.18%,No,ANITA BOSE,16-Oct-24
+BA00591,2014,1,1,Q1,Central Zone,Karnataka,Retail Banking,RECOVERY AMOUNT,482.14,,Rs.136.66,28.34%,Yes,Anita Bose,08-Nov-20
+BA00592,2022,2,February,Q1,Central Zone,Punjab,Corporate Banking,  Recovery Amount,1841.5,1665.65,-175.85,-9.55%,No,KAVITHA SUBRAMANIAN,24-02-2022
+BA00593,2025,8,August,Q3,west zone,Odisha,Corporate Banking,Total Disbursement,3497.2,3511.15,13.95,0.40%,Yes,Ramesh Yadav,24-08-2025
+BA00594,2012,9,September,Q3,East Zone,Maharashtra,Retail Banking,New Customer Acquisition,1501.37,1470.47,-30.9,-2.06%,No,Anita Bose,26-09-2017
+BA00595,2012,7,July,Q3,East Zone,Telangana,NRI Banking,Fee Income,1358.87,969.34,-389.53,-28.67,YES ,SANJAY GUPTA,24-07-2012
+BA00596,2019,11,November,Q4,CENTRAL ZONE,Karnataka,NRI Banking,Total Deposits,940.52,791.52,-149,-15.84%,No,priya nair,24-11-2019
+BA00597,2017,6,Jun,Q2,West Zone,Rajasthan,Corporate Banking,Net Interest Income,3296.5,2693.95,-602.55,-18.28%,No,Nitin Joshi,07-07-2017
+BA00598,2022,11,Nov,Q4,north zone,Madhya Pradesh,  Corporate Banking,Recovery Amount,2214.09,2509.68,295.59,13.35%,Yes,Lalita Devi,08-May-22
+BA00599,2010,4,April,Q2,  West Zone,Andhra Pradesh,  NRI Banking,Recovery Amount,1922.85,2214.95,292.1,15.19%,Yes,Lalita Devi,05-05-2011
+BA00600,2019,2,February,Q1,Central Zone,Rajasthan,  SME Banking,Fee Income,1128.02,1064.9,-63.12,-5.60%,No,Nitin Joshi,06-08-2024
+BA00601,2017,10,Oct,Q4,Central Zone,Karnataka,sme banking,New Customer Acquisition,4002.68,3096.77,-905.91,-22.63%,No ,MOHAN DAS,26-05-2018
+BA00602,2025,2,February,Q1,CENTRAL ZONE,KARNATAKA,NRI Banking,Profit Before Tax,349.26,425.4,76.14,21.80%,Yes,Anita Bose,24-02-2025
+BA00603,2017,7,JULY,Q3,South Zone,Haryana,NRI Banking,Recovery Amount,3547.7,3578.63,30.93,0.87%,YES,  Amit Patel,24-07-2017
+BA00604,2024,6,Jun,Q2,Central Zone,Gujarat,Priority Banking,  Fee Income,1371.6,968.17,-403.43,-29.41%,No,mohan das,15-11-2024
+BA00605,2019,1,January,Q1,East Zone,Tamil Nadu,SME Banking,NPA Amount,4834.128,4028.44,-809.9,-16.74%,No,vijay kumar,26-Sep-23
+BA00606,2025,8,August,Q3,West Zone,Telangana,  SME Banking,Total Disbursement,2215.92,1846.6,-281.63,-13.23%,No,Sunita Rao,03-12-2025
+BA00607,2011,4,April,Q2,Central Zone,uttar pradesh,retail banking,Recovery Amount,3553.86,3681.29,127.43,3.59%,Yes,Anita Bose,24-04-2011
+BA00608,2010,5,May,Q2,South Zone,  Andhra Pradesh,Retail Banking,NPA Amount,1623.2,1151.56,-471.64,-29.06%,No,AMIT PATEL,05-08-2014
+BA00609,2020,7,Jul,Q3,CENTRAL ZONE,Uttar Pradesh,NRI BANKING,new customer acquisition,325.8,308.84,-16.96,-5.21%,No,Ramesh Yadav,26-Sep-20
+BA00610,2010,4,April,Q2,East Zone,Maharashtra,Priority Banking,npa amount,3263.08,2814.16,-448.92,-13.76%,No,VIJAY KUMAR,07-04-2016
+BA00611,2010,11,NOVEMBER,Q4,North Zone,Andhra Pradesh,Priority Banking,Net Interest Income,4723.11,4570.41,-152.7,-3.23%,No,  Amit Patel,30-May-17
+BA00612,2022,9,September,Q3,  West Zone,Delhi,Priority Banking,Profit Before Tax,3313.17,3347.69,34.52,1.04%,Yes,Vijay Kumar,17-07-2025
+BA00613,2011,10,October,Q4,North Zone,TAMIL NADU,Corporate Banking,Operating Expense,2736.87,2238.06,-498.81,-18.23%,No,Nitin Joshi,14-04-2016
+BA00614,2010,1,January,Q1,East Zone,PUNJAB,Priority Banking,NPA AMOUNT,476.06,526.96,50.9,10.69%,N,Amit Patel,24-01-2010
+BA00615,2011,11,NOVEMBER,Q4,West Zone,Rajasthan,SME Banking,Total Deposits,672.66,640.56,-32.1,-4.77%,YES ,Lalita Devi,15-Oct-21
+BA00616,2020,3,March,Q1,CENTRAL ZONE,West Bengal,NRI Banking,Total Deposits,2772.35,2944.1,171.75,6.19%,Yes,ARUN MEHTA,24-03-2020
+BA00617,2014,2,FEBRUARY,Q1,north zone,Kerala,Corporate Banking,NEW CUSTOMER ACQUISITION,1615.77,2032.98,417.21,25.82,Yes,Meena Iyer,14-05-2020
+BA00618,2020,11,November,Q4,central zone,Gujarat,SME Banking,Fee Income,3147.56,2857.34,-290.22,-9.22%,No,Ramesh Yadav,05-09-2013
+BA00619,2014,10,October,Q4,SOUTH ZONE,Kerala,SME Banking,Recovery Amount,512.49,359.79,-152.7,-29.80%,No,  Amit Patel,24-10-2014
+BA00620,2010,1,January,Q1,WEST ZONE,Andhra Pradesh,Priority Banking,  Fee Income,327.53,314.18,-13.35,-4.08%,No ,Lalita Devi,03-09-2014
+BA00621,2013,3,March,Q1,North Zone,Rajasthan,Corporate Banking,Total Disbursement,1581.13,2030.49,449.36,28.42%,Y,Vijay Kumar,10-12-2018
+BA00622,2017,8,August,Q3,South Zone,Punjab,SME Banking,NPA Amount,1263.16,1039.49,-223.67,-17.71%,No,Ramesh Yadav,08-Nov-22
+BA00623,2017,8,August,Q3,  East Zone,telangana,SME Banking,RECOVERY AMOUNT,Rs.843.76,810.77,-32.99,-3.91%,No,Kavitha Subramanian,17-12-2019
+BA00624,2024,9,September,Q3,South Zone,  Gujarat,sme banking,Profit Before Tax,963.86,837.19,Rs.-126.67,-13.14,No,ramesh yadav,24-09-2024
+BA00625,2012,2,February,Q1,North Zone,Karnataka,Priority Banking,Total Deposits,4936.2,5999.54,1063.34,21.54%,Yes,Nitin Joshi,12-11-2020
+BA00626,2022,4,April,Q2,West Zone,Telangana,Corporate Banking,Recovery Amount,1972.79,2018.73,45.94,2.33%,Yes,RAMESH YADAV,29-Mar-22
+BA00627,2022,11,11,Q4,Central Zone,Tamil Nadu,  SME Banking,  NPA Amount,851.66,608.4,-243.26,-28.56%,No,amit patel,01-11-2022
+BA00628,2020,6,June,Q2,EAST ZONE,MADHYA PRADESH,Retail Banking,New Customer Acquisition,3580.66,3429.21,Rs.-151.45,-4.23,No,Vijay Kumar,24-06-2020
+BA00629,2020,1,January,Q1,CENTRAL ZONE,Telangana,SME Banking,Fee Income,2904.44,3585.38,Rs.680.94,23.44%,Yes,KAVITHA SUBRAMANIAN,08-07-2022
+BA00630,2023,2,February,Q1,West Zone,MAHARASHTRA,Priority Banking,Total Disbursement,4585.41,3542.81,-1042.6,-22.74%,No,Sunita Rao,05-11-2024
+BA00631,2016,4,Apr,Q2,Central Zone,Haryana,  NRI Banking,NPA Amount,2799.96,2406.16,-393.8,-14.06%,No,Anita Bose,24-04-2016
+BA00632,2022,3,Mar,Q1,East Zone,PUNJAB,CORPORATE BANKING,RECOVERY AMOUNT,2064.51,2067.78,3.27,0.16%,Yes,AMIT PATEL,27-02-2022
+BA00633,2016,9,September,Q3,East Zone,Maharashtra,NRI Banking,Cross Sell Revenue,780.65,555.3,-225.35,-28.87%,No,Kavitha Subramanian,04-05-2018
+BA00634,2025,7,7,Q3,South Zone,karnataka,SME Banking,Profit Before Tax,2484.29,3044.69,560.4,22.56%,Yes,  Sanjay Gupta,24-07-2025
+BA00635,2016,2,2,Q1,north zone,Odisha,NRI Banking,  Total Disbursement,1849.17,2237.81,388.64,21.02%,Yes,Lalita Devi,24-02-2016
+BA00636,2013,11,Nov,Q4,CENTRAL ZONE,Maharashtra,RETAIL BANKING,Cross Sell Revenue,3584.02,4129.54,545.52,15.22%,Yes,Amit Patel,09-10-2018
+BA00637,2023,7,July,Q3,Central Zone,Maharashtra,NRI Banking,Operating Expense,382.94,275.19,-107.75,-28.14%,No,NITIN JOSHI,24-07-2023
+BA00638,2020,9,September,Q3,East Zone,RAJASTHAN,Priority Banking,Fee Income,3193.79,3660.96,467.17,14.63%,Yes,Meena Iyer,18-06-2016
+BA00639,2023,8,August,Q3,North Zone,Gujarat,Retail Banking,Net Interest Income,Rs.2519.13,2821.28,302.15,11.99%,Yes,meena iyer,24-08-2023
+BA00640,2025,7,July,Q3,East Zone,KERALA,SME Banking,Profit Before Tax,3464.26,3937.03,472.77,13.65%,Yes,  Vijay Kumar,02-06-2025
+BA00641,2022,11,November,Q4,east zone,Haryana,Retail Banking,Recovery Amount,3366.89,2990.21,-376.68,-11.19%,No,Amit Patel,24-11-2022
+BA00642,2023,1,Jan,Q1,East Zone,Uttar Pradesh,NRI Banking,Fee Income,2048.14,2607.28,559.14,27.30%,Yes,mohan das,08-12-2025
+BA00643,2024,1,January,Q1,east zone,Rajasthan,Corporate Banking,Fee Income,3353.67,3272.4,-81.27,-2.42%,No,Kavitha Subramanian,02-04-2025
+BA00644,2019,7,Jul,Q3,North Zone,Rajasthan,corporate banking,Operating Expense,4144.92,3446.86,-698.06,-16.84%,No,Rajesh Sharma,24-07-2019
+BA00645,2024,5,May,Q2,West Zone,Madhya Pradesh,NRI Banking,Net Interest Income,1196.49,1352.43,155.94,13.03%,Yes,Meena Iyer,06-08-2025
+BA00646,2020,6,June,Q2,CENTRAL ZONE,TELANGANA,NRI Banking,Operating Expense,1237.02,1261.33,24.31,1.97%,Yes,Nitin Joshi,29-Jan-22
+BA00647,2019,2,February,Q1,North Zone,  Punjab,Corporate Banking,Fee Income,2812.86,2060.91,-751.95,-26.73%,No,Vijay Kumar,23-10-2025
+BA00648,2025,7,July,Q3,East Zone,Rajasthan,Corporate Banking,npa amount,1932.15,1980.38,48.23,2.50%,Yes,Arun Mehta,24-12-2025
+BA00649,2019,8,AUGUST,Q3,  Central Zone,  Andhra Pradesh,Retail Banking,Operating Expense,3981.58,4056.53,74.95,1.88%,Yes,Meena Iyer,24-08-2019
+BA00650,2024,2,February,Q1,East Zone,Rajasthan,NRI Banking,PROFIT BEFORE TAX,1353.46,Rs.1526.13,172.67,12.76%,Yes,MEENA IYER,08-Jul-25
+BA00651,2022,6,June,Q2,  East Zone,TELANGANA,NRI Banking,Cross Sell Revenue,3209.87,3194.36,-15.51,-0.48%,YES,NITIN JOSHI,13-01-2025
+BA00652,2024,6,JUNE,Q2,East Zone,Odisha,Priority Banking,new customer acquisition,1788.38,2151.04,362.66,20.28%,YES ,Mohan Das,25-10-2025
+BA00653,2019,8,August,Q3,North Zone,Tamil Nadu,priority banking,  Total Deposits,3272.78,3202.65,-70.13,-2.14%,No,Anita Bose,16-12-2025
+BA00654,2020,10,October,Q4,WEST ZONE,  Madhya Pradesh,SME Banking,PROFIT BEFORE TAX,644.78,796.15,151.37,23.48%,Yes,Meena Iyer,10-10-2024
+BA00655,2024,9,September,Q3,East Zone,uttar pradesh,Corporate Banking,Profit Before Tax,2358.42,2615.09,256.67,10.88%,Yes,Lalita Devi,11-02-2024
+BA00656,2019,2,February,Q1,East Zone,Tamil Nadu,Retail Banking,Total Deposits,1038.32,1262.42,224.1,21.58%,Yes,Kavitha Subramanian,24-02-2019
+BA00657,2018,8,August,Q3,North Zone,karnataka,Priority Banking,Net Interest Income,3846.69,,-353.3,-9.18%,No,Vijay Kumar,30-08-2023
+BA00658,2022,12,December,Q4,Central Zone,Punjab,NRI Banking,Recovery Amount,4773.41,4254.37,-519.04,-10.87%,No,sunita rao,24-12-2022
+BA00659,2018,8,Aug,Q3,central zone,Punjab,  Retail Banking,Profit Before Tax,4039.26,4058.84,19.58,0.48%,Yes,meena iyer,24-08-2018
+BA00660,2020,6,June,Q2,East Zone,Uttar Pradesh,Corporate Banking,CROSS SELL REVENUE,4011.44,4646.23,634.79,15.82%,Yes,Meena Iyer,24-06-2020
+BA00661,2022,8,August,Q3,South Zone,  Andhra Pradesh,  Priority Banking,Profit Before Tax,2307.38,1865.73,-441.65,-19.14%,No,Priya Nair,04-10-2023
+BA00662,2013,8,August,Q3,South Zone,tamil nadu,Priority Banking,New Customer Acquisition,4137.31,5216.03,1078.72,26.07%,Yes,Anita Bose,31-10-2016
+BA00663,2018,2,February,Q1,Central Zone,  West Bengal,Retail Banking,Profit Before Tax,1080.46,1246.06,165.6,15.33%,Yes,Deepa Krishnan,31-05-2020
+BA00664,2011,3,Mar,Q1,South Zone,Tamil Nadu,Priority Banking,NPA Amount,2918.79,2548.87,-369.92,-12.67%,Y,Deepa Krishnan,12-04-2014
+BA00665,2014,4,April,Q2,SOUTH ZONE,delhi,Retail Banking,NPA Amount,2414.79,2131.11,-283.68,-11.75%,No,Nitin Joshi,24-04-2014
+BA00666,2010,8,August,Q3,East Zone,Rajasthan,Priority Banking,  Profit Before Tax,243.68,286.37,42.69,17.52%,YES ,MOHAN DAS,16-08-2013
+BA00667,2024,10,October,Q4,South Zone,Delhi,NRI Banking,Total Disbursement,1077.99,1195.54,117.55,10.90%,Yes,Kavitha Subramanian,03-Dec-25
+BA00668,2012,6,June,Q2,west zone,Telangana,NRI BANKING,Total Deposits,1202.45,,-336.1,-27.95%,No,  Amit Patel,28-11-2018
+BA00669,2025,12,December,Q4,East Zone,Telangana,NRI Banking,NET INTEREST INCOME,1563.63,1782.44,218.81,13.99%,Yes,  Amit Patel,08-01-2025
+BA00670,2020,8,August,Q3,South Zone,Delhi,NRI Banking,net interest income,4391.11,5517.99,1126.88,25.66%,Yes,Lalita Devi,04-Jun-21
+BA00671,2019,8,August,Q3,NORTH ZONE,Uttar Pradesh,nri banking,Total Disbursement,4811.44,3619.21,-1192.23,-24.78%,No,LALITA DEVI,18-04-2023
+BA00672,2012,12,December,Q4,north zone,Haryana,Priority Banking,FEE INCOME,1411.68,1829.92,418.24,29.63%,Yes,deepa krishnan,28-11-2023
+BA00673,2025,1,1,Q1,West Zone,Kerala,NRI Banking,New Customer Acquisition,395,390.37,Rs.-4.63,-1.17%,No,Nitin Joshi,01-02-2025
+BA00674,2016,9,September,Q3,central zone,Rajasthan,Corporate Banking,Net Interest Income,3445.91,3121.48,-324.43,-9.41%,No,Rajesh Sharma,24-09-2016
+BA00675,2017,5,May,Q2,north zone,Uttar Pradesh,SME Banking,RECOVERY AMOUNT,657.8,819.17,161.37,24.53%,Yes,  Amit Patel,01-09-2019
+BA00676,2017,8,August,Q3,South Zone,DELHI,Priority Banking,  Fee Income,1723.89,1921.39,197.5,11.46%,Yes,Nitin Joshi,24-08-2017
+BA00677,2020,2,February,Q1,North Zone,Karnataka,  Retail Banking,Cross Sell Revenue,2726.32,3065.61,339.29,12.44%,Yes,Deepa Krishnan,09-03-2021
+BA00678,2014,8,August,Q3,South Zone,Delhi,Corporate Banking,New Customer Acquisition,3743.72,4600.05,856.33,22.87%,Yes,Vijay Kumar,07-Dec-15
+BA00679,2022,9,SEPTEMBER,Q3,North Zone,Rajasthan,NRI Banking,Profit Before Tax,3582.33,4314.22,731.89,20.43%,Yes,lalita devi,24-09-2022
+BA00680,2017,8,8,Q3,Central Zone,Karnataka,Corporate Banking,Total Deposits,1927.23,1565.59,-361.64,-18.76%,Y,AMIT PATEL,08-02-2021
+BA00681,2011,2,February,Q1,west zone,Gujarat,RETAIL BANKING,Operating Expense,1170.45,1375.99,205.54,17.56%,Yes,Nitin Joshi,06-05-2025
+BA00682,2011,3,MARCH,Q1,South Zone,Gujarat,Priority Banking,Profit Before Tax,1861.87,2031.57,169.7,9.11,Yes,anita bose,31-08-2022
+BA00683,2014,9,9,Q3,North Zone,punjab,NRI Banking,Profit Before Tax,1260.6,1155.91,-104.69,-8.30%,No,Anita Bose,18-Mar-16
+BA00684,2010,2,February,Q1,East Zone,West Bengal,Corporate Banking,  NPA Amount,709.48,911.38,201.9,28.46%,Yes,  Sanjay Gupta,15-07-2010
+BA00685,2022,12,DECEMBER,Q4,NORTH ZONE,Karnataka,Corporate Banking,Total Deposits,4477.75,5505.59,1027.84,22.95%,No ,Nitin Joshi,10-06-2023
+BA00686,2015,2,February,Q1,South Zone,Andhra Pradesh,Retail Banking,Profit Before Tax,Rs.2587.11,2071.66,-515.45,-19.92%,No,  Amit Patel,16-10-2024
+BA00687,2010,7,July,Q3,Central Zone,Tamil Nadu,corporate banking,Fee Income,3137.42,2803.57,-333.85,-10.64%,No,Meena Iyer,11-05-2024
+BA00688,2013,7,7,Q3,North Zone,PUNJAB,nri banking,Total Disbursement,4093.46,4582.42,488.96,11.94%,Yes,Sanjay Gupta,29-05-2023
+BA00689,2025,2,2,Q1,Central Zone,Tamil Nadu,Retail Banking,Total Disbursement,1269.92,1516.58,246.66,19.42%,Yes,  Amit Patel,18-Jul-25
+BA00690,2024,12,DECEMBER,Q4,South Zone,  Rajasthan,Priority Banking,Profit Before Tax,3973.85,3661.81,-312.04,-7.85%,No,sanjay gupta,24-12-2024
+BA00691,2014,8,August,Q3,Central Zone,Telangana,NRI Banking,NPA Amount,920.77,710.77,-210,-22.81%,YES ,Mohan Das,08-07-2024
+BA00692,2024,12,December,Q4,West Zone,Delhi,Retail Banking,  Profit Before Tax,2710.52,3488.94,778.42,28.72%,Yes,rajesh sharma,01-03-2025
+BA00693,2010,6,June,Q2,North Zone,madhya pradesh,SME Banking,Total Disbursement,3079.4,3396.11,316.71,10.28%,YES ,nitin joshi,20-03-2013
+BA00694,2013,10,Oct,Q4,SOUTH ZONE,Odisha,RETAIL BANKING,Total Deposits,3382.36,2622.14,-760.22,-22.48%,No,Vijay Kumar,17-05-2013
+BA00695,2018,7,July,Q3,North Zone,Telangana,Retail Banking,Cross Sell Revenue,2973.74,2630.59,-343.15,-11.54%,No,Vijay Kumar,24-07-2018
+BA00696,2023,2,February,Q1,Central Zone,uttar pradesh,SME Banking,RECOVERY AMOUNT,3652.54,4212.1,559.56,15.32%,Yes,Deepa Krishnan,24-02-2023
+BA00697,2014,8,August,Q3,Central Zone,West Bengal,Priority Banking,Profit Before Tax,4897.02,3543.29,-1353.73,-27.64,No,Arun Mehta,24-08-2014
+BA00698,2017,5,May,Q2,North Zone,West Bengal,Retail Banking,Total Disbursement,2959.88,2495.85,Rs.-464.03,-15.68%,No,anita bose,24-05-2017
+BA00699,2017,9,Sep,Q3,East Zone,Odisha,SME Banking,Profit Before Tax,3693.56,3754.36,60.8,1.65%,Yes,Kavitha Subramanian,16-12-2023
+BA00700,2010,12,December,Q4,WEST ZONE,Uttar Pradesh,Retail Banking,Net Interest Income,1975.97,1437.44,-538.53,-27.25%,Y,Sanjay Gupta,28-06-2025
+BA00701,2014,1,1,Q1,East Zone,Delhi,NRI Banking,Total Disbursement,4345.92,4745.66,399.74,9.20%,Yes,Arun Mehta,24-01-2014
+BA00702,2021,8,August,Q3,West Zone,  Telangana,Retail Banking,Cross Sell Revenue,1999.2,1985.72,-13.48,-0.67%,No,LALITA DEVI,19-03-2024
+BA00703,2020,8,August,Q3,South Zone,TELANGANA,SME Banking,Total Deposits,4476.46,3807.82,-668.64,-14.94%,No ,Kavitha Subramanian,11-Jan-25
+BA00704,2016,1,January,Q1,South Zone,  Tamil Nadu,nri banking,Total Disbursement,4670,6021.06,1351.06,28.93%,Yes,Amit Patel,04-02-2025
+BA00705,2015,3,3,Q1,NORTH ZONE,Odisha,SME BANKING,Net Interest Income,887.41,627.07,-260.34,-29.34%,No,Rajesh Sharma,13-09-2022
+BA00706,2020,6,June,Q2,Central Zone,Andhra Pradesh,Corporate Banking,Total Disbursement,282.4,341.56,59.16,20.95%,Yes,Deepa Krishnan,09-06-2024
+BA00707,2020,11,November,Q4,South Zone,Kerala,Corporate Banking,Cross Sell Revenue,4062.13,Rs.4366.65,304.52,7.50%,YES,Amit Patel,24-11-2020
+BA00708,2013,3,March,Q1,North Zone,Gujarat,  Corporate Banking,Recovery Amount,3849.96,2938.22,-911.74,-23.68%,No,Rajesh Sharma,01-10-2023
+BA00709,2013,5,May,Q2,South Zone,Karnataka,Retail Banking,total disbursement,2901.66,2700.63,-201.03,-6.93%,No,Meena Iyer,24-05-2013
+BA00710,2021,9,Sep,Q3,West Zone,Rajasthan,  Retail Banking,NPA Amount,3486.93,3486.28,-0.65,-0.02%,No,Amit Patel,30-12-2023
+BA00711,2022,5,5,Q2,East Zone,maharashtra,Priority Banking,Profit Before Tax,1938.51,1672.57,,-13.72%,No,  Meena Iyer,20-Jul-22
+BA00712,2022,4,April,Q2,North Zone,Kerala,nri banking,Operating Expense,4924.71,5409.25,484.54,9.84%,Yes,amit patel,24-04-2022
+BA00713,2015,12,December,Q4,South Zone,maharashtra,Priority Banking,recovery amount,3303.94,3795.44,491.5,14.88%,Yes,Vijay Kumar,16-Nov-15
+BA00714,2013,2,February,Q1,South Zone,Telangana,NRI Banking,Operating Expense,4817.17,5169.72,352.55,7.32%,Yes,Vijay Kumar,24-02-2013
+BA00715,2019,2,FEBRUARY,Q1,North Zone,  Telangana,Retail Banking,Total Disbursement,911.94,1074.52,162.58,17.83%,Yes,Vijay Kumar,24-02-2019
+BA00716,2016,2,February,Q1,West Zone,karnataka,NRI Banking,Operating Expense,2638.04,3132.11,494.07,18.73%,Yes,amit patel,24-02-2016
+BA00717,2022,9,SEPTEMBER,Q3,Central Zone,Tamil Nadu,priority banking,NPA Amount,3592.38,3568.32,,-0.67%,No,Anita Bose,24-09-2022
+BA00718,2025,3,3,Q1,south zone,DELHI,Priority Banking,CROSS SELL REVENUE,3471.45,,-426.87,-12.30%,No,Priya Nair,24-03-2025
+BA00719,2025,11,November,Q4,North Zone,Delhi,Retail Banking,FEE INCOME,2751.18,2292.65,-634.23,-21.67%,No,VIJAY KUMAR,24-11-2025
+BA00720,2020,3,March,Q1,West Zone,Uttar Pradesh,SME Banking,Cross Sell Revenue,3191.27,2809.01,-382.26,-11.98%,No,Amit Patel,23-02-2024
+BA00721,2020,2,February,Q1,East Zone,Telangana,Priority Banking,Total Disbursement,1242.84,1398.34,155.5,12.51%,Yes,Vijay Kumar,28-03-2025
+BA00722,2010,9,Sep,Q3,Central Zone,  Odisha,Corporate Banking,Total Deposits,3258.62,2478.59,Rs.-780.03,-23.94%,No,Arun Mehta,14-10-2016
+BA00723,2023,9,SEPTEMBER,Q3,North Zone,Gujarat,SME Banking,New Customer Acquisition,973.13,683.81,-289.32,-29.73%,No,Vijay Kumar,01-09-2025
+BA00724,2019,4,APRIL,Q2,South Zone,Rajasthan,Priority Banking,Profit Before Tax,930.19,1153.47,223.28,24.00%,N,Amit Patel,03-08-2024
+BA00725,2025,12,Dec,Q4,East Zone,Tamil Nadu,Corporate Banking,Total Deposits,62.91,45.06,-17.85,-28.38%,No,Sanjay Gupta,12-07-2025
+BA00726,2021,2,February,Q1,  North Zone,Delhi,sme banking,Recovery Amount,985.02,1147.92,162.9,16.54%,Yes,  Lalita Devi,02-11-2024
+BA00727,2024,4,April,Q2,South Zone,Tamil Nadu,Retail Banking,Total Disbursement,3760.12,4138.2,Rs.378.08,10.05%,Yes,Sunita Rao,07-Apr-25
+BA00728,2021,7,July,Q3,East Zone,Maharashtra,Retail Banking,  Total Disbursement,4831.17,5405.64,574.47,11.89%,Yes,Sunita Rao,01-Feb-23
+BA00729,2024,10,October,Q4,  East Zone,punjab,SME Banking,FEE INCOME,2490.63,2058.49,-432.14,-17.35%,No,Rajesh Sharma,06-01-2025
+BA00730,2014,5,May,Q2,North Zone,maharashtra,Retail Banking,New Customer Acquisition,4577.16,5552.38,975.22,21.31%,Yes,Ramesh Yadav,24-10-2023
+BA00731,2011,9,September,Q3,South Zone,Karnataka,Corporate Banking,Operating Expense,1734.56,1624.32,-110.24,-6.36%,No,Kavitha Subramanian,01-10-2016
+BA00732,2018,11,November,Q4,central zone,Haryana,  Retail Banking,  Net Interest Income,2583.23,3034.76,451.53,17.48%,Yes,Vijay Kumar,12-07-2025
+BA00733,2018,9,SEPTEMBER,Q3,East Zone,Uttar Pradesh,Corporate Banking,Fee Income,2600.58,1848.41,-752.17,-28.92%,No,VIJAY KUMAR,06-03-2020
+BA00734,2020,6,June,Q2,East Zone,Punjab,NRI Banking,Total Deposits,523.05,456.8,-66.25,-12.67,No,Anita Bose,19-Jun-20
+BA00735,2024,3,March,Q1,NORTH ZONE,Uttar Pradesh,Corporate Banking,Net Interest Income,1678.29,1396.37,Rs.-281.92,-16.80%,No,PRIYA NAIR,24-03-2024
+BA00736,2010,8,August,Q3,West Zone,Andhra Pradesh,Corporate Banking,New Customer Acquisition,4149.4,3911.35,-238.05,-5.74%,No ,ANITA BOSE,05-Nov-14
+BA00737,2010,3,March,Q1,South Zone,Karnataka,NRI Banking,Total Deposits,2814.92,2354.79,-460.13,-16.35,No,  Amit Patel,17-05-2010
+BA00738,2020,4,April,Q2,North Zone,Karnataka,NRI Banking,Operating Expense,4616.19,4221.4,-394.79,-8.55%,No,Meena Iyer,27-12-2024
+BA00739,2012,8,Aug,Q3,North Zone,Haryana,PRIORITY BANKING,Fee Income,1333.48,1688.99,355.51,26.66%,Yes,Amit Patel,01-03-2016
+BA00740,2019,2,2,Q1,Central Zone,punjab,SME Banking,OPERATING EXPENSE,4996.17,5381.16,384.99,7.71%,Yes,Lalita Devi,02-05-2025
+BA00741,2020,6,June,Q2,West Zone,Odisha,RETAIL BANKING,Recovery Amount,986.07,780.02,-206.05,-20.90%,No,VIJAY KUMAR,24-06-2020
+BA00742,2010,3,March,Q1,West Zone,Punjab,Priority Banking,Fee Income,4855.82,,-1074.75,-22.13%,No,Nitin Joshi,15-12-2018
+BA00743,2015,3,March,Q1,West Zone,madhya pradesh,nri banking,Total Deposits,3758.1,4146.09,387.99,10.32%,Yes,Priya Nair,11-04-2018
+BA00744,2012,11,November,Q4,North Zone,Kerala,Priority Banking,Recovery Amount,4496.86,5148.08,651.22,14.48%,Yes,Mohan Das,24-11-2012
+BA00745,2010,4,Apr,Q2,West Zone,Rajasthan,SME Banking,Profit Before Tax,4749.83,5908.52,1158.69,24.39%,Yes,Ramesh Yadav,23-May-22
+BA00746,2014,4,April,Q2,North Zone,Tamil Nadu,Corporate Banking,NPA AMOUNT,843.65,768.04,-75.61,-8.96%,No,Rajesh Sharma,24-04-2014
+BA00747,2020,12,December,Q4,North Zone,Punjab,SME Banking,NPA Amount,1099.22,952.49,-146.73,-13.35%,No,ramesh yadav,10-Jun-21
+BA00748,2011,12,December,Q4,West Zone,Odisha,Corporate Banking,  NPA Amount,2549.68,2040.88,-508.8,-19.96,No,Deepa Krishnan,24-12-2011
+BA00749,2022,5,May,Q2,North Zone,  Andhra Pradesh,retail banking,TOTAL DEPOSITS,527.51,566.11,38.6,7.32%,Yes,Rajesh Sharma,04-06-2023
+BA00750,2025,5,May,Q2,West Zone,West Bengal,Corporate Banking,NET INTEREST INCOME,2418.46,1814.38,,-24.98%,No,rajesh sharma,29-12-2025
+BA00751,2025,5,5,Q2,East Zone,Telangana,Priority Banking,TOTAL DEPOSITS,856.73,1093.8,237.07,27.67%,Y,Deepa Krishnan,13-12-2025
+BA00752,2010,7,July,Q3,North Zone,Karnataka,NRI Banking,NET INTEREST INCOME,2743.26,2743.46,0.2,0.01%,Yes,anita bose,24-May-11
+BA00753,2010,9,SEPTEMBER,Q3,Central Zone,Punjab,NRI Banking,NEW CUSTOMER ACQUISITION,462.44,424.68,Rs.-37.76,-8.16%,No,Nitin Joshi,30-Apr-11
+BA00754,2021,8,8,Q3,west zone,gujarat,Priority Banking,Cross Sell Revenue,1185.6,1225.88,40.28,3.40%,Yes,rajesh sharma,31-05-2022
+BA00755,2016,6,June,Q2,Central Zone,Andhra Pradesh,Retail Banking,Profit Before Tax,1577.51,1917.15,Rs.339.64,21.53%,Yes,Nitin Joshi,24-06-2016
+BA00756,2021,10,October,Q4,  East Zone,Karnataka,Corporate Banking,TOTAL DISBURSEMENT,3608.45,3805.08,196.63,5.45%,Yes,Mohan Das,09-07-2025
+BA00757,2013,2,Feb,Q1,North Zone,Andhra Pradesh,NRI Banking,Recovery Amount,2686.944,2239.12,484.34,27.60%,yes,ramesh yadav,11-04-2023
+BA00758,2012,9,SEPTEMBER,Q3,South Zone,Gujarat,Retail Banking,Net Interest Income,3436.94,2522.19,-914.75,-26.62%,No,Ramesh Yadav,24-09-2012
+BA00759,2014,1,January,Q1,South Zone,Punjab,Retail Banking,Profit Before Tax,4826.75,4885.31,58.56,1.21%,Yes,Vijay Kumar,24-01-2014
+BA00760,2021,1,January,Q1,West Zone,Telangana,SME Banking,Profit Before Tax,1291.14,1583.72,292.58,22.66%,Yes,Sunita Rao,24-01-2021
+BA00761,2012,3,March,Q1,CENTRAL ZONE,ANDHRA PRADESH,Priority Banking,Total Deposits,3763.94,4814.48,1050.54,27.91%,Yes,Kavitha Subramanian,19-04-2023
+BA00762,2015,12,December,Q4,South Zone,KERALA,Retail Banking,NPA Amount,464.38,432.94,Rs.-31.44,-6.77%,No,Sunita Rao,13-01-2023
+BA00763,2023,12,December,Q4,East Zone,Telangana,Corporate Banking,  Fee Income,2997.27,3023.58,26.31,0.88,Yes,Sunita Rao,18-Feb-23
+BA00764,2015,7,July,Q3,NORTH ZONE,Uttar Pradesh,Corporate Banking,Profit Before Tax,2848.04,3653.08,805.04,28.27%,Yes,Sunita Rao,24-05-2017
+BA00765,2015,5,MAY,Q2,south zone,  Telangana,Priority Banking,Net Interest Income,4537.95,4865.8,327.85,7.22,Yes,Vijay Kumar,18-11-2024
+BA00766,2021,12,December,Q4,South Zone,Delhi,SME Banking,Fee Income,2830.36,3333.63,503.27,17.78%,Yes,Arun Mehta,03-02-2024
+BA00767,2019,5,MAY,Q2,EAST ZONE,West Bengal,NRI Banking,Recovery Amount,703.1,560.21,-142.89,-20.32%,No,Lalita Devi,30-06-2023
+BA00768,2021,1,January,Q1,CENTRAL ZONE,Tamil Nadu,nri banking,Cross Sell Revenue,2416.43,2098.03,-318.4,-13.18%,No,Mohan Das,04-07-2024
+BA00769,2018,3,March,Q1,East Zone,Delhi,NRI Banking,Total Disbursement,3425.72,3371.2,-54.52,-1.59%,No,meena iyer,22-10-2024
+BA00770,2011,7,Jul,Q3,south zone,Karnataka,Priority Banking,  Fee Income,3163.82,2840.14,-323.68,-10.23%,No,Arun Mehta,22-06-2022
+BA00771,2021,5,May,Q2,West Zone,KERALA,SME Banking,NPA Amount,773.91,643.24,-130.67,-16.88%,No,Nitin Joshi,07-Jul-25
+BA00772,2019,10,Oct,Q4,North Zone,Telangana,Priority Banking,FEE INCOME,445.09,474.25,29.16,6.55%,Yes,Lalita Devi,29-06-2023
+BA00773,2014,4,APRIL,Q2,East Zone,Punjab,NRI BANKING,Total Deposits,2830.69,2717.05,-113.64,-4.01%,No,Meena Iyer,24-04-2014
+BA00774,2011,7,Jul,Q3,north zone,Maharashtra,SME Banking,Net Interest Income,1348.02,1623.68,275.66,20.45,Yes,Mohan Das,01-Oct-19
+BA00775,2021,2,2,Q1,North Zone,Kerala,Retail Banking,RECOVERY AMOUNT,410.81,339.93,-70.88,-17.25%,No,Sanjay Gupta,24-02-2021
+BA00776,2018,11,November,Q4,East Zone,West Bengal,SME Banking,Total Deposits,2989.59,2701.95,-287.64,-9.62%,No,priya nair,04-05-2021
+BA00777,2018,7,July,Q3,NORTH ZONE,Madhya Pradesh,SME Banking,Total Disbursement,4981.12,5064.17,83.05,1.67%,Yes,Vijay Kumar,01-10-2021
+BA00778,2016,2,February,Q1,Central Zone,Haryana,NRI Banking,Recovery Amount,1443.36,1266.44,-176.92,-12.26%,No,Lalita Devi,06-02-2017
+BA00779,2025,8,Aug,Q3,West Zone,Punjab,Retail Banking,total deposits,336.83,324.85,-11.98,-3.56%,No,Amit Patel,11-09-2025
+BA00780,2024,8,Aug,Q3,West Zone,Punjab,SME Banking,total deposits,4828.79,5602.46,773.67,16.02%,Yes,Mohan Das,24-08-2024
+BA00781,2021,1,JANUARY,Q1,north zone,odisha,NRI BANKING,Recovery Amount,2264.74,2836.39,571.65,25.24%,Yes,Rajesh Sharma,24-01-2021
+BA00782,2012,5,May,Q2,East Zone,Telangana,SME Banking,NPA Amount,3430.39,2920.64,-509.75,-14.86%,No,meena iyer,21-10-2017
+BA00783,2024,3,March,Q1,North Zone,Odisha,Priority Banking,Total Deposits,278.17,321.49,43.32,15.57%,Yes,Kavitha Subramanian,15-04-2024
+BA00784,2023,5,May,Q2,West Zone,Rajasthan,SME Banking,RECOVERY AMOUNT,1701,1632.34,Rs.-68.66,-4.04%,No,AMIT PATEL,24-05-2023
+BA00785,2024,10,10,Q4,South Zone,Tamil Nadu,retail banking,Profit Before Tax,1650.41,1811.36,160.95,9.75%,Yes,Meena Iyer,24-10-2024
+BA00786,2017,12,Dec,Q4,central zone,Punjab,Priority Banking,Profit Before Tax,568.31,507.56,Rs.-60.75,-10.69%,No ,Lalita Devi,07-Feb-23
+BA00787,2014,7,Jul,Q3,south zone,Odisha,Retail Banking,New Customer Acquisition,3321.984,2768.32,-848.42,-23.46%,No,Arun Mehta,18-Nov-19
+BA00788,2010,7,July,Q3,East Zone,Maharashtra,nri banking,New Customer Acquisition,4579.3,5863.84,,28.05%,Yes,Mohan Das,25-04-2015
+BA00789,2010,8,August,Q3,West Zone,Tamil Nadu,SME BANKING,TOTAL DEPOSITS,202.62,250.62,48,23.69%,Y,Deepa Krishnan,24-08-2010
+BA00790,2022,10,October,Q4,West Zone,Maharashtra,Retail Banking,Recovery Amount,1697.16,1498.48,-198.68,-11.71%,No,Mohan Das,06-06-2022
+BA00791,2025,5,May,Q2,Central Zone,Odisha,CORPORATE BANKING,Net Interest Income,4749.55,6129.24,1379.69,29.05%,Yes,Mohan Das,02-02-2025
+BA00792,2024,1,January,Q1,West Zone,UTTAR PRADESH,PRIORITY BANKING,Profit Before Tax,2544.47,2587.63,43.16,1.70%,yes,Nitin Joshi,25-12-2025
+BA00793,2012,12,December,Q4,South Zone,Haryana,Priority Banking,New Customer Acquisition,2543.27,2908.89,365.62,14.38%,Yes,Arun Mehta,24-12-2012
+BA00794,2025,10,October,Q4,West Zone,Tamil Nadu,SME Banking,Total Disbursement,2795.13,3577.82,Rs.782.69,28.00%,Yes,ARUN MEHTA,30-06-2025
+BA00795,2023,5,May,Q2,  South Zone,WEST BENGAL,SME BANKING,Fee Income,1394.29,1287.08,-107.21,-7.69%,No,Rajesh Sharma,20-10-2024
+BA00796,2020,6,Jun,Q2,East Zone,Delhi,SME Banking,Fee Income,3666.29,3121.17,-545.12,-14.87%,Y,Priya Nair,24-06-2020
+BA00797,2025,10,OCTOBER,Q4,East Zone,Tamil Nadu,Priority Banking,Operating Expense,2719.52,Rs.2885.19,165.67,6.09%,Yes,Deepa Krishnan,03-Mar-25
+BA00798,2020,11,November,Q4,central zone,Tamil Nadu,  Priority Banking,  Fee Income,343.64,390.5,46.86,13.64%,yes,Priya Nair,24-11-2020
+BA00799,2023,4,Apr,Q2,North Zone,telangana,Corporate Banking,Net Interest Income,Rs.3368.25,4079.46,711.21,21.12%,Yes,Lalita Devi,24-07-2025
+BA00800,2019,6,June,Q2,West Zone,  Andhra Pradesh,Corporate Banking,  Profit Before Tax,1551.2,1314.52,-236.68,-15.26%,No,Nitin Joshi,24-06-2019
+BA00801,2013,1,JANUARY,Q1,  South Zone,Haryana,PRIORITY BANKING,Cross Sell Revenue,1978.2,1780.47,-197.73,-10,No,Deepa Krishnan,24-01-2013
+BA00802,2023,6,June,Q2,West Zone,TELANGANA,CORPORATE BANKING,Total Deposits,2713.82,2576.05,-137.77,-5.08%,No,RAMESH YADAV,20-06-2025
+BA00803,2024,2,February,Q1,CENTRAL ZONE,Uttar Pradesh,corporate banking,Operating Expense,4621.96,3560.91,-1061.05,-22.96%,No,Deepa Krishnan,01-10-2024
+BA00804,2023,6,June,Q2,South Zone,UTTAR PRADESH,PRIORITY BANKING,total disbursement,4234.77,3833.55,-401.22,-9.47%,No,Sanjay Gupta,07-11-2023
+BA00805,2013,7,July,Q3,South Zone,Maharashtra,Retail Banking,New Customer Acquisition,2611.83,2314,-297.83,-11.40%,No,Kavitha Subramanian,24-07-2013
+BA00806,2019,12,December,Q4,West Zone,delhi,Priority Banking,operating expense,3442.55,3680.06,237.51,6.90%,Yes,Deepa Krishnan,19-Sep-24
+BA00807,2017,5,May,Q2,SOUTH ZONE,Kerala,Corporate Banking,Profit Before Tax,4704.41,3580.99,-1123.42,-23.88%,No,Nitin Joshi,04-12-2025
+BA00808,2023,2,February,Q1,South Zone,KARNATAKA,Retail Banking,Operating Expense,4108.6,5130.86,,24.88%,Yes,Vijay Kumar,21-01-2025
+BA00809,2011,8,August,Q3,east zone,TAMIL NADU,Retail Banking,Net Interest Income,4316.82,4230.46,-86.36,-2.00%,No,Ramesh Yadav,04-03-2025
+BA00810,2024,7,July,Q3,West Zone,Punjab,sme banking,Operating Expense,532.97,520.26,-12.71,-2.39%,No,Kavitha Subramanian,12-03-2024
+BA00811,2017,3,March,Q1,SOUTH ZONE,Haryana,Corporate Banking,Total Deposits,1870.83,1422.39,-448.44,-23.97%,No,Nitin Joshi,24-03-2017
+BA00812,2017,12,12,Q4,  North Zone,Uttar Pradesh,NRI Banking,net interest income,4537.332,3781.11,-1207.96,-24.21%,N,anita bose,24-12-2017
+BA00813,2011,8,August,Q3,Central Zone,Madhya Pradesh,Corporate Banking,Operating Expense,4005.62,3057.27,-948.35,-23.68%,No,arun mehta,04-03-2025
+BA00814,2025,3,March,Q1,North Zone,Uttar Pradesh,Priority Banking,Recovery Amount,2084.89,2548.28,463.39,22.23%,Yes,ramesh yadav,07-09-2025
+BA00815,2024,1,Jan,Q1,CENTRAL ZONE,  Andhra Pradesh,PRIORITY BANKING,New Customer Acquisition,Rs.3437.96,2467.29,-970.67,-28.23%,No,arun mehta,27-Oct-24
+BA00816,2021,2,February,Q1,SOUTH ZONE,Uttar Pradesh,SME Banking,TOTAL DISBURSEMENT,764.13,697.5,-66.63,-8.72%,No,deepa krishnan,26-Apr-25
+BA00817,2010,7,JULY,Q3,East Zone,Maharashtra,NRI Banking,NPA Amount,2809.16,2775.5,-33.66,-1.20%,No,Rajesh Sharma,24-07-2010
+BA00818,2019,8,Aug,Q3,Central Zone,Odisha,Corporate Banking,NPA Amount,1855.8,1506.28,-349.52,-18.83%,No,DEEPA KRISHNAN,04-08-2019
+BA00819,2014,1,1,Q1,CENTRAL ZONE,kerala,Retail Banking,  Fee Income,857.6,648.14,-209.46,-24.42%,No,Deepa Krishnan,16-06-2017
+BA00820,2016,3,MARCH,Q1,South Zone,Rajasthan,Priority Banking,PROFIT BEFORE TAX,284.59,256.23,-28.36,-9.96%,No,Meena Iyer,11-08-2019
+BA00821,2014,10,October,Q4,North Zone,haryana,  SME Banking,operating expense,4531.94,4205.06,Rs.-326.88,-7.21%,No,Amit Patel,07-07-2021
+BA00822,2016,3,March,Q1,SOUTH ZONE,Delhi,priority banking,OPERATING EXPENSE,4671.34,4075.93,-595.41,-12.75%,No,Vijay Kumar,10-06-2022
+BA00823,2011,9,Sep,Q3,  West Zone,West Bengal,NRI Banking,Net Interest Income,574.71,508.22,Rs.-66.49,-11.57%,No,Vijay Kumar,07-09-2011
+BA00824,2010,3,March,Q1,South Zone,gujarat,  Corporate Banking,RECOVERY AMOUNT,4702.63,3957.93,-744.7,-15.84%,No ,Amit Patel,05-Mar-16
+BA00825,2011,11,Nov,Q4,West Zone,  Gujarat,Priority Banking,New Customer Acquisition,4681.65,4039,-642.65,-13.73%,No,Priya Nair,31-05-2015
+BA00826,2011,7,July,Q3,Central Zone,Karnataka,Retail Banking,Operating Expense,3688.04,4412.1,724.06,19.63%,Yes,lalita devi,24-07-2011
+BA00827,2011,12,December,Q4,south zone,Maharashtra,Priority Banking,Operating Expense,620.38,577.26,-43.12,-6.95%,No,Nitin Joshi,15-Nov-11
+BA00828,2011,1,1,Q1,EAST ZONE,Odisha,Priority Banking,  Net Interest Income,1934.04,2000.22,,3.42%,Yes,Ramesh Yadav,24-01-2011
+BA00829,2025,7,July,Q3,West Zone,Telangana,NRI Banking,NPA Amount,2199.49,2018.42,-181.07,-8.23%,No,Nitin Joshi,07-01-2025
+BA00830,2010,9,SEPTEMBER,Q3,South Zone,Telangana,SME Banking,NPA Amount,4781.37,4514.82,-266.55,-5.57%,No,Anita Bose,21-Oct-18
+BA00831,2012,1,January,Q1,North Zone,  Andhra Pradesh,RETAIL BANKING,Cross Sell Revenue,3518.86,2743.63,-775.23,-22.03%,No,Amit Patel,28-Oct-12
+BA00832,2012,3,March,Q1,East Zone,West Bengal,retail banking,Fee Income,2115.648,1763.04,24.78,1.43%,Yes,Deepa Krishnan,11-09-2024
+BA00833,2023,9,Sep,Q3,South Zone,Karnataka,Retail Banking,Recovery Amount,209.97,147.55,-62.42,-29.73%,No,RAJESH SHARMA,06-Jul-23
+BA00834,2010,2,February,Q1,West Zone,KARNATAKA,Retail Banking,Fee Income,3465.84,2643.58,-822.26,-23.72%,No,Ramesh Yadav,18-08-2016
+BA00835,2015,9,September,Q3,  Central Zone,Kerala,SME Banking,Recovery Amount,175.84,135.59,-40.25,-22.89%,No,amit patel,08-01-2023
+BA00836,2021,1,January,Q1,north zone,Rajasthan,  NRI Banking,Recovery Amount,544.53,705.06,160.53,29.48%,Yes,Anita Bose,07-10-2024
+BA00837,2022,1,January,Q1,South Zone,gujarat,NRI Banking,operating expense,4013.27,3837.86,-175.41,-4.37%,No,Ramesh Yadav,10-Jan-24
+BA00838,2012,10,October,Q4,CENTRAL ZONE,Tamil Nadu,Corporate Banking,NPA Amount,991.14,862.12,-129.02,-13.02%,No,Lalita Devi,30-Jun-12
+BA00839,2025,11,November,Q4,EAST ZONE,Karnataka,Priority Banking,profit before tax,4438.39,5412.69,974.3,21.95%,Yes,Meena Iyer,29-08-2025
+BA00840,2020,6,JUNE,Q2,West Zone,Haryana,PRIORITY BANKING,NET INTEREST INCOME,4612.15,4393.38,-218.77,-4.74,No,MOHAN DAS,13-06-2022
+BA00841,2022,4,April,Q2,East Zone,Tamil Nadu,Corporate Banking,Profit Before Tax,528.34,682.97,154.63,29.27%,Yes,Priya Nair,24-04-2022
+BA00842,2023,1,January,Q1,WEST ZONE,West Bengal,corporate banking,Cross Sell Revenue,3594,4382.71,788.71,21.95%,Yes,Mohan Das,24-01-2023
+BA00843,2015,10,October,Q4,South Zone,West Bengal,Priority Banking,Net Interest Income,2959.78,2872.26,-87.52,-2.96%,No,Amit Patel,09-03-2015
+BA00844,2020,10,October,Q4,Central Zone,Odisha,  NRI Banking,CROSS SELL REVENUE,3726.56,4392.65,666.09,17.87%,Yes,Deepa Krishnan,05-Apr-23
+BA00845,2019,9,September,Q3,Central Zone,DELHI,NRI Banking,Cross Sell Revenue,3279.11,3978.88,699.77,21.34%,N,Deepa Krishnan,08-07-2022
+BA00846,2020,5,May,Q2,Central Zone,Gujarat,Corporate Banking,New Customer Acquisition,2187.26,2081.93,-105.33,-4.82,No,Ramesh Yadav,13-01-2022
+BA00847,2021,5,May,Q2,north zone,haryana,CORPORATE BANKING,TOTAL DISBURSEMENT,4360.41,3686.45,-673.96,-15.46%,No,Amit Patel,31-Mar-24
+BA00848,2012,5,MAY,Q2,Central Zone,Punjab,  Corporate Banking,Cross Sell Revenue,3396.564,2830.47,491.07,20.99%,Yes,Rajesh Sharma,19-Mar-12
+BA00849,2011,5,MAY,Q2,North Zone,DELHI,Retail Banking,Profit Before Tax,1497.65,1769.58,271.93,18.16%,Yes,Ramesh Yadav,02-Aug-23
+BA00850,2020,4,APRIL,Q2,Central Zone,Telangana,Priority Banking,Recovery Amount,3183.36,2954.73,-228.63,-7.18%,No,Priya Nair,01-12-2021
+BA00851,2017,10,October,Q4,South Zone,Rajasthan,corporate banking,Total Disbursement,4805.94,3992.26,-813.68,-16.93%,No,Mohan Das,26-08-2021
+BA00852,2018,7,July,Q3,North Zone,Gujarat,Retail Banking,Profit Before Tax,1707.1,2105.14,398.04,23.32%,Yes,Amit Patel,11-01-2019
+BA00853,2014,10,Oct,Q4,West Zone,Odisha,corporate banking,  Fee Income,4632.76,4927.19,294.43,6.36%,Yes,Deepa Krishnan,05-10-2018
+BA00854,2017,9,SEPTEMBER,Q3,West Zone,Andhra Pradesh,Retail Banking,Cross Sell Revenue,2775.09,Rs.1990.75,-784.34,-28.26%,No,Mohan Das,24-09-2017
+BA00855,2015,12,December,Q4,East Zone,  Uttar Pradesh,  Corporate Banking,Profit Before Tax,2435.69,1809.03,-626.66,-25.73%,No,deepa krishnan,24-12-2015
+BA00856,2024,1,Jan,Q1,South Zone,Haryana,NRI Banking,OPERATING EXPENSE,2155.82,1758.33,-397.49,-18.44%,No,lalita devi,08-02-2025
+BA00857,2017,4,April,Q2,Central Zone,West Bengal,NRI Banking,Fee Income,2173.47,1629.43,-544.04,-25.03%,No,Ramesh Yadav,19-09-2024
+BA00858,2021,6,JUNE,Q2,North Zone,  Karnataka,Retail Banking,Total Disbursement,1034.15,1150.85,116.7,11.28%,Yes,RAMESH YADAV,05-07-2022
+BA00859,2012,7,Jul,Q3,East Zone,kerala,Priority Banking,  Fee Income,4850.16,5351,500.84,10.33%,Yes,RAJESH SHARMA,08-10-2025
+BA00860,2024,7,July,Q3,North Zone,Delhi,Corporate Banking,OPERATING EXPENSE,4766.35,5476.41,710.06,14.9,Yes,Meena Iyer,20-11-2024
+BA00861,2022,2,Feb,Q1,East Zone,Delhi,NRI BANKING,Recovery Amount,2514.05,2324.16,-189.89,-7.55%,No,vijay kumar,19-01-2024
+BA00862,2015,12,December,Q4,East Zone,Haryana,SME BANKING,Total Deposits,1875.68,1623.29,-252.39,-13.46%,No,Sunita Rao,24-12-2020
+BA00863,2024,1,January,Q1,Central Zone,Andhra Pradesh,priority banking,TOTAL DISBURSEMENT,2540.95,3014.53,473.58,18.64%,N,  Priya Nair,19-May-24
+BA00864,2021,5,May,Q2,Central Zone,Punjab,Priority Banking,  Fee Income,73.53,55.88,-17.65,-24.01%,No,Sanjay Gupta,03-08-2025
+BA00865,2013,3,3,Q1,NORTH ZONE,Madhya Pradesh,Retail Banking,Net Interest Income,1982.09,2189.16,207.07,10.45%,Yes,Nitin Joshi,07-03-2015
+BA00866,2018,3,March,Q1,Central Zone,Delhi,Priority Banking,Recovery Amount,1255.59,942.96,-312.63,-24.90%,No,  Amit Patel,15-07-2025
+BA00867,2022,3,March,Q1,East Zone,Andhra Pradesh,RETAIL BANKING,Fee Income,Rs.4715.05,4834.54,119.49,2.53%,Yes,Ramesh Yadav,05-03-2024
+BA00868,2012,11,November,Q4,north zone,Karnataka,Retail Banking,  Cross Sell Revenue,73.64,55.12,-18.52,-25.15%,No,Nitin Joshi,30-05-2013
+BA00869,2016,1,1,Q1,South Zone,Telangana,Priority Banking,  Fee Income,1174.07,Rs.1124.56,-49.51,-4.22%,No ,Rajesh Sharma,23-08-2019
+BA00870,2015,5,MAY,Q2,  West Zone,Madhya Pradesh,NRI Banking,Total Deposits,4426.53,4272.17,-154.36,-3.49%,No,Kavitha Subramanian,27-02-2023
+BA00871,2015,12,12,Q4,South Zone,Odisha,Retail Banking,NPA Amount,1460.58,1645.55,184.97,12.66%,Yes,deepa krishnan,13-06-2015
+BA00872,2016,1,January,Q1,WEST ZONE,maharashtra,SME Banking,Net Interest Income,588.36,608.88,20.52,3.49%,Yes,Kavitha Subramanian,16-09-2022
+BA00873,2011,5,May,Q2,South Zone,Gujarat,retail banking,Profit Before Tax,3514.43,4496.58,982.15,27.95%,Yes,deepa krishnan,22-12-2015
+BA00874,2023,8,8,Q3,West Zone,Uttar Pradesh,Corporate Banking,Total Disbursement,4908.12,6242.85,1334.73,27.19%,Yes,MOHAN DAS,24-08-2023
+BA00875,2016,8,August,Q3,South Zone,Andhra Pradesh,Corporate Banking,NPA Amount,1991.35,1981.04,-10.31,-0.52%,No,  Amit Patel,12-Jun-25
+BA00876,2015,3,March,Q1,North Zone,Punjab,PRIORITY BANKING,Recovery Amount,3090.8,3278.88,188.08,6.09%,Yes,DEEPA KRISHNAN,16-Jul-19
+BA00877,2021,6,June,Q2,North Zone,  Rajasthan,Retail Banking,Total Disbursement,4272.18,3475.29,-796.89,-18.65%,No,Anita Bose,22-08-2024
+BA00878,2014,8,Aug,Q3,South Zone,west bengal,retail banking,PROFIT BEFORE TAX,1773.18,2201.76,428.58,24.17,Yes,Nitin Joshi,24-08-2014
+BA00879,2012,12,December,Q4,West Zone,Odisha,SME Banking,RECOVERY AMOUNT,1637.73,1242.79,-394.94,-24.12%,No,ANITA BOSE,15-May-13
+BA00880,2022,12,Dec,Q4,East Zone,Rajasthan,Priority Banking,Fee Income,4318.14,5381.93,1063.79,24.64%,Yes,Amit Patel,24-12-2022
+BA00881,2011,7,July,Q3,East Zone,Odisha,  NRI Banking,Recovery Amount,2520.6,2531.2,10.6,0.42%,Yes,Rajesh Sharma,17-07-2013
+BA00882,2017,6,June,Q2,West Zone,maharashtra,Corporate Banking,Total Deposits,2476.11,3075.97,599.86,24.23%,Yes,Mohan Das,24-06-2017
+BA00883,2017,1,January,Q1,Central Zone,Kerala,Retail Banking,  Recovery Amount,61.4,71.47,10.07,16.40%,Yes,Ramesh Yadav,16-09-2017
+BA00884,2016,4,Apr,Q2,East Zone,MADHYA PRADESH,Retail Banking,New Customer Acquisition,2080.97,1878,-202.97,-9.75%,No,Amit Patel,30-03-2019
+BA00885,2025,5,May,Q2,East Zone,Maharashtra,Priority Banking,NPA Amount,Rs.2631.32,2890.61,259.29,9.85,Yes,Vijay Kumar,24-05-2025
+BA00886,2015,8,August,Q3,Central Zone,gujarat,NRI Banking,NPA Amount,3491.13,3346.85,-144.28,-4.13%,No,lalita devi,24-08-2015
+BA00887,2023,10,October,Q4,West Zone,Delhi,Corporate Banking,Net Interest Income,3152.02,2874.47,-277.55,-8.81,No,Arun Mehta,10-Oct-23
+BA00888,2011,9,September,Q3,NORTH ZONE,PUNJAB,SME Banking,NPA Amount,319.8,372.75,52.95,16.56%,Yes,Ramesh Yadav,24-09-2011
+BA00889,2016,9,September,Q3,West Zone,TELANGANA,priority banking,Operating Expense,5213.148,4344.29,-380.38,-8.05%,Y,Priya Nair,12-Mar-17
+BA00890,2018,7,July,Q3,West Zone,Haryana,sme banking,total disbursement,2307.43,,-307.93,-13.34%,No,Rajesh Sharma,24-07-2018
+BA00891,2019,5,May,Q2,South Zone,Telangana,Retail Banking,TOTAL DEPOSITS,3041.96,3855,813.04,26.73,Yes,Priya Nair,17-04-2019
+BA00892,2018,12,DECEMBER,Q4,  East Zone,Karnataka,Priority Banking,NPA Amount,2153.26,2157.76,4.5,0.21%,Yes,priya nair,05-11-2023
+BA00893,2014,12,December,Q4,East Zone,Maharashtra,Retail Banking,Operating Expense,3594.82,3235.74,-359.08,-9.99%,No,mohan das,30-08-2020
+BA00894,2012,6,June,Q2,Central Zone,West Bengal,Retail Banking,Fee Income,550.12,399.62,,-27.36%,No,Meena Iyer,17-Oct-19
+BA00895,2024,9,September,Q3,WEST ZONE,Uttar Pradesh,Corporate Banking,Total Disbursement,1223.18,1188.25,-34.93,-2.86%,No,Ramesh Yadav,08-05-2025
+BA00896,2022,9,SEPTEMBER,Q3,south zone,Haryana,  NRI Banking,Total Disbursement,3957.04,3017.88,-939.16,-23.73%,No,arun mehta,17-06-2025
+BA00897,2018,1,January,Q1,north zone,  Rajasthan,Retail Banking,Total Deposits,3538.23,Rs.4279.31,741.08,20.94%,Yes,  Arun Mehta,24-01-2018
+BA00898,2025,5,May,Q2,Central Zone,Karnataka,retail banking,profit before tax,2243.78,1581.09,-662.69,-29.53%,No,Deepa Krishnan,20-10-2025
+BA00899,2021,7,July,Q3,South Zone,Haryana,SME Banking,Cross Sell Revenue,1113.89,1390.44,276.55,24.83%,Yes,Deepa Krishnan,16-05-2023
+BA00900,2012,11,November,Q4,Central Zone,Tamil Nadu,Retail Banking,FEE INCOME,631.66,572.61,-59.05,-9.35%,No,Deepa Krishnan,05-Mar-15
+BA00901,2016,6,June,Q2,Central Zone,Delhi,Corporate Banking,Total Deposits,2429.64,2689.2,259.56,10.68%,Yes,Deepa Krishnan,15-04-2017
+BA00902,2021,10,Oct,Q4,West Zone,Madhya Pradesh,NRI Banking,NPA Amount,2646.22,2262.63,-383.59,-14.50%,No,Kavitha Subramanian,17-12-2023
+BA00903,2021,10,October,Q4,South Zone,Karnataka,Priority Banking,Net Interest Income,111.89,122.75,10.86,9.71%,Yes,Nitin Joshi,24-10-2021
+BA00904,2025,6,June,Q2,South Zone,Uttar Pradesh,Priority Banking,New Customer Acquisition,1018.57,1294.31,275.74,27.07%,Yes,  Amit Patel,14-04-2025
+BA00905,2012,6,JUNE,Q2,West Zone,ANDHRA PRADESH,sme banking,NEW CUSTOMER ACQUISITION,510.492,425.41,-120.86,-22.13%,No,Arun Mehta,03-12-2020
+BA00906,2017,10,10,Q4,EAST ZONE,Tamil Nadu,NRI Banking,Total Disbursement,796.36,802.96,6.6,0.83,Yes,Anita Bose,06-01-2023
+BA00907,2019,2,February,Q1,  West Zone,KERALA,Priority Banking,NEW CUSTOMER ACQUISITION,3626.54,3038.45,-588.09,-16.22%,No,Amit Patel,24-02-2019
+BA00908,2015,10,October,Q4,South Zone,Odisha,SME Banking,Net Interest Income,1938.04,1707.25,-230.79,-11.91,No,Priya Nair,05-06-2017
+BA00909,2025,7,July,Q3,  South Zone,Gujarat,Priority Banking,  Fee Income,1436.53,1046.84,-389.69,-27.13%,No,NITIN JOSHI,03-09-2025
+BA00910,2010,7,Jul,Q3,East Zone,Kerala,Priority Banking,Total Disbursement,4361.93,4545.15,183.22,4.20%,Yes,KAVITHA SUBRAMANIAN,04-10-2012
+BA00911,2019,2,Feb,Q1,  South Zone,West Bengal,NRI Banking,Cross Sell Revenue,1554.25,,-45.7,-2.94%,No,Anita Bose,24-02-2019
+BA00912,2013,2,February,Q1,central zone,Andhra Pradesh,Priority Banking,New Customer Acquisition,81.96,66.38,-15.58,-19.01%,No,Sanjay Gupta,11-01-2025
+BA00913,2017,8,Aug,Q3,South Zone,Maharashtra,NRI BANKING,Recovery Amount,3976.8,4640.22,663.42,16.68%,Y,Anita Bose,20-Nov-17
+BA00914,2018,8,August,Q3,East Zone,Odisha,SME Banking,  Recovery Amount,1664.57,1636.82,-27.75,-1.67%,No,priya nair,24-08-2018
+BA00915,2012,10,OCTOBER,Q4,North Zone,GUJARAT,Retail Banking,total disbursement,3203.73,2609.24,-594.49,-18.56%,No,Arun Mehta,11-03-2015
+BA00916,2014,9,September,Q3,Central Zone,Madhya Pradesh,nri banking,NEW CUSTOMER ACQUISITION,4524.82,5597.97,1073.15,23.72%,Yes,Amit Patel,20-09-2020
+BA00917,2016,3,March,Q1,West Zone,Haryana,Priority Banking,FEE INCOME,3848.28,3139.82,-708.46,-18.41%,No,Nitin Joshi,04-07-2025
+BA00918,2019,6,June,Q2,West Zone,Madhya Pradesh,SME Banking,total disbursement,4054.25,,-839.5,-20.71%,No,Ramesh Yadav,16-09-2021
+BA00919,2014,3,Mar,Q1,East Zone,Telangana,nri banking,Cross Sell Revenue,414.84,313.56,,-24.41%,No,Ramesh Yadav,19-01-2016
+BA00920,2015,1,JANUARY,Q1,South Zone,Odisha,NRI Banking,Net Interest Income,2650.95,,-779.22,-29.39,No,Nitin Joshi,24-01-2015
+BA00921,2017,7,July,Q3,NORTH ZONE,Odisha,corporate banking,Net Interest Income,2501.61,1867.24,-634.37,-25.36%,No,Ramesh Yadav,29-01-2024
+BA00922,2023,4,April,Q2,Central Zone,Karnataka,NRI Banking,npa amount,1238.71,,-138.04,-11.14%,No,Kavitha Subramanian,19-11-2023
+BA00923,2019,1,January,Q1,West Zone,gujarat,Corporate Banking,Total Deposits,739.57,651.31,-88.26,-11.93%,No,Sanjay Gupta,24-01-2019
+BA00924,2016,3,MARCH,Q1,Central Zone,odisha,Corporate Banking,profit before tax,2967.33,2153.88,-813.45,-27.41%,No,Sunita Rao,24-03-2016
+BA00925,2015,4,April,Q2,East Zone,Haryana,SME Banking,Recovery Amount,4436.88,3534.17,-902.71,-20.35%,No,amit patel,08-06-2019
+BA00926,2010,9,September,Q3,North Zone,Telangana,NRI Banking,  Fee Income,278.56,246.49,-32.07,-11.51%,yes,Mohan Das,24-09-2010
+BA00927,2016,4,April,Q2,East Zone,  Telangana,Priority Banking,Recovery Amount,1803.62,1965.84,162.22,8.99%,Yes,Sunita Rao,08-03-2020
+BA00928,2023,9,Sep,Q3,Central Zone,  Gujarat,NRI Banking,Cross Sell Revenue,3671.28,,420.46,11.45%,Yes,Arun Mehta,10-02-2025
+BA00929,2020,10,October,Q4,EAST ZONE,Maharashtra,  Priority Banking,Total Disbursement,1978.24,1614.5,-363.74,-18.39%,No,SANJAY GUPTA,14-Feb-23
+BA00930,2017,12,Dec,Q4,  East Zone,tamil nadu,Corporate Banking,Total Deposits,1832.96,1525.37,-307.59,-16.78%,No,rajesh sharma,14-Jan-23
+BA00931,2023,7,Jul,Q3,East Zone,Punjab,SME Banking,Total Deposits,Rs.3684.83,4744.93,1060.1,28.77%,Yes,  Deepa Krishnan,31-08-2025
+BA00932,2013,4,April,Q2,Central Zone,Karnataka,  Corporate Banking,Total Disbursement,3979.66,2802.65,-1177.01,-29.58%,No,Lalita Devi,12-02-2024
+BA00933,2013,3,3,Q1,South Zone,Telangana,NRI Banking,Total Disbursement,1969.21,Rs.1792.55,-176.66,-8.97%,No,Meena Iyer,24-03-2013
+BA00934,2016,4,April,Q2,WEST ZONE,Gujarat,Corporate Banking,Total Disbursement,3089.52,2963.03,-126.49,-4.09%,No,Vijay Kumar,07-Feb-16
+BA00935,2020,7,JULY,Q3,Central Zone,Rajasthan,SME Banking,recovery amount,2343.15,2998.09,654.94,27.95%,Y,Rajesh Sharma,24-07-2020
+BA00936,2023,10,October,Q4,South Zone,Uttar Pradesh,NRI BANKING,  Recovery Amount,724.16,585.71,-138.45,-19.12%,YES,Priya Nair,24-10-2023
+BA00937,2010,8,August,Q3,NORTH ZONE,rajasthan,Priority Banking,Recovery Amount,4942.99,3784.25,-1158.74,-23.44%,No,Amit Patel,24-08-2010
+BA00938,2020,2,2,Q1,Central Zone,ANDHRA PRADESH,NRI Banking,Total Deposits,743.93,683.74,-60.19,-8.09%,No,Vijay Kumar,11-08-2024
+BA00939,2019,3,Mar,Q1,west zone,Gujarat,  Retail Banking,Profit Before Tax,3241.23,3309.27,68.04,2.10%,Yes,Kavitha Subramanian,04-07-2022
+BA00940,2016,10,Oct,Q4,South Zone,Delhi,Retail Banking,Operating Expense,2022.07,1647.59,-374.48,-18.52,No,Amit Patel,11-04-2021
+BA00941,2011,11,November,Q4,Central Zone,Gujarat,CORPORATE BANKING,Total Disbursement,1624.47,2055.51,,26.53%,Yes,Sanjay Gupta,21-12-2025
+BA00942,2020,1,January,Q1,South Zone,Rajasthan,CORPORATE BANKING,OPERATING EXPENSE,2181.5,2673.35,491.85,22.55%,Y,Sanjay Gupta,24-01-2020
+BA00943,2021,12,December,Q4,Central Zone,Odisha,Retail Banking,Profit Before Tax,2320.72,2234.65,-86.07,-3.71%,No,VIJAY KUMAR,02-Mar-23
+BA00944,2017,8,August,Q3,West Zone,Karnataka,Retail Banking,Net Interest Income,3194.6,2422.49,-772.11,-24.17%,No,Sanjay Gupta,31-Jan-17
+BA00945,2011,8,August,Q3,East Zone,haryana,Priority Banking,Net Interest Income,2198.97,1997.13,-201.84,-9.18%,No,sunita rao,24-08-2011
+BA00946,2022,9,September,Q3,East Zone,ODISHA,Corporate Banking,Operating Expense,4993.97,5820.82,826.85,16.56%,Yes,Sunita Rao,03-12-2022
+BA00947,2025,3,March,Q1,North Zone,Rajasthan,Priority Banking,NPA Amount,3357.71,3304.64,-53.07,-1.58%,No,Anita Bose,07-Dec-25
+BA00948,2025,11,November,Q4,East Zone,Rajasthan,SME Banking,NET INTEREST INCOME,4784.95,5941.75,1156.8,24.18%,Yes,NITIN JOSHI,27-Dec-25
+BA00949,2014,5,May,Q2,Central Zone,Telangana,priority banking,Profit Before Tax,440.38,458.79,Rs.18.41,4.18%,Yes,Deepa Krishnan,24-05-2014
+BA00950,2010,12,December,Q4,East Zone,Gujarat,Retail Banking,profit before tax,2344.42,2042.24,-302.18,-12.89%,No,Priya Nair,24-12-2010
+BA00951,2024,5,May,Q2,South Zone,Uttar Pradesh,RETAIL BANKING,Fee Income,819.43,656,-163.43,-19.94%,No,RAJESH SHARMA,01-02-2025
+BA00952,2015,5,May,Q2,South Zone,West Bengal,Priority Banking,Fee Income,4858.74,4185.3,,-13.86%,No,Deepa Krishnan,18-10-2025
+BA00953,2013,2,February,Q1,EAST ZONE,TAMIL NADU,NRI Banking,New Customer Acquisition,2543.37,2982.7,439.33,17.27%,Yes,Anita Bose,26-04-2019
+BA00954,2023,1,Jan,Q1,South Zone,West Bengal,SME Banking,Operating Expense,2489.9,2929.69,,17.66%,Yes,Vijay Kumar,23-04-2023
+BA00955,2015,6,June,Q2,East Zone,  Andhra Pradesh,Corporate Banking,  Operating Expense,2588.6,2313.1,-275.5,-10.64%,No,Anita Bose,15-07-2018
+BA00956,2012,6,June,Q2,South Zone,maharashtra,Priority Banking,NEW CUSTOMER ACQUISITION,4812.79,4411.51,-401.28,-8.34%,No,  Anita Bose,28-04-2022
+BA00957,2016,4,April,Q2,East Zone,  Uttar Pradesh,Priority Banking,Total Disbursement,405.47,284.25,-121.22,-29.90%,No,Amit Patel,24-04-2016
+BA00958,2010,10,October,Q4,Central Zone,andhra pradesh,SME Banking,NPA Amount,153.18,111.66,-41.52,-27.10%,YES ,Lalita Devi,24-10-2010
+BA00959,2016,2,February,Q1,East Zone,Delhi,Corporate Banking,Fee Income,4070.79,Rs.3511.71,,-13.73%,No,  Amit Patel,18-11-2025
+BA00960,2018,3,Mar,Q1,CENTRAL ZONE,Telangana,sme banking,operating expense,3370.07,4231.08,861.01,25.55%,Yes,Anita Bose,13-Aug-25
+BA00961,2017,6,June,Q2,North Zone,Delhi,Corporate Banking,Recovery Amount,93.88,70.56,-23.32,-24.84%,yes,Deepa Krishnan,29-01-2023
+BA00962,2014,9,September,Q3,central zone,Gujarat,NRI Banking,Recovery Amount,2825.79,2865.18,39.39,1.39%,Yes,  Deepa Krishnan,24-09-2014
+BA00963,2022,6,6,Q2,North Zone,UTTAR PRADESH,Retail Banking,Profit Before Tax,2445.35,2683.6,238.25,9.74%,Yes,Anita Bose,06-Feb-23
+BA00964,2012,2,February,Q1,East Zone,Andhra Pradesh,NRI Banking,Total Disbursement,3191.53,3203.62,12.09,0.38%,Yes,Sunita Rao,17-09-2019
+BA00965,2021,3,March,Q1,east zone,Odisha,retail banking,Cross Sell Revenue,3517.23,Rs.3926.84,409.61,11.65%,Yes,Rajesh Sharma,27-Sep-24
+BA00966,2024,4,April,Q2,East Zone,  West Bengal,Priority Banking,Cross Sell Revenue,3544.59,2588.08,-956.51,-26.99%,No,meena iyer,30-06-2024
+BA00967,2010,3,March,Q1,West Zone,PUNJAB,Retail Banking,Profit Before Tax,6229.068,5190.89,1083.21,26.37%,Yes,  Priya Nair,24-03-2010
+BA00968,2011,2,February,Q1,Central Zone,tamil nadu,SME Banking,  New Customer Acquisition,4417.44,4419.07,1.63,0.04%,Yes,Lalita Devi,14-Nov-24
+BA00969,2012,10,October,Q4,West Zone,  Andhra Pradesh,NRI Banking,TOTAL DEPOSITS,1071.85,883,-188.85,-17.62%,No,LALITA DEVI,03-Apr-14
+BA00970,2010,3,March,Q1,East Zone,Haryana,Priority Banking,total deposits,2627.79,2430.05,-197.74,-7.53%,No,Kavitha Subramanian,24-03-2010
+BA00971,2011,3,March,Q1,West Zone,West Bengal,Priority Banking,Operating Expense,3057.13,3527.13,Rs.470.0,15.37%,Yes,Deepa Krishnan,23-04-2022
+BA00972,2021,3,March,Q1,East Zone,rajasthan,RETAIL BANKING,  Operating Expense,460.76,563.65,102.89,22.33%,No ,Priya Nair,04-01-2021
+BA00973,2025,3,March,Q1,South Zone,gujarat,SME Banking,Total Disbursement,2269.09,1643.85,Rs.-625.24,-27.55%,No,Priya Nair,01-05-2025
+BA00974,2023,3,March,Q1,EAST ZONE,  Andhra Pradesh,  SME Banking,Profit Before Tax,3462.52,3605.89,143.37,4.14,Yes,amit patel,18-Jun-25
+BA00975,2011,11,Nov,Q4,North Zone,Madhya Pradesh,Retail Banking,Total Disbursement,854.59,1056.44,201.85,23.62%,Yes,Nitin Joshi,24-11-2011
+BA00976,2023,10,October,Q4,North Zone,Haryana,SME Banking,operating expense,388.13,417.85,29.72,7.66%,Yes,LALITA DEVI,09-08-2024
+BA00977,2024,7,July,Q3,  East Zone,rajasthan,Priority Banking,Recovery Amount,2662.78,3086.4,423.62,15.91%,Yes,Anita Bose,19-03-2025
+BA00978,2014,10,October,Q4,east zone,DELHI,priority banking,Fee Income,3016.15,3584.47,568.32,18.84%,Yes,Anita Bose,24-10-2014
+BA00979,2015,5,May,Q2,South Zone,HARYANA,Retail Banking,Fee Income,2670.78,2225.65,-313.19,-12.34%,No,Sunita Rao,31-08-2025
+BA00980,2019,5,May,Q2,East Zone,karnataka,Corporate Banking,Total Disbursement,4405.63,5624.47,1218.84,27.67%,Yes,Deepa Krishnan,08-Aug-22
+BA00981,2024,10,October,Q4,West Zone,Karnataka,NRI Banking,NPA Amount,55.23,60.63,Rs.5.4,9.77%,Yes,Sunita Rao,24-10-2024
+BA00982,2025,10,October,Q4,East Zone,West Bengal,corporate banking,Fee Income,3314.19,2424.76,-889.43,-26.84%,No,  Amit Patel,27-05-2025
+BA00983,2015,10,October,Q4,South Zone,Andhra Pradesh,Corporate Banking,Fee Income,3471.89,4378.62,906.73,26.12%,Yes,Priya Nair,02-10-2015
+BA00984,2012,10,10,Q4,North Zone,Karnataka,NRI Banking,New Customer Acquisition,1836.32,2213.29,376.97,20.53%,Yes,Amit Patel,09-08-2020
+BA00985,2020,9,September,Q3,South Zone,Punjab,Priority Banking,Recovery Amount,2738.98,3206.2,467.22,17.06%,Yes,Arun Mehta,22-01-2010
+BA00986,2014,7,July,Q3,West Zone,West Bengal,NRI Banking,NPA Amount,4447.9,5466.07,1018.17,22.89%,Yes,Priya Nair,26-09-2024
+BA00987,2021,4,Apr,Q2,North Zone,maharashtra,NRI BANKING,Total Deposits,526.22,531.37,5.15,0.98%,Yes,Anita Bose,24-04-2021
+BA00988,2017,2,February,Q1,East Zone,DELHI,SME Banking,NPA Amount,2049.74,1470.17,-579.57,-28.28%,No,vijay kumar,24-02-2017
+BA00989,2025,3,Mar,Q1,EAST ZONE,Punjab,SME Banking,TOTAL DISBURSEMENT,4390,Rs.3964.12,-425.88,-9.70%,No,Kavitha Subramanian,24-03-2025
+BA00990,2024,11,November,Q4,west zone,KERALA,Priority Banking,  Fee Income,1685.89,1849.25,163.36,9.69%,Yes,DEEPA KRISHNAN,24-11-2024
+BA00991,2012,9,September,Q3,South Zone,Uttar Pradesh,nri banking,NPA Amount,991.56,Rs.1012.72,21.16,2.13%,No ,deepa krishnan,24-09-2012
+BA00992,2014,1,January,Q1,  Central Zone,Telangana,SME Banking,Total Deposits,1265.72,Rs.957.15,-308.57,-24.38%,No,Vijay Kumar,23-May-14
+BA00993,2024,5,May,Q2,East Zone,Kerala,sme banking,Fee Income,4266.15,4802.18,536.03,12.56%,Yes,Amit Patel,02-09-2025
+BA00994,2025,3,Mar,Q1,West Zone,rajasthan,NRI Banking,Cross Sell Revenue,3099.09,3364.41,265.32,8.56%,Yes,Sanjay Gupta,03-05-2025
+BA00995,2023,11,November,Q4,North Zone,Kerala,Retail Banking,NPA Amount,1105.44,908.06,-197.38,-17.86%,No,Vijay Kumar,24-03-2024
+BA00996,2023,9,September,Q3,West Zone,Gujarat,Corporate Banking,Recovery Amount,Rs.1985.79,1959.19,,-1.34,No,NITIN JOSHI,27-11-2025
+BA00997,2022,3,March,Q1,West Zone,Karnataka,Priority Banking,OPERATING EXPENSE,2775.98,3503.36,727.38,26.20%,Yes,Deepa Krishnan,24-03-2022
+BA00998,2024,1,January,Q1,  West Zone,rajasthan,Retail Banking,Recovery Amount,550.76,558.52,7.76,1.41%,Yes,Meena Iyer,24-01-2024
+BA00999,2012,3,MARCH,Q1,East Zone,West Bengal,Corporate Banking,  New Customer Acquisition,286.72,343.42,56.7,19.78,Yes,Nitin Joshi,24-03-2012
+BA01000,2015,1,January,Q1,East Zone,Delhi,Corporate Banking,Total Deposits,3191.3,3405.45,214.15,6.71%,Yes,ANITA BOSE,18-12-2024
+BA01001,2024,1,Jan,Q1,North Zone,Madhya Pradesh,Priority Banking,Total Deposits,4863.21,4546.43,-316.78,-6.51%,No,Vijay Kumar,02-10-2024
+BA01002,2021,1,Jan,Q1,North Zone,Uttar Pradesh,NRI Banking,New Customer Acquisition,2838.72,3582.97,744.25,26.22%,Yes,Meena Iyer,03-03-2021
+BA01003,2015,7,July,Q3,West Zone,kerala,PRIORITY BANKING,  Cross Sell Revenue,3619.82,3338.4,-281.42,-7.77%,No,Mohan Das,22-02-2022
+BA01004,2023,3,March,Q1,Central Zone,karnataka,Corporate Banking,Total Disbursement,Rs.3482.48,2610.21,-872.27,-25.05%,No,MEENA IYER,02-03-2023
+BA01005,2024,1,January,Q1,East Zone,tamil nadu,Retail Banking,Fee Income,1792.86,1449.78,-343.08,-19.14%,No,arun mehta,03-10-2025
+BA01006,2012,3,March,Q1,South Zone,Punjab,  Corporate Banking,Total Deposits,136.44,132.37,-4.07,-2.98%,No,Anita Bose,24-03-2012
+BA01007,2024,1,Jan,Q1,North Zone,Andhra Pradesh,Priority Banking,Cross Sell Revenue,1547.61,1360.38,-187.23,-12.1,No,lalita devi,24-01-2024
+BA01008,2015,5,May,Q2,west zone,West Bengal,retail banking,New Customer Acquisition,4773.89,4968.03,194.14,4.07,Yes,Kavitha Subramanian,16-Aug-17
+BA01009,2011,12,December,Q4,North Zone,Odisha,SME Banking,Net Interest Income,1684.44,1950.6,266.16,15.80%,Yes,Amit Patel,25-Mar-22
+BA01010,2024,8,August,Q3,Central Zone,MADHYA PRADESH,NRI Banking,Total Disbursement,3389.04,,948.83,28.00%,Yes,Vijay Kumar,29-09-2024
+BA01011,2021,7,7,Q3,South Zone,West Bengal,CORPORATE BANKING,NEW CUSTOMER ACQUISITION,2575.41,3219.24,643.83,25.00%,Yes,Vijay Kumar,03-03-2025
+BA01012,2023,4,APRIL,Q2,South Zone,Madhya Pradesh,SME Banking,Profit Before Tax,2326.65,2977.34,650.69,27.97%,Yes,Sunita Rao,24-04-2023
+BA01013,2024,2,February,Q1,South Zone,  Uttar Pradesh,sme banking,Operating Expense,2929.96,,315.41,10.76%,Yes,Lalita Devi,17-Nov-24
+BA01014,2016,10,October,Q4,North Zone,Tamil Nadu,Priority Banking,net interest income,326.91,Rs.236.29,-90.62,-27.72%,No,Deepa Krishnan,24-10-2016
+BA01015,2020,12,12,Q4,South Zone,odisha,Priority Banking,Net Interest Income,1612.53,1824.73,212.2,13.16,Yes,Rajesh Sharma,24-12-2020
+BA01016,2013,2,February,Q1,NORTH ZONE,Delhi,SME Banking,Net Interest Income,2455.77,3075.34,,25.23%,Yes,Lalita Devi,24-02-2013
+BA01017,2025,3,March,Q1,East Zone,Haryana,Corporate Banking,FEE INCOME,3820.72,4683.94,863.22,22.59%,Yes,Nitin Joshi,12-08-2025
+BA01018,2011,10,October,Q4,north zone,Tamil Nadu,SME BANKING,Profit Before Tax,218.36,187.36,-31,-14.20%,No,NITIN JOSHI,24-10-2011
+BA01019,2023,7,July,Q3,West Zone,Delhi,corporate banking,recovery amount,3509.02,3862.25,353.23,10.07%,Yes,Arun Mehta,25-Dec-24
+BA01020,2015,4,April,Q2,CENTRAL ZONE,West Bengal,Retail Banking,New Customer Acquisition,3369.46,3019.85,-349.61,-10.38%,No,Deepa Krishnan,29-05-2019
+BA01021,2016,11,NOVEMBER,Q4,West Zone,West Bengal,Corporate Banking,Total Disbursement,3265.86,3473.74,207.88,6.37%,Y,Rajesh Sharma,11-08-2018
+BA01022,2011,4,April,Q2,CENTRAL ZONE,  Karnataka,Priority Banking,Total Deposits,2933.68,2102.09,-831.59,-28.35%,No,Lalita Devi,24-04-2011
+BA01023,2012,8,August,Q3,West Zone,  Andhra Pradesh,sme banking,  Fee Income,4262.42,5324.89,1062.47,24.93%,Yes,LALITA DEVI,07-12-2015
+BA01024,2024,12,Dec,Q4,North Zone,Andhra Pradesh,sme banking,Fee Income,95.9,107.03,11.13,11.60%,Yes,Mohan Das,24-12-2024
+BA01025,2021,2,Feb,Q1,South Zone,Karnataka,Priority Banking,Profit Before Tax,3771.66,3491.96,-279.7,-7.42%,No,Deepa Krishnan,06-Sep-24
+BA01026,2016,5,May,Q2,West Zone,TAMIL NADU,NRI Banking,New Customer Acquisition,2553.6,3097.25,543.65,21.29%,Yes,Sunita Rao,24-05-2016
+BA01027,2014,1,January,Q1,East Zone,ODISHA,  Retail Banking,Profit Before Tax,1401.48,1624.31,222.83,15.90%,Yes,Rajesh Sharma,22-06-2015
+BA01028,2020,3,March,Q1,West Zone,haryana,  Corporate Banking,Cross Sell Revenue,351.11,Rs.398.14,47.03,13.40%,Yes,Arun Mehta,24-03-2020
+BA01029,2016,8,AUGUST,Q3,West Zone,Andhra Pradesh,retail banking,RECOVERY AMOUNT,1541.28,1460.62,Rs.-80.66,-5.23%,No,Lalita Devi,02-Nov-18
+BA01030,2011,7,JULY,Q3,Central Zone,Andhra Pradesh,SME Banking,profit before tax,109.68,128.97,19.29,17.58%,Yes,Mohan Das,04-06-2011
+BA01031,2025,5,May,Q2,South Zone,gujarat,Retail Banking,Profit Before Tax,2873.07,,277.2,9.65,Yes,Kavitha Subramanian,23-04-2025
+BA01032,2020,6,June,Q2,East Zone,Maharashtra,Corporate Banking,Recovery Amount,4770.86,3468.74,-1302.12,-27.29%,No,Deepa Krishnan,18-07-2024
+BA01033,2018,8,8,Q3,West Zone,Odisha,SME Banking,total deposits,Rs.581.3,413.34,-167.96,-28.89%,No,Priya Nair,27-11-2024
+BA01034,2018,1,January,Q1,  South Zone,Odisha,SME Banking,New Customer Acquisition,80.08,62.1,-17.98,-22.45%,No,Rajesh Sharma,10-10-2025
+BA01035,2024,9,September,Q3,South Zone,Haryana,NRI Banking,new customer acquisition,2996.94,3678.23,681.29,22.73%,Yes,Vijay Kumar,24-09-2024
+BA01036,2016,3,March,Q1,West Zone,Maharashtra,NRI Banking,Operating Expense,3810.63,2669.32,-1141.31,-29.95%,No,  Amit Patel,21-12-2017
+BA01037,2017,12,December,Q4,  East Zone,Telangana,NRI BANKING,Fee Income,4461.26,3730.37,-730.89,-16.38%,No,Amit Patel,24-12-2017
+BA01038,2023,10,October,Q4,North Zone,Tamil Nadu,SME Banking,profit before tax,861.2,1063.08,201.88,23.44,Yes,Kavitha Subramanian,03-Jul-24
+BA01039,2017,2,February,Q1,East Zone,Haryana,NRI Banking,Profit Before Tax,3535.03,2817.32,-717.71,-20.30%,No,Anita Bose,25-10-2022
+BA01040,2017,12,December,Q4,south zone,West Bengal,NRI Banking,New Customer Acquisition,3890.64,4966.34,1075.7,27.65%,Yes,Ramesh Yadav,16-May-23
+BA01041,2019,5,May,Q2,West Zone,Gujarat,Retail Banking,Total Deposits,4433.47,4200.2,-233.27,-5.26%,No,Nitin Joshi,22-06-2023
+BA01042,2010,10,October,Q4,  South Zone,Haryana,NRI Banking,Cross Sell Revenue,480.96,365.22,-115.74,-24.06%,No,Vijay Kumar,16-09-2024
+BA01043,2016,11,November,Q4,West Zone,Haryana,Priority Banking,Total Disbursement,4538.35,3616.23,-922.12,-20.32,No,Mohan Das,24-11-2016
+BA01044,2025,11,November,Q4,South Zone,Kerala,  Retail Banking,New Customer Acquisition,2456.36,1782.44,-673.92,-27.44%,No,Arun Mehta,11-05-2025
+BA01045,2018,6,June,Q2,West Zone,Telangana,NRI Banking,  Net Interest Income,3882.78,4894.73,1011.95,26.06%,Yes,Nitin Joshi,07-03-2020
+BA01046,2015,1,January,Q1,South Zone,Gujarat,sme banking,Operating Expense,Rs.797.43,590.12,-207.31,-26,No,Kavitha Subramanian,14-May-21
+BA01047,2018,4,April,Q2,North Zone,GUJARAT,NRI Banking,  Profit Before Tax,928.36,991.87,63.51,6.84%,Yes,Sanjay Gupta,24-04-2018
+BA01048,2020,11,November,Q4,East Zone,West Bengal,NRI Banking,CROSS SELL REVENUE,4515,3821.58,-693.42,-15.36%,No,Kavitha Subramanian,03-10-2025
+BA01049,2020,12,Dec,Q4,South Zone,Andhra Pradesh,SME Banking,cross sell revenue,4676.93,5862.4,1185.47,25.35%,Yes,Priya Nair,21-01-2014
+BA01050,2023,5,May,Q2,Central Zone,Rajasthan,SME Banking,Fee Income,4822.99,3981.17,-841.82,-17.45,No,Nitin Joshi,28-02-2023
+BA01051,2025,12,Dec,Q4,East Zone,Kerala,Corporate Banking,New Customer Acquisition,56.99,40.92,-16.07,-28.19%,No,Priya Nair,07-Jan-25
+BA01052,2017,7,July,Q3,Central Zone,Telangana,sme banking,Profit Before Tax,3974.84,4365.28,390.44,9.82%,Yes,RAJESH SHARMA,10-01-2019
+BA01053,2011,8,August,Q3,East Zone,Gujarat,NRI BANKING,Total Disbursement,1281.77,1248.31,-33.46,-2.61%,No,arun mehta,08-07-2018
+BA01054,2012,10,October,Q4,East Zone,Gujarat,Corporate Banking,Total Disbursement,1409.74,1549.35,139.61,9.90%,Yes,Vijay Kumar,24-10-2012
+BA01055,2010,2,February,Q1,South Zone,gujarat,Priority Banking,Total Deposits,456,464.93,,1.96%,Yes,Amit Patel,24-02-2010
+BA01056,2021,2,2,Q1,SOUTH ZONE,Kerala,Priority Banking,net interest income,4664.67,4868.65,203.98,4.37%,Yes,Arun Mehta,19-06-2023
+BA01057,2010,10,October,Q4,East Zone,Delhi,Corporate Banking,TOTAL DEPOSITS,4843.23,4753.51,-89.72,-1.85%,No,Nitin Joshi,24-10-2010
+BA01058,2015,11,November,Q4,  Central Zone,maharashtra,CORPORATE BANKING,NPA Amount,2139.38,2658.85,519.47,24.28%,Yes,Rajesh Sharma,21-02-2023
+BA01059,2014,1,January,Q1,EAST ZONE,Telangana,Retail Banking,Net Interest Income,3312.31,3550.31,238,7.19%,Yes,Mohan Das,18-04-2015
+BA01060,2023,3,March,Q1,EAST ZONE,Rajasthan,SME Banking,NPA AMOUNT,Rs.4233.6,3483.39,-750.21,-17.72%,No,kavitha subramanian,26-04-2025
+BA01061,2024,3,3,Q1,WEST ZONE,Delhi,Corporate Banking,Operating Expense,1293.07,1576.19,283.12,21.89%,N,Arun Mehta,18-10-2024
+BA01062,2024,9,September,Q3,South Zone,Tamil Nadu,SME Banking,Operating Expense,1302.78,1085.65,-453.87,-29.48%,No,Amit Patel,05-01-2024
+BA01063,2021,12,December,Q4,East Zone,  Uttar Pradesh,SME BANKING,recovery amount,4874.15,,,-2.29%,No,Lalita Devi,11-06-2024
+BA01064,2012,4,April,Q2,West Zone,Haryana,NRI Banking,Profit Before Tax,3213.58,3991.74,778.16,24.21%,Yes,Kavitha Subramanian,24-04-2012
+BA01065,2023,6,June,Q2,South Zone,Madhya Pradesh,Corporate Banking,New Customer Acquisition,4558.87,3863.54,-695.33,-15.25%,No,Ramesh Yadav,24-06-2023
+BA01066,2010,8,Aug,Q3,West Zone,Punjab,NRI Banking,  Fee Income,563.07,594.88,Rs.31.81,5.65%,Yes,  Amit Patel,24-08-2010
+BA01067,2018,7,July,Q3,South Zone,RAJASTHAN,Corporate Banking,Total Deposits,2632.008,2193.34,156.46,7.68,Yes,Amit Patel,16-08-2018
+BA01068,2018,10,10,Q4,South Zone,Haryana,Corporate Banking,NPA Amount,495.78,635.97,140.19,28.28%,Yes,Vijay Kumar,12-02-2023
+BA01069,2011,2,Feb,Q1,North Zone,  Andhra Pradesh,  NRI Banking,NET INTEREST INCOME,3806.46,3985.78,179.32,4.71%,Yes,  Amit Patel,09-01-2015
+BA01070,2020,4,Apr,Q2,South Zone,delhi,SME Banking,Operating Expense,1656.93,1393.05,-263.88,-15.93%,No,Meena Iyer,23-03-2017
+BA01071,2012,7,July,Q3,east zone,Karnataka,SME Banking,New Customer Acquisition,Rs.151.88,179.55,27.67,18.22%,Yes,Arun Mehta,12-07-2014
+BA01072,2020,8,August,Q3,West Zone,Haryana,NRI BANKING,CROSS SELL REVENUE,4883.67,6029.82,1146.15,23.47%,Yes,  Ramesh Yadav,24-08-2020
+BA01073,2012,10,October,Q4,Central Zone,  Punjab,Priority Banking,net interest income,4765.39,3471.68,-1293.71,-27.15%,No,Deepa Krishnan,12-May-15
+BA01074,2025,9,Sep,Q3,West Zone,Rajasthan,Corporate Banking,recovery amount,4938.47,3725.46,-1213.01,-24.56%,No,Anita Bose,02-08-2025
+BA01075,2024,12,December,Q4,West Zone,Gujarat,Retail Banking,Cross Sell Revenue,4183.08,4578.01,394.93,9.44%,Yes,Deepa Krishnan,24-12-2024
+BA01076,2024,9,September,Q3,East Zone,Tamil Nadu,Corporate Banking,profit before tax,1357.15,,264.83,19.51%,Yes,Lalita Devi,16-Aug-24
+BA01077,2019,1,January,Q1,East Zone,Rajasthan,SME Banking,Recovery Amount,2431.68,2509.36,Rs.77.68,3.19%,Yes,  Rajesh Sharma,20-07-2023
+BA01078,2018,12,DECEMBER,Q4,West Zone,Kerala,nri banking,Profit Before Tax,3136.45,3111.48,-24.97,-0.80%,No,Ramesh Yadav,27-01-2025
+BA01079,2023,11,Nov,Q4,East Zone,PUNJAB,SME BANKING,Total Disbursement,755.35,645.68,Rs.-109.67,-14.52%,No,Sunita Rao,24-11-2023
+BA01080,2012,6,June,Q2,  East Zone,Delhi,RETAIL BANKING,Total Deposits,1552.01,2011.53,459.52,29.61%,Yes,Lalita Devi,28-07-2019
+BA01081,2020,11,November,Q4,west zone,Andhra Pradesh,Corporate Banking,Cross Sell Revenue,Rs.3588.75,2682.98,-905.77,-25.24%,No,SANJAY GUPTA,24-11-2020
+BA01082,2024,12,December,Q4,East Zone,Andhra Pradesh,retail banking,CROSS SELL REVENUE,3264.86,,235.8,7.22%,No ,Amit Patel,24-12-2024
+BA01083,2013,7,July,Q3,Central Zone,Andhra Pradesh,Priority Banking,Profit Before Tax,2272.59,1720,-552.59,-24.32%,No,Vijay Kumar,19-09-2021
+BA01084,2025,9,9,Q3,North Zone,Maharashtra,CORPORATE BANKING,Recovery Amount,4262.47,4775.76,513.29,12.04%,Yes,Arun Mehta,24-09-2025
+BA01085,2020,8,Aug,Q3,West Zone,Rajasthan,Retail Banking,Operating Expense,2465.2,2189.21,-275.99,-11.20%,No,Mohan Das,17-05-2022
+BA01086,2025,7,JULY,Q3,East Zone,Delhi,SME Banking,Net Interest Income,1729.668,1441.39,-165.38,-10.29%,No,Anita Bose,24-07-2025
+BA01087,2020,1,1,Q1,South Zone,uttar pradesh,SME Banking,OPERATING EXPENSE,784.59,631.5,-153.09,-19.51%,No,KAVITHA SUBRAMANIAN,24-01-2020
+BA01088,2021,2,February,Q1,east zone,West Bengal,Retail Banking,NPA Amount,4754.13,5574.13,820,17.25%,Yes,mohan das,12-11-2021
+BA01089,2010,2,Feb,Q1,East Zone,Kerala,NRI Banking,Operating Expense,483.77,446.82,-36.95,-7.64%,No,Rajesh Sharma,12-10-2023
+BA01090,2023,8,August,Q3,CENTRAL ZONE,Kerala,NRI Banking,fee income,2692.96,3368.47,675.51,25.08%,Yes,  Nitin Joshi,24-08-2023
+BA01091,2020,7,July,Q3,central zone,Punjab,SME Banking,Operating Expense,1757.72,1721.19,-36.53,-2.08%,YES,Meena Iyer,24-07-2020
+BA01092,2025,3,March,Q1,North Zone,Haryana,corporate banking,Fee Income,1946.59,2011.72,Rs.65.13,3.35%,Yes,Deepa Krishnan,24-03-2025
+BA01093,2016,2,February,Q1,East Zone,Tamil Nadu,Corporate Banking,NPA Amount,3336.34,,455.48,13.65%,YES,Sunita Rao,17-06-2021
+BA01094,2025,2,February,Q1,West Zone,Haryana,NRI Banking,Total Deposits,1373.18,1782.88,409.7,29.84%,Yes,Vijay Kumar,24-02-2025
+BA01095,2010,4,April,Q2,Central Zone,Punjab,Corporate Banking,Cross Sell Revenue,3844.57,3670.59,-173.98,-4.53%,YES,  Amit Patel,16-Oct-24
+BA01096,2020,12,Dec,Q4,North Zone,Madhya Pradesh,Retail Banking,Total Disbursement,719.01,812.05,93.04,12.94%,Yes,Sunita Rao,09-09-2023
+BA01097,2011,11,Nov,Q4,West Zone,Rajasthan,NRI BANKING,Total Disbursement,4997.2,6168.23,1171.03,23.43%,Yes,Rajesh Sharma,14-06-2015
+BA01098,2010,2,February,Q1,Central Zone,Andhra Pradesh,Retail Banking,Total Deposits,2944.37,3514.48,Rs.570.11,19.36%,Yes,Sunita Rao,24-02-2010
+BA01099,2023,11,Nov,Q4,North Zone,Andhra Pradesh,Priority Banking,NPA AMOUNT,1913.24,1442.13,-471.11,-24.62%,No,Mohan Das,24-11-2023
+BA01100,2016,9,September,Q3,Central Zone,  Punjab,Corporate Banking,Cross Sell Revenue,907.36,661.34,-246.02,-27.11%,No,Amit Patel,11-03-2022
+BA01101,2016,6,June,Q2,North Zone,Odisha,NRI Banking,Total Deposits,3315.25,3685.93,370.68,11.18%,Yes,Vijay Kumar,06-May-16
+BA01102,2019,3,March,Q1,SOUTH ZONE,PUNJAB,RETAIL BANKING,New Customer Acquisition,4803.18,4002.65,7.13,0.18%,Yes,Mohan Das,06-09-2019
+BA01103,2018,3,March,Q1,Central Zone,Rajasthan,Retail Banking,Total Disbursement,2258.66,1885.27,-373.39,-16.53%,No,  Amit Patel,05-03-2023
+BA01104,2010,10,October,Q4,East Zone,kerala,Retail Banking,Total Disbursement,1507.16,1188.62,-318.54,-21.14%,No,Arun Mehta,25-06-2011
+BA01105,2020,8,August,Q3,CENTRAL ZONE,Uttar Pradesh,priority banking,New Customer Acquisition,3194.64,2865.44,-329.2,-10.3,No,  Amit Patel,06-07-2024
+BA01106,2019,4,April,Q2,South Zone,Haryana,Corporate Banking,Total Disbursement,3484.91,4127.92,643.01,18.45%,Yes,Arun Mehta,13-10-2025
+BA01107,2021,9,September,Q3,South Zone,Andhra Pradesh,SME Banking,New Customer Acquisition,4909.52,3781.08,-1128.44,-22.98%,No,Lalita Devi,07-05-2022
+BA01108,2013,8,August,Q3,NORTH ZONE,Punjab,Corporate Banking,Fee Income,2756.88,1973.6,,-28.41%,No,ARUN MEHTA,10-10-2023
+BA01109,2011,5,May,Q2,North Zone,Andhra Pradesh,NRI Banking,Total Deposits,2503.37,2835.57,332.2,13.27,Yes,vijay kumar,20-05-2013
+BA01110,2010,5,May,Q2,West Zone,Odisha,RETAIL BANKING,Net Interest Income,831.61,673.03,-158.58,-19.07%,No,Rajesh Sharma,24-05-2010
+BA01111,2023,7,JULY,Q3,WEST ZONE,Punjab,corporate banking,Total Disbursement,2052.24,1546.8,-505.44,-24.63%,No,Lalita Devi,06-05-2024
+BA01112,2012,11,November,Q4,North Zone,Delhi,Priority Banking,Profit Before Tax,2937.85,2684.03,-253.82,-8.64%,No,Deepa Krishnan,24-11-2012
+BA01113,2020,9,September,Q3,West Zone,DELHI,  NRI Banking,New Customer Acquisition,4996.86,4267.93,-728.93,-14.59%,No,Kavitha Subramanian,24-09-2020
+BA01114,2015,7,7,Q3,South Zone,Punjab,  Corporate Banking,operating expense,2898.55,2575.65,-322.9,-11.14%,No,Kavitha Subramanian,24-07-2015
+BA01115,2010,12,December,Q4,  Central Zone,Odisha,Retail Banking,Recovery Amount,Rs.2161.03,2790.85,629.82,29.14%,Yes,Deepa Krishnan,13-07-2017
+BA01116,2012,12,December,Q4,Central Zone,Maharashtra,Corporate Banking,Operating Expense,4515.03,5453.71,938.68,20.79%,Yes,lalita devi,01-09-2014
+BA01117,2017,5,5,Q2,Central Zone,  Uttar Pradesh,  Priority Banking,Cross Sell Revenue,362.13,357.88,-4.25,-1.17%,No,Sanjay Gupta,25-10-2022
+BA01118,2015,8,AUGUST,Q3,Central Zone,Maharashtra,Corporate Banking,NPA AMOUNT,153.77,142.68,-11.09,-7.21%,No,Priya Nair,16-01-2022
+BA01119,2021,5,May,Q2,South Zone,Kerala,NRI Banking,  Fee Income,2777.32,2177.87,-599.45,-21.58%,No,Rajesh Sharma,04-11-2023
+BA01120,2015,7,July,Q3,Central Zone,Haryana,NRI Banking,TOTAL DISBURSEMENT,Rs.2866.91,2504.33,-362.58,-12.65%,No,Vijay Kumar,11-12-2024
+BA01121,2024,10,October,Q4,East Zone,Andhra Pradesh,SME Banking,Operating Expense,3108.69,2963.66,Rs.-145.03,-4.67%,No,Sanjay Gupta,31-Mar-25
+BA01122,2011,1,January,Q1,East Zone,Telangana,  Priority Banking,NPA AMOUNT,4705.47,5173.24,467.77,9.94%,Yes,Sanjay Gupta,09-12-2021
+BA01123,2018,5,May,Q2,West Zone,West Bengal,CORPORATE BANKING,New Customer Acquisition,3533.47,2656.19,-877.28,-24.83%,No,Sunita Rao,22-01-2020
+BA01124,2020,4,April,Q2,north zone,Haryana,NRI Banking,Total Disbursement,2183.59,2315.44,131.85,6.04%,Yes,Rajesh Sharma,05-09-2023
+BA01125,2025,5,May,Q2,East Zone,kerala,CORPORATE BANKING,operating expense,1267.09,1146.93,,-9.48%,No,Arun Mehta,24-05-2025
+BA01126,2023,5,5,Q2,  East Zone,Maharashtra,Corporate Banking,Operating Expense,2484.11,2172.28,-311.83,-12.55%,No,Kavitha Subramanian,24-05-2023
+BA01127,2021,11,November,Q4,East Zone,UTTAR PRADESH,  SME Banking,Cross Sell Revenue,4057.39,4317.18,259.79,6.40%,Yes,Kavitha Subramanian,24-11-2021
+BA01128,2020,4,Apr,Q2,Central Zone,Kerala,Retail Banking,NPA Amount,424.97,543.61,118.64,27.92%,Yes,Ramesh Yadav,12-09-2020
+BA01129,2016,2,February,Q1,West Zone,madhya pradesh,SME BANKING,net interest income,408.08,364.28,Rs.-43.8,-10.73%,No,  Amit Patel,24-02-2016
+BA01130,2013,5,May,Q2,North Zone,Delhi,Corporate Banking,PROFIT BEFORE TAX,169.52,217.66,48.14,28.40%,Yes,Deepa Krishnan,06-Jul-18
+BA01131,2023,9,September,Q3,South Zone,Delhi,Corporate Banking,Recovery Amount,408,468.43,60.43,14.81%,Yes,Sanjay Gupta,15-Nov-25
+BA01132,2025,4,April,Q2,North Zone,Haryana,Priority Banking,Net Interest Income,2655.9,3162.02,506.12,19.06%,YES ,Nitin Joshi,03-02-2025
+BA01133,2011,2,FEBRUARY,Q1,Central Zone,West Bengal,NRI Banking,RECOVERY AMOUNT,3748.67,3383.98,-364.69,-9.73%,No,Priya Nair,19-05-2014
+BA01134,2023,8,August,Q3,North Zone,Rajasthan,Priority Banking,Total Deposits,1370.81,1516.58,145.77,10.63%,Yes,Rajesh Sharma,07-06-2024
+BA01135,2010,8,Aug,Q3,SOUTH ZONE,Karnataka,Priority Banking,NPA Amount,3739.51,3886.13,146.62,3.92%,Yes,Vijay Kumar,03-09-2016
+BA01136,2010,1,January,Q1,Central Zone,Maharashtra,Corporate Banking,Profit Before Tax,86.51,108.31,Rs.21.8,25.20%,YES,Ramesh Yadav,24-01-2010
+BA01137,2019,12,December,Q4,West Zone,Rajasthan,nri banking,Fee Income,748.42,634.72,-113.7,-15.19%,No,Kavitha Subramanian,24-12-2019
+BA01138,2020,8,August,Q3,  North Zone,Kerala,  Corporate Banking,Cross Sell Revenue,355.65,302.91,-52.74,-14.83%,No,  Sanjay Gupta,24-09-2020
+BA01139,2018,1,January,Q1,North Zone,Maharashtra,Retail Banking,OPERATING EXPENSE,3342.4,3953.78,611.38,18.29%,Yes,Amit Patel,15-05-2022
+BA01140,2016,12,December,Q4,South Zone,Maharashtra,NRI BANKING,Fee Income,3287.93,3492.01,204.08,6.21%,Yes,Deepa Krishnan,02-Dec-23
+BA01141,2014,10,October,Q4,North Zone,Haryana,  Retail Banking,Net Interest Income,245.86,204.46,-41.4,-16.84%,No,Vijay Kumar,07-05-2024
+BA01142,2020,3,March,Q1,East Zone,Uttar Pradesh,SME Banking,Total Disbursement,3405.87,3208.36,-197.51,-5.80%,No,  Amit Patel,24-03-2020
+BA01143,2012,11,November,Q4,EAST ZONE,Uttar Pradesh,Corporate Banking,Recovery Amount,3772.11,3492.41,,-7.42%,YES ,Sunita Rao,24-11-2012
+BA01144,2022,4,April,Q2,  North Zone,Delhi,Priority Banking,Fee Income,4598.41,4919.43,321.02,6.98%,Yes,Rajesh Sharma,24-04-2022
+BA01145,2016,8,August,Q3,West Zone,Maharashtra,  Corporate Banking,Net Interest Income,3992.14,4779.88,787.74,19.73%,Yes,Nitin Joshi,05-05-2016
+BA01146,2024,4,April,Q2,West Zone,Telangana,corporate banking,Total Disbursement,4775.95,3698.92,-1077.03,-22.55%,No,Lalita Devi,25-08-2025
+BA01147,2012,11,November,Q4,north zone,Rajasthan,Priority Banking,Cross Sell Revenue,4073.74,4948.82,Rs.875.08,21.48%,Yes,Anita Bose,30-05-2024
+BA01148,2024,9,September,Q3,South Zone,Gujarat,RETAIL BANKING,profit before tax,713.97,Rs.523.75,-190.22,-26.64%,No,Deepa Krishnan,15-Jul-24
+BA01149,2012,3,March,Q1,West Zone,  Uttar Pradesh,NRI Banking,Total Disbursement,4602.456,3835.38,288.75,8.14%,Yes,  Lalita Devi,20-06-2015
+BA01150,2014,11,November,Q4,CENTRAL ZONE,haryana,Retail Banking,Operating Expense,4368.39,5122.33,753.94,17.26%,Yes,Kavitha Subramanian,24-11-2014
+BA01151,2014,1,January,Q1,south zone,West Bengal,Retail Banking,Cross Sell Revenue,341.47,336.71,-4.76,-1.40%,No,Lalita Devi,24-01-2014
+BA01152,2014,4,Apr,Q2,South Zone,maharashtra,Priority Banking,New Customer Acquisition,2024.2,1704.45,-319.75,-15.80%,No,Meena Iyer,24-04-2014
+BA01153,2023,2,February,Q1,South Zone,Uttar Pradesh,Retail Banking,Net Interest Income,1860.98,2073.12,212.14,11.40%,Yes,Rajesh Sharma,04-08-2023
+BA01154,2010,2,February,Q1,West Zone,uttar pradesh,Retail Banking,Recovery Amount,1034.22,768.19,-266.03,-25.72%,N,Priya Nair,06-Jul-25
+BA01155,2013,8,August,Q3,south zone,Uttar Pradesh,Priority Banking,cross sell revenue,3512.6,2962.64,-549.96,-15.66%,No,Priya Nair,01-07-2015
+BA01156,2014,12,December,Q4,South Zone,Uttar Pradesh,  NRI Banking,NPA Amount,2421.06,3054.1,633.04,26.15%,Yes,Vijay Kumar,09-Apr-24
+BA01157,2010,10,October,Q4,North Zone,punjab,sme banking,Operating Expense,3392.61,3615.45,222.84,6.57%,Yes,Nitin Joshi,22-Jul-24
+BA01158,2021,3,3,Q1,West Zone,Andhra Pradesh,NRI BANKING,Fee Income,2884.79,2933.43,48.64,1.69%,Yes,mohan das,10-08-2023
+BA01159,2017,4,April,Q2,East Zone,Gujarat,Retail Banking,  Fee Income,342.84,407.02,64.18,18.72%,Yes,Deepa Krishnan,21-06-2024
+BA01160,2019,6,June,Q2,West Zone,Gujarat,Retail Banking,Total Deposits,308.94,280.76,-28.18,-9.12%,No,LALITA DEVI,10-02-2025
+BA01161,2015,7,July,Q3,West Zone,TAMIL NADU,Priority Banking,Net Interest Income,4825.72,3622.06,-1203.66,-24.94%,No,Anita Bose,24-07-2015
+BA01162,2011,1,January,Q1,  East Zone,  Andhra Pradesh,SME BANKING,Fee Income,4220.47,Rs.3522.08,-698.39,-16.55%,No,Deepa Krishnan,25-02-2016
+BA01163,2013,3,March,Q1,North Zone,  Andhra Pradesh,Corporate Banking,Recovery Amount,2823.01,2550.26,-272.75,-9.66%,yes,Ramesh Yadav,16-05-2019
+BA01164,2011,2,Feb,Q1,West Zone,Andhra Pradesh,SME Banking,Operating Expense,4542.82,5223.03,680.21,14.97,Yes,Deepa Krishnan,24-02-2011
+BA01165,2023,11,NOVEMBER,Q4,South Zone,Tamil Nadu,SME Banking,Cross Sell Revenue,1055,1192.48,137.48,13.03%,Yes,AMIT PATEL,28-Dec-24
+BA01166,2016,10,October,Q4,North Zone,  Maharashtra,corporate banking,New Customer Acquisition,1888.34,2129.52,241.18,12.77%,Yes,arun mehta,30-05-2018
+BA01167,2013,10,October,Q4,EAST ZONE,Andhra Pradesh,Retail Banking,  Fee Income,3761.25,3174.41,-586.84,-15.60%,No,vijay kumar,24-10-2013
+BA01168,2017,2,2,Q1,North Zone,Karnataka,priority banking,Total Deposits,Rs.419.05,474.42,55.37,13.21%,Yes,Kavitha Subramanian,11-May-18
+BA01169,2025,12,12,Q4,central zone,Andhra Pradesh,retail banking,  Fee Income,4260.23,4851.56,591.33,13.88%,Yes,Amit Patel,14-01-2025
+BA01170,2025,9,Sep,Q3,South Zone,Gujarat,RETAIL BANKING,Profit Before Tax,294.2,330.86,Rs.36.66,12.46,yes,Rajesh Sharma,13-01-2025
+BA01171,2011,7,Jul,Q3,  Central Zone,GUJARAT,Retail Banking,TOTAL DEPOSITS,3233.55,2458.84,Rs.-774.71,-23.96%,No,Amit Patel,24-07-2011
+BA01172,2023,5,May,Q2,NORTH ZONE,Telangana,  SME Banking,Recovery Amount,3536.95,3174.07,-362.88,-10.26%,No,Sunita Rao,09-Jul-24
+BA01173,2018,3,March,Q1,Central Zone,Delhi,NRI Banking,OPERATING EXPENSE,957.27,805.44,-151.83,-15.86%,No,Nitin Joshi,24-06-2018
+BA01174,2020,1,January,Q1,South Zone,West Bengal,retail banking,  Net Interest Income,2184.89,2661.44,476.55,21.81%,Yes,Meena Iyer,24-01-2020
+BA01175,2020,2,Feb,Q1,Central Zone,Haryana,Retail Banking,Net Interest Income,4219.73,3125.34,-1094.39,-25.94%,No,Rajesh Sharma,24-02-2020
+BA01176,2011,9,9,Q3,East Zone,Karnataka,Corporate Banking,Fee Income,2703.93,3031.42,327.49,12.11%,Yes,Mohan Das,10-03-2018
+BA01177,2017,7,JULY,Q3,Central Zone,Uttar Pradesh,PRIORITY BANKING,New Customer Acquisition,Rs.441.53,341.45,-100.08,-22.67,No,Priya Nair,03-Jul-25
+BA01178,2023,8,August,Q3,EAST ZONE,DELHI,SME Banking,Total Deposits,1731.7,1978.77,247.07,14.27%,Yes,Ramesh Yadav,10-04-2025
+BA01179,2022,6,Jun,Q2,North Zone,Rajasthan,retail banking,Recovery Amount,2552.28,2105.52,Rs.-446.76,-17.50%,No,Lalita Devi,15-05-2024
+BA01180,2025,2,February,Q1,Central Zone,Uttar Pradesh,NRI Banking,Net Interest Income,935.93,Rs.1175.49,239.56,25.60%,Yes,Sanjay Gupta,14-05-2025
+BA01181,2010,6,June,Q2,North Zone,Odisha,  Corporate Banking,  Total Disbursement,3047.43,3002.69,-44.74,-1.47%,No,MOHAN DAS,12-09-2025
+BA01182,2017,8,Aug,Q3,SOUTH ZONE,Uttar Pradesh,RETAIL BANKING,Operating Expense,Rs.3385.21,3745.03,359.82,10.63%,Yes,kavitha subramanian,30-Oct-17
+BA01183,2016,5,May,Q2,North Zone,Haryana,priority banking,Total Deposits,1957.48,2175.89,218.41,11.16%,Yes,VIJAY KUMAR,24-05-2016
+BA01184,2023,9,September,Q3,South Zone,Haryana,SME BANKING,  Recovery Amount,736.25,773.49,37.24,5.06,Yes,RAJESH SHARMA,18-09-2025
+BA01185,2020,5,May,Q2,South Zone,Tamil Nadu,SME Banking,Total Deposits,264.69,289.31,24.62,9.30%,Yes,Sanjay Gupta,13-12-2025
+BA01186,2025,11,November,Q4,West Zone,Odisha,Retail Banking,New Customer Acquisition,458.83,514.24,55.41,12.08%,Yes,NITIN JOSHI,18-09-2025
+BA01187,2013,7,July,Q3,South Zone,Karnataka,Retail Banking,Total Disbursement,1357.28,1519.09,161.81,11.92%,Yes,Arun Mehta,15-02-2013
+BA01188,2020,11,November,Q4,South Zone,Gujarat,Retail Banking,Total Disbursement,3122.436,2602.03,-594.36,-18.59%,No,ARUN MEHTA,03-04-2022
+BA01189,2011,7,July,Q3,East Zone,punjab,SME Banking,OPERATING EXPENSE,2291.91,2671.5,379.59,16.56%,Yes,arun mehta,24-07-2011
+BA01190,2015,3,March,Q1,North Zone,Uttar Pradesh,SME Banking,Total Deposits,2009.82,1653.71,-356.11,-17.72%,YES ,Lalita Devi,30-Jun-16
+BA01191,2011,11,November,Q4,West Zone,Punjab,Corporate Banking,Fee Income,3775.78,4052.18,276.4,7.32%,Yes,arun mehta,24-11-2011
+BA01192,2025,2,February,Q1,West Zone,Kerala,  Corporate Banking,Total Deposits,1734.02,Rs.2106.65,372.63,21.49%,Yes,Anita Bose,24-02-2025
+BA01193,2013,7,Jul,Q3,central zone,Telangana,NRI Banking,recovery amount,Rs.1040.64,848.65,-191.99,-18.45%,No,Deepa Krishnan,13-Aug-16
+BA01194,2018,1,1,Q1,East Zone,Andhra Pradesh,SME Banking,Operating Expense,1679.8,1970.16,290.36,17.29%,Yes,Anita Bose,27-05-2021
+BA01195,2017,11,November,Q4,South Zone,Haryana,retail banking,Net Interest Income,4467.57,5160.06,692.49,15.50%,Yes,Kavitha Subramanian,08-06-2018
+BA01196,2010,9,September,Q3,North Zone,West Bengal,SME Banking,Fee Income,672.31,572.48,-99.83,-14.85%,No,Vijay Kumar,08-02-2013
+BA01197,2015,1,JANUARY,Q1,East Zone,delhi,Corporate Banking,Profit Before Tax,4990.81,4142.9,-847.91,-16.99%,No,  Amit Patel,14-07-2019
+BA01198,2014,7,July,Q3,North Zone,Telangana,SME Banking,OPERATING EXPENSE,3095.25,2647.75,-447.5,-14.46%,No,Lalita Devi,01-08-2015
+BA01199,2015,6,June,Q2,North Zone,Kerala,NRI Banking,Cross Sell Revenue,352.51,287.52,-64.99,-18.44%,No,Meena Iyer,24-06-2015
+BA01200,2021,1,Jan,Q1,Central Zone,Rajasthan,SME Banking,new customer acquisition,4611.66,4359.08,-252.58,-5.48%,No,Amit Patel,24-01-2021

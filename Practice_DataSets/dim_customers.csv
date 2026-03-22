@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Gender,Age,Occupation,Annual_Income_INR,City,State,Pincode,Customer_Since,Segment,Email,Mobile,KYC_Status,Credit_Score
+CUST93810,Aditya Joshi,Female,33,Student,2457113,BANGALORE,Karnataka,681859,18-02-2008,Corporate Banking,aditya.joshi224@gmail.com,8868820204,Not Submitted,
+CUST82357,ADITYA DAS,Male,25,  Retired,1763033,  Agra,Uttar Pradesh,413446,01-11-2019,RETAIL BANKING,aditya.das390@gmail.com,9497478786,Expired,533
+CUST84341,priya reddy,Female,46,Self Employed,4337855,Rourkela,Odisha,256414,16-03-2008,Priority Banking,priya.reddy439@yahoo.com,9248532577,Verified,571
+CUST30730,Isha Das,Male,53,Student,2359467,Kolkata,west bengal,765675,21-05-2016,Corporate Banking,isha.das781@gmail.com,8100614068,Expired,408
+CUST80686,ARJUN SINGH,Male,46,  Student,2764865,Indore,madhya pradesh,583418,29-10-2014,SME Banking,arjun.singh603@gmail.com,9860038427,Verified,
+CUST95649,Mohan Gupta,Male,42,salaried,3527432,Chandigarh,Punjab,309449,30-07-2010,Retail Banking,mohan.gupta286@gmail.com,9967607278,verified,496
+CUST96752,  Vivaan Reddy,MALE,39,  Self Employed,1742978,Panipat,  Haryana,678533,04-03-2012,Corporate Banking,vivaan.reddy489@gmail.com,9.65E+11,Verified,893
+CUST19508,Ananya Kumar,Female,27,Retired,4872732,  Nashik,Maharashtra,640459,22-01-2017,Retail Banking,ananya.kumar901@gmail.com,9683275843,Verified,518
+CUST65518,rahul verma,Female,42,Salaried,179743,guntur,Andhra Pradesh,279431,17-04-2019,  Corporate Banking,rahul.verma115@gmail.com,8685823118,Expired,568
+CUST33206,Sai Pillai,Male,42,Salaried,1654586,Berhampur,Odisha,389767,29-12-2022,Priority Banking,sai.pillai40@yahoo.com,8594246837,Pending,
+CUST66959,ananya sharma,male ,28,Professional,4440127,Vadodara,Gujarat,309313,05-03-2025,PRIORITY BANKING,ananya.sharma704@yahoo.com,8.49E+11,Expired,890
+CUST66346,Aditya Rao,F,49,Professional,3855969,Gwalior,Madhya Pradesh,287935,04-03-2012,Corporate Banking,aditya.rao689@gmail.com,9149621604,Not Submitted,784
+CUST42662,Sunita Das,Female,50,Professional,1268529,BHUBANESWAR,Odisha,574072,04-03-2012,NRI Banking,sunita.das562@gmail.com,8583258726,Pending,624
+CUST37110,Isha Pillai,Female,57,Professional,313845,Nellore,Andhra Pradesh,478846,13-09-2015,Priority Banking,isha.pillai977@yahoo.com,8958851904,Pending,306
+CUST59689,aditya gupta,Male,33,professional,2891781,Surat,Gujarat,374526,30-03-2011,Priority Banking,aditya.gupta54@yahoo.com,8938842599,Verified,731
+CUST50888,isha das,Male,25,Professional,1813710,Thrissur,Kerala,216852,28-06-2020,NRI Banking,isha.das580@yahoo.com,94978974551,Not Submitted,548
+CUST21359,aarav gupta,Female,57,Self Employed,4048257,VARANASI,Uttar Pradesh,462738,04-03-2012,NRI Banking,aarav.gupta218@gmail.com,9740116562,Expired,688
+CUST82140,Dhruv Nair,Male,38,Student,3956291,Vadodara,Gujarat,236517,22-08-2010,SME Banking,dhruv.nair974@yahoo.com,961990427,Expired,536
+CUST34164,  Vijay Mehta,Male,28,Homemaker,4157482,Nagpur,Maharashtra,187681,04-03-2012,  Retail Banking,vijay.mehta831@gmail.com,8227186396,Not Submitted,803
+CUST30517,Rahul Patel,Male,39,Professional,4091911,Nashik,Maharashtra,406452,12-03-2010,Retail Banking,rahul.patel807@yahoo.com,8312406764,Pending,595
+CUST89129,Vijay Sharma,Male,64,salaried,2070357,Lucknow,UTTAR PRADESH,392603,03-03-2018,NRI Banking,vijay.sharma668@gmail.com,85680279,Not Submitted,321
+CUST96200,RAHUL PILLAI,Male,33,Professional,604696,Nellore,Andhra Pradesh,765789,11-02-2013,NRI Banking,rahul.pillai563@gmail.com,8620455331,Pending,810
+CUST88561,Aarav Rao,Female,38,Homemaker,735609,Warangal,Telangana,390151,04-03-2012,priority banking,aarav.rao594@yahoo.com,9678296492,Expired,
+CUST26547,Rohan Iyer,male,49,Homemaker,991919,NIZAMABAD,Telangana,126094,18-10-2016,Retail Banking,rohan.iyer347@yahoo.com,9452794611,Not Submitted,767
+CUST17355,Sai Kumar,Female,30,Business Owner,3762862,Agra,Uttar Pradesh,703419,30-11-2016,Corporate Banking,sai.kumar635@yahoo.com,8349310440,Expired,721
+CUST48780,Suresh Das,Female,38,Salaried,3470259,hisar,Haryana,745864,11-09-2017,retail banking,suresh.das236@yahoo.com,8766676815,Pending,350
+CUST73156,shreya das,Female,28,  Professional,2991349,GWALIOR,Madhya Pradesh,346575,09-09-2006,PRIORITY BANKING,shreya.das15@gmail.com,9904245086,Not Submitted,444
+CUST25220,  Vijay Reddy,Male,45,Retired,1288032,Mysore,Karnataka,549487,04-03-2012,PRIORITY BANKING,vijay.reddy671@gmail.com,9400368694,Expired,853
+CUST41925,Rohan Pillai,Male,34,  Professional,4799031,COIMBATORE,Tamil Nadu,454520,05-11-2009,NRI BANKING,rohan.pillai149@yahoo.com,8218032515,Verified,538
+CUST96363,Arjun Gupta,Female,24,Professional,411310,Nizamabad,Telangana,556981,03-01-2024,Priority Banking,arjun.gupta330@yahoo.com,9779760958,Expired,711
+CUST43408,Kavya Patel,Female,25,Student,4128447,Surat,Gujarat,207759,28-08-2023,Retail Banking,kavya.patel570@gmail.com,8819421270,Expired,387
+CUST91490,divya sharma,Male,22,Retired,2393514,KOCHI,Kerala,466332,17-02-2011,Corporate Banking,divya.sharma580@yahoo.com,8132917811,Pending,616
+CUST66349,Sunita Sharma,Male,54,Student,4232171,HUBLI,Karnataka,524464,08-01-2006,SME Banking,sunita.sharma969@gmail.com,9452318696,Not Submitted,
+CUST52568,Kavya Joshi,Female,26,Homemaker,3185440,salem,TAMIL NADU,365136,04-03-2012,Priority Banking,kavya.joshi406@yahoo.com,9936571442,Verified,408
+CUST83989,GEETA RAO,Female,30,Homemaker,2801965,Amritsar,Punjab,573689,14-07-2006,Priority Banking,geeta.rao361@gmail.com,9161085229,Pending ,780
+CUST21053,Sai Nair,Female,49,Salaried,2228224,Warangal,Telangana,749428,10-03-2016,Priority Banking,sai.nair397@gmail.com,8947425963,Verified,835
+CUST53054,Divya Rao,Male,26,STUDENT,4565707,vijayawada,Andhra Pradesh,129117,04-03-2012,Priority Banking,divya.rao350@yahoo.com,9247709679,Expired,670
+CUST68222,Dhruv Nair,Female,35,Homemaker,3915880,Kozhikode,Kerala,601799,04-03-2012,NRI Banking,dhruv.nair289@yahoo.com,9274008639,Pending,616
+CUST61964,Shanvith Reddy,Female,26,Self Employed,3389396,Nizamabad,TELANGANA,444166,14-01-2010,SME Banking,arjun.das141@gmail.com,9992398092,Not Submitted,328
+CUST12154,Vijay Iyer,Male,39,STUDENT,1354409,Ludhiana,Punjab,362250,13-01-2005,Priority Banking,vijay.iyer88@gmail.com,8684203557,Verified,661
+CUST72722,Vivaan Pillai,Male,25,Homemaker,1281225,Ludhiana,Punjab,321384,30-10-2005,Priority Banking,vivaan.pillai324@yahoo.com,8683074770,Verified,600
+CUST65640,Meera Mehta,Female,55,Retired,1663778,MANGALORE,Karnataka,193959,04-03-2012,SME Banking,meera.mehta618@yahoo.com,9580101819,Expired,405
+CUST84349,Rohan Verma,Female,44,Student,3924224,PUNE,Maharashtra,711801,04-03-2012,SME Banking,rohan.verma666@gmail.com,9299767568,Not Submitted,378
+CUST82089,Priya Patel,Male,65,Business Owner,1471249,Nizamabad,Telangana,643470,20-10-2022,Corporate Banking,patel.priya@gmail.com,8496115351,Pending,670
+CUST17263,Divya Verma,Female,40,Retired,1433586,VISAKHAPATNAM,Andhra Pradesh,346423,04-03-2012,Corporate Banking,divya.verma257@gmail.com,9771112648,Verified,683
+CUST92203,Rahul Patel,Male,51,Student,2684149,NIZAMABAD,Telangana,421883,04-03-2012,Corporate Banking,rahul.patel426@gmail.com,8435632899,Expired,
+CUST50988,Shanvith Reddy,Female,50,Professional,4467824,Dwarka,Delhi,631531,19-09-2024,Priority Banking,aarav.patel990@gmail.com,9402104065,Not Submitted,615
+CUST25572,sunita verma,Female,42,Professional,3280614,Chennai,Tamil Nadu,318728,15-03-2013,NRI Banking,sunita.verma47@gmail.com,8657629251,Pending,447
+CUST13492,Ramesh Mehta,F,35,Business Owner,4995548,Thrissur,Kerala,288795,02-02-2018,Retail Banking,ramesh.mehta33@gmail.com,9573561557,Pending,791
+CUST99226,Priya Rao,Female,33,Retired,4211597,Amritsar,Punjab,423000,04-05-2011,Corporate Banking,priya.rao707@yahoo.com,9954059995,Expired,871
+CUST24316,Arjun Iyer,Female,63,Self Employed,575851,Thiruvananthapuram,kerala,165041,04-03-2012,NRI Banking,arjun.iyer103@yahoo.com,8269587940,Not Submitted,538
+CUST34420,ISHA GUPTA,Female,40,Salaried,227738,Rourkela,Odisha,461318,07-09-2018,NRI BANKING,isha.gupta138@yahoo.com,9220953538,Not Submitted,409
+CUST68554,Divya Reddy,Female,58,Business Owner,2682905,Gwalior,Madhya Pradesh,795437,04-04-2005,NRI Banking,divya.reddy477@gmail.com,8855438611,Verified,567
+CUST79228,Dhruv Joshi,Male,28,Salaried,4882590,Hisar,HARYANA,640042,04-08-2023,Retail Banking,dhruv.joshi875@gmail.com,9726150048,Not Submitted,860
+CUST71875,  Shreya Iyer,Male,33,  Professional,1659792,Nagpur,Maharashtra,580326,04-03-2012,Priority Banking,shreya.iyer678@yahoo.com,8227381397,Not Submitted,691
+CUST12050,Vivaan Iyer,Female,59,Salaried,996382,Dwarka,delhi,366623,06-01-2015,Retail Banking,vivaan.iyer223@yahoo.com,9410594268,Expired,349
+CUST78742,Priya Das,Male,40,Professional,1401728,Rajkot,GUJARAT,606521,15-02-2009,Priority Banking,priya.das725@gmail.com,9543109075,Pending,850
+CUST53642,Dhruv Iyer,Male,28,  Self Employed,1744034,Lucknow,UTTAR PRADESH,743761,06-07-2025,priority banking,dhruv.iyer795@gmail.com,8431165907,Not Submitted,548
+CUST59786,SURESH GUPTA,Male,62,PROFESSIONAL,4769124,  Thiruvananthapuram,KERALA,782866,10-10-2010,SME BANKING,suresh.gupta361@gmail.com,9682115008,Verified,800
+CUST63914,Sai Patel,Male,55,Retired,2454692,MUMBAI,Maharashtra,561489,21-05-2005,SME Banking,sai.patel247@gmail.com,8387037751,Verified,814
+CUST53420,Ananya Sharma,Male,35,retired,506950,Kochi,kerala,608599,04-03-2012,Corporate Banking,ananya.sharma288@yahoo.com,9437675369,Pending,880
+CUST40427,SURESH SINGH,Female,41,Business Owner,3477786,guntur,Andhra Pradesh,582437,04-03-2012,Retail Banking,suresh.singh385@gmail.com,8192013357,Expired,
+CUST23538,Aarav Rao,Female,26,business owner,4799132,Mumbai,Maharashtra,513952,01-06-2018,NRI Banking,aarav.rao87@yahoo.com,8360642799,Pending,632
+CUST91289,Sunita Reddy,Male,48,professional,2957970,guntur,Rajasthan,446242,21-01-2008,NRI Banking,sunita.reddy182@yahoo.com,9846205223,Pending,607
+CUST98208,Shreya Patel,Female,36,STUDENT,2690344,HOWRAH,West Bengal,553682,10-10-2019,SME BANKING,shreya.patel491@gmail.com,8842716738,Verified,457
+CUST76935,Divya Sharma,Female,46,Professional,3288342,Faridabad,Haryana,268068,04-03-2012,priority banking,divya.sharma943@yahoo.com,8252122560,Expired,812
+CUST70562,Dhruv Gupta,Female,32,Student,1697293,Janakpuri,Delhi,753938,04-03-2012,Priority Banking,dhruv.gupta722@gmail.com,8954707142,Verified,329
+CUST21108,rohan verma,Female,36,BUSINESS OWNER,1138695,Ludhiana,Punjab,501440,04-03-2012,SME Banking,rohan.verma142@gmail.com,9677006598,Pending,487
+CUST84107,  Rahul Joshi,Female,38,Business Owner,Rs.424266,Pune,Maharashtra,286380,04-03-2012,Corporate Banking,rahul.joshi116@gmail.com,8493914829,Verified,595
+CUST89988,Divya Verma,Female,34,Self Employed,1317987,  Jalandhar,Punjab,707767,04-03-2012,Corporate Banking,divya.verma173@gmail.com,9387057426,Verified,360
+CUST22202,Aditya Reddy,Female,50,Student,3245993,Udaipur,RAJASTHAN,112594,05-05-2012,  Corporate Banking,aditya.reddy715@gmail.com,8333893106,Pending,895
+CUST36518,  Aditya Nair,male,31,  Professional,2682231,faridabad,Haryana,372553,04-02-2007,SME Banking,aditya.nair744@yahoo.com,8855590022,Pending,669
+CUST27451,Divya Reddy,Male,57,Salaried,4600225,Ludhiana,Punjab,362250,04-03-2012,Retail Banking,divya.reddy156@yahoo.com,9333264702,Verified,468
+CUST61347,Geeta Joshi,Male,33,Homemaker,2157738,Lucknow,Uttar Pradesh,633851,13-07-2007,priority banking,geeta.joshi13@yahoo.com,9710293796,Pending,546
+CUST20357,Geeta Mehta,Male,55,homemaker,1453397,Warangal,Telangana,775106,10-06-2013,SME Banking,geeta.mehta448@yahoo.com,9192570281,Verified,900
+CUST13847,ADITYA GUPTA,Female,25,Business Owner,4544407,Rajkot,Gujarat,768016,23-12-2020,SME Banking,aditya.gupta57@gmail.com,9373928805,Verified,890
+CUST84912,Shreya Patel,Female,32,Retired,591846,  Ahmedabad,  Gujarat,158160,04-03-2012,Corporate Banking,shreya.patel793@yahoo.com,8108556837,Expired,683
+CUST53911,Suresh Sharma,Male,27,Homemaker,2729586,Nashik,Maharashtra,550209,04-03-2012,  Corporate Banking,suresh.sharma96@gmail.com,8543516366,Expired,543
+CUST27840,ARJUN VERMA,Female,31,SELF EMPLOYED,1036321,Bhopal,MADHYA PRADESH,536260,15-06-2015,PRIORITY BANKING,arjun.verma213@gmail.com,8197088689,Expired,621
+CUST28322,Geeta Mehta,Male,29,Salaried,2014688,Bangalore,Karnataka,500322,04-03-2012,corporate banking,geeta.mehta266@yahoo.com,8312332805,Not Submitted,710
+CUST90868,Shreya Kumar,Female,56,Professional,3606041,Rohini,DELHI,403367,15-05-2006,  Priority Banking,shreya.kumar906@yahoo.com,8683746914,Not Submitted,389
+CUST42487,Sai Kumar,Male,24,Business Owner,4626912,Ludhiana,Punjab,482040,04-03-2012,corporate banking,sai.kumar826@yahoo.com,8855326778,Pending,697
+CUST52413,Divya Reddy,Female,28,Self Employed,1338268,Mumbai,Maharashtra,186055,21-04-2024,NRI Banking,divya.reddy345@gmail.com,9569083854,Not Submitted,683
+CUST88956,PRIYA NAIR,Female,27,STUDENT,4894179,Surat,Gujarat,191587,27-02-2008,Priority Banking,priya.nair907@yahoo.com,8883064819,Pending,639
+CUST69151,Sai Bose,Female,41,BUSINESS OWNER,318426,Bangalore,Karnataka,468412,08-05-2007,SME Banking,sai.bose77@gmail.com,9737835435,Not Submitted,375
+CUST57294,Aarav Singh,Male,63,SALARIED,2620859,nashik,MAHARASHTRA,211699,10-10-2015,  NRI Banking,aarav.singh84@gmail.com,8605672755,verified,504
+CUST60738,Shreya Bose,Male,57,Retired,4133115,Nellore,Andhra Pradesh,192791,07-09-2015,Corporate Banking,shreya.bose923@gmail.com,8258320719,Not Submitted,606
+CUST78116,Vijay Joshi,Male,33,homemaker,Rs.4533567,Kolkata,West Bengal,265399,04-03-2012,Retail Banking,vijay.joshi577@yahoo.com,8469226717,Expired,453
+CUST74437,ananya reddy,Female,29,homemaker,Rs.2062245,Visakhapatnam,  Andhra Pradesh,446455,06-09-2021,SME Banking,ananya.reddy92@gmail.com,8895583423,Expired,753
+CUST93284,Suresh Joshi,Female,36,Student,Rs.406382,Bhubaneswar,Odisha,296210,04-03-2012,  SME Banking,suresh.joshi858@yahoo.com,8406090918,Verified,756
+CUST50037,ISHA MEHTA,Female,43,Professional,3308104,hisar,Haryana,599369,27-08-2010,priority banking,isha.mehta8@gmail.com,8501826151,Expired,683
+CUST75191,meera reddy,Male,45,Professional,3544021,Agra,Uttar Pradesh,309141,29-01-2018,Retail Banking,meera.reddy654@yahoo.com,8644725181,Pending,885
+CUST70786,Dhruv Verma,Male,61,Professional,600274,Visakhapatnam,Andhra Pradesh,605159,01-06-2018,NRI Banking,dhruv.verma391@gmail.com,8261897130,Pending,372
+CUST26961,Vivaan Verma,Male,46,Student,3752149,Thrissur,Kerala,114896,04-03-2012,Priority Banking,vivaan.verma973@gmail.com,8304630191,Verified,692
+CUST34697,ramesh kumar,Male,35,salaried,2066111,  Salem,TAMIL NADU,728338,27-09-2009,Corporate Banking,ramesh.kumar667@yahoo.com,8928123020,Verified,322
+CUST23751,Shanvith Reddy,Female,27,Business Owner,1106406,Hyderabad,Telangana,385770,16-06-2009,Priority Banking,ramesh.singh303@gmail.com,8838953322,Expired,504
+CUST48085,Sai Nair,Female,27,Professional,1122248,VADODARA,gujarat,788637,21-03-2005,Retail Banking,sai.nair979@yahoo.com,9975061242,Verified,441
+CUST57002,Vivaan Patel,Female,51,HOMEMAKER,1246016,Kochi,Kerala,572095,04-03-2012,Priority Banking,vivaan.patel13@yahoo.com,8719172154,Pending,721
+CUST74990,Ramesh Singh,Female,33,SALARIED,4274242,Vijayawada,Andhra Pradesh,162797,03-06-2012,CORPORATE BANKING,ramesh.singh241@gmail.com,8194510603,Not Submitted,584
+CUST69566,meera nair,Female,49,Student,3197535,Rajkot,gujarat,112304,10-03-2007,retail banking,nair.meera@gmail.com,9250806165,verified,527
+CUST79515,Vijay Kumar,MALE,58,Retired,3780676,Gurugram,Haryana,295811,04-03-2012,Priority Banking,vijay.kumar621@yahoo.com,9753901994,Pending,820
+CUST27389,MOHAN GUPTA,Female,65,Retired,4700748,  Faridabad,Haryana,479349,07-12-2020,SME Banking,mohan.gupta916@yahoo.com,8967910655,Pending,418
+CUST83566,Kavya Pillai,Female,65,Retired,2562887,jodhpur,rajasthan,516381,12-10-2025,Retail Banking,kavya.pillai56@gmail.com,8938511718,Not Submitted,690
+CUST31093,sunita sharma,Female,50,Salaried,2922961,Kozhikode,Kerala,448303,04-03-2012,Corporate Banking,sunita.sharma587@gmail.com,8664138658,Pending,457
+CUST90439,Isha Sharma,Female,45,  Professional,2842214,Cuttack,Odisha,676480,04-03-2012,Retail Banking,sharma.isha@gmail.com,8306708606,Verified,562
+CUST30152,ANANYA VERMA,Male,23,Student,2932630,Nashik,Maharashtra,296639,24-08-2006,RETAIL BANKING,ananya.verma234@yahoo.com,9534272756,Verified,355
+CUST38818,Mohan Das,Male,39,Homemaker,4727868,SALEM,Tamil Nadu,121692,04-03-2012,CORPORATE BANKING,mohan.das587@gmail.com,8427159637,Expired,682
+CUST86099,aditya bose,Male,63,Business Owner,1225546,Siliguri,West Bengal,759610,31-03-2007,Corporate Banking,aditya.bose462@gmail.com,8263632841,Expired,591
+CUST28350,Aarav Das,Female,25,Business Owner,791412,Cuttack,Odisha,772309,21-01-2024,Retail Banking,aarav.das218@yahoo.com,8679473892,Pending,819
+CUST29162,Divya Singh,Male,35,Business Owner,489066,Panipat,Haryana,387199,14-03-2010,Priority Banking,divya.singh531@yahoo.com,9588169687,Verified,364
+CUST55224,Aditya Verma,Female,53,Retired,205345,durgapur,WEST BENGAL,351163,13-11-2014,Corporate Banking,aditya.verma192@gmail.com,8809861078,Expired,469
+CUST83872,SAI SINGH,Female,26,STUDENT,2527789,Chandigarh,Punjab,615066,28-01-2015,Corporate Banking,sai.singh814@gmail.com,8648472597,Expired,782
+CUST89098,Kavya Singh,Female,54,Homemaker,Rs.3769657,HYDERABAD,Telangana,665553,04-03-2012,Priority Banking,kavya.singh391@gmail.com,8998926466,Verified,344
+CUST95403,Dhruv Iyer,Female,48,Business Owner,4647173,Kozhikode,Kerala,526761,04-03-2012,nri banking,dhruv.iyer573@gmail.com,9469749767,Not Submitted,582
+CUST67065,Shreya Joshi,Female,44,Business Owner,2010343,Bangalore,KARNATAKA,512996,30-08-2018,Retail Banking,shreya.joshi612@gmail.com,9630824004,Pending,338
+CUST18993,Priya Joshi,Male,56,Retired,2536506,  Bhubaneswar,Odisha,399940,22-10-2012,NRI Banking,priya.joshi414@gmail.com,9214315878,Expired,655
+CUST38885,Ananya Singh,FEMALE,47,  Homemaker,2798541,Ludhiana,Punjab,120196,02-08-2016,SME Banking,ananya.singh78@gmail.com,9334683594,Expired,848
+CUST80972,Sai Pillai,Female,52,Business Owner,Rs.2795908,Nashik,Maharashtra,624647,26-06-2024,NRI Banking,sai.pillai769@gmail.com,8613592269,Verified,581
+CUST34105,Rahul Kumar,Male,65,  Professional,3665606,Durgapur,West Bengal,403213,10-03-2013,sme banking,rahul.kumar703@gmail.com,9353193872,Not Submitted,710
+CUST43330,Ananya Nair,Male,37,Professional,2957302,Kolkata,West Bengal,694573,30-01-2013,SME BANKING,ananya.nair360@yahoo.com,9718361962,Pending,873
+CUST39912,Rahul Pillai,Female,38,student,2594074,Vadodara,Gujarat,394425,17-06-2019,NRI Banking,rahul.pillai534@yahoo.com,9124804609,Pending,704
+CUST40062,vivaan mehta,Female,29,Professional,1210418,Rohini,Delhi,139960,23-10-2023,NRI BANKING,vivaan.mehta334@yahoo.com,8392502766,Pending,474
+CUST27865,Aarav Pillai,Female,21,Professional,4638734,Vadodara,Gujarat,424165,11-12-2021,priority banking,pillai.aarav@gmail.com,9542098017,Not Submitted,788
+CUST93478,Mohan Sharma,Male,33,Business Owner,4277161,DURGAPUR,WEST BENGAL,162043,06-08-2005,SME Banking,mohan.sharma289@gmail.com,8349978373,Verified,683
+CUST42631,dhruv gupta,Female,33,  Self Employed,431104,Kota,Rajasthan,362250,29-06-2021,Priority Banking,dhruv.gupta320@yahoo.com,8899641923,Verified,396
+CUST21728,divya mehta,Male,64,professional,916731,Dwarka,delhi,172679,04-03-2012,NRI Banking,divya.mehta811@gmail.com,9699524216,Expired,361
+CUST31016,Geeta Verma,Female,37,Professional,2630282,Mysore,Karnataka,110755,27-03-2013,NRI BANKING,geeta.verma905@gmail.com,8356395115,Verified,764
+CUST60934,DHRUV MEHTA,Female,24,Retired,2296968,jalandhar,Punjab,123722,04-03-2012,sme banking,dhruv.mehta853@gmail.com,9699169292,Not Submitted,372
+CUST64419,Sai Pillai,Male,43,Homemaker,4986566,Gurugram,Haryana,219160,04-03-2012,Priority Banking,sai.pillai517@gmail.com,8575680693,Expired,683
+CUST27705,  Ananya Bose,Female,35,Salaried,2669383,ROURKELA,ODISHA,132756,12-03-2024,Corporate Banking,ananya.bose365@gmail.com,8368281808,Not Submitted,622
+CUST66925,Geeta Iyer,Male,62,HOMEMAKER,2051845,Jaipur,Rajasthan,774679,30-10-2025,nri banking,geeta.iyer43@gmail.com,9849223390,Verified,311
+CUST83308,Priya Patel,Female,33,Professional,4942669,Janakpuri,Delhi,368208,04-03-2012,NRI BANKING,priya.patel332@yahoo.com,9544080348,Expired,836
+CUST29356,Aarav Nair,Male,65,Salaried,3029568,Guntur,ANDHRA PRADESH,604079,04-03-2012,Retail Banking,aarav.nair217@gmail.com,9618645569,Pending,683
+CUST95119,Sai Singh,Female,27,Professional,4415945,Jodhpur,rajasthan,202297,15-11-2015,SME Banking,sai.singh730@gmail.com,8458167668,VERIFIED,844
+CUST60096,Meera Gupta,Male,57,professional,2166292,Warangal,TELANGANA,744776,26-07-2014,Corporate Banking,meera.gupta142@gmail.com,9248294102,Pending,619
+CUST93472,Sunita Rao,Male,27,self employed,Rs.1726501,Rourkela,Odisha,751710,22-02-2009,Corporate Banking,sunita.rao237@yahoo.com,8611747739,Not Submitted,326
+CUST52584,Shreya Joshi,Male,46,self employed,3736597,nellore,Andhra Pradesh,438097,04-03-2012,RETAIL BANKING,shreya.joshi463@gmail.com,8363841612,Not Submitted,689
+CUST33562,Vijay Bose,Male,41,Professional,3619186,Indore,Madhya Pradesh,585719,04-03-2012,Priority Banking,vijay.bose93@gmail.com,8955220572,VERIFIED,483
+CUST50378,Ananya Sharma,Female,33,Business Owner,1665788,VARANASI,uttar pradesh,462738,20-07-2009,Corporate Banking,sharma.ananya@gmail.com,8355419939,Not Submitted,303
+CUST64651,Rahul Reddy,Female,60,Student,2535556,Coimbatore,Tamil Nadu,296038,04-03-2012,NRI Banking,rahul.reddy96@yahoo.com,8980752567,Not Submitted,875
+CUST89802,Vijay Gupta,Female,57,Business Owner,4557301,Guntur,Andhra Pradesh,754130,08-12-2012,NRI BANKING,vijay.gupta185@yahoo.com,9307828574,Verified,432
+CUST54742,Suresh Pillai,Male,33,Homemaker,Rs.1726501,Jaipur,Rajasthan,612382,04-03-2012,SME Banking,suresh.pillai494@gmail.com,8459821251,Not Submitted,646
+CUST31753,Kavya Patel,Female,40,  Professional,1130163,Thrissur,Kerala,394686,03-12-2020,SME Banking,kavya.patel381@gmail.com,9424611800,Expired,332
+CUST14791,Aditya Nair,Female,28,student,Rs.4531746,Durgapur,West Bengal,733156,04-03-2012,Retail Banking,aditya.nair106@gmail.com,9720150147,Pending,345
+CUST50812,Arjun Iyer,Female,24,Retired,3871586,Kozhikode,Kerala,162907,04-03-2012,Corporate Banking,arjun.iyer184@yahoo.com,8841015965,Expired,782
+CUST90863,Suresh Sharma,Male,65,PROFESSIONAL,1688077,  Agra,Uttar Pradesh,585302,09-10-2022,SME Banking,suresh.sharma360@gmail.com,9474322976,Pending,632
+CUST54852,MOHAN PATEL,Female,57,Self Employed,803425,Warangal,Telangana,451184,04-03-2012,Priority Banking,mohan.patel979@gmail.com,8740385433,Not Submitted,774
+CUST49917,Rohan Das,male ,26,Student,3037900,berhampur,Odisha,533832,03-08-2005,nri banking,rohan.das992@gmail.com,8485735987,Expired,683
+CUST94985,Geeta Pillai,Female,63,Student,4232746,Pune,Maharashtra,253886,04-03-2012,Priority Banking,geeta.pillai916@yahoo.com,9293055963,Not Submitted,386
+CUST78997,Suresh Mehta,Male,26,Professional,Rs.4486487,Guntur,Andhra Pradesh,367144,17-12-2024,NRI Banking,suresh.mehta553@yahoo.com,9468879895,Verified,390
+CUST91830,Rohan Joshi,Female,29,Professional,842145,Nagpur,Maharashtra,374295,22-09-2006,NRI Banking,rohan.joshi264@gmail.com,9735408331,Not Submitted,584
+CUST55229,Isha Gupta,Male,24,Homemaker,1123031,Nagpur,Maharashtra,609366,30-05-2015,Corporate Banking,isha.gupta723@gmail.com,8566792435,Not Submitted,708
+CUST87165,Aarav Das,Female,64,Retired,2980371,Indore,Madhya Pradesh,121092,01-11-2012,Corporate Banking,aarav.das538@gmail.com,9404187859,Verified,860
+CUST19924,Ananya Pillai,Male,65,Business Owner,3731796,Jalandhar,PUNJAB,187592,04-03-2012,SME Banking,ananya.pillai341@yahoo.com,8291050332,Not Submitted,683
+CUST14959,Aarav Verma,Female,65,Business Owner,1421775,JALANDHAR,Punjab,712554,16-04-2025,  SME Banking,aarav.verma414@yahoo.com,8679958795,Not Submitted,700
+CUST60353,Rahul Reddy,F,27,  Professional,3422435,  Ludhiana,Punjab,773530,30-11-2015,SME Banking,rahul.reddy26@yahoo.com,9167637817,Expired,683
+CUST28558,  Vivaan Bose,Female,36,Professional,534212,Kolkata,West Bengal,773394,28-04-2005,corporate banking,vivaan.bose100@gmail.com,8978106253,Verified,476
+CUST64415,Rohan Patel,Female,49,Retired,1534171,MADURAI,Tamil Nadu,152676,04-03-2012,Corporate Banking,rohan.patel17@yahoo.com,9195714674,Expired,895
+CUST35153,Dhruv Rao,Male,55,Retired,3185848,Bangalore,karnataka,766896,04-03-2012,NRI Banking,dhruv.rao816@gmail.com,8634202492,Expired,775
+CUST52688,shreya bose,MALE,27,Business Owner,2060774,New Delhi,Delhi,319669,19-07-2021,Corporate Banking,shreya.bose497@gmail.com,9754374295,Not Submitted,722
+CUST32273,Suresh Das,Female,33,Salaried,3603557,Thiruvananthapuram,Kerala,730318,04-05-2024,  Priority Banking,suresh.das748@gmail.com,9566271010,Pending,521
+CUST41334,Vijay Sharma,Female,63,Salaried,4174711,Chandigarh,Punjab,708088,18-08-2008,SME Banking,vijay.sharma142@yahoo.com,8497735939,Verified,770
+CUST60194,Mohan Reddy,FEMALE,44,Retired,492878,Rajkot,Gujarat,180261,06-12-2008,SME Banking,mohan.reddy245@gmail.com,8907751428,Pending,872
+CUST18601,Sai Rao,Male,33,SALARIED,822518,Janakpuri,Delhi,224678,04-03-2012,Corporate Banking,sai.rao509@gmail.com,8124363495,Pending,378
+CUST27295,Rohan Nair,Female,35,Self Employed,2331100,rourkela,Odisha,159618,05-05-2013,Priority Banking,rohan.nair171@yahoo.com,8295722203,Pending,595
+CUST70036,Isha Pillai,Male,55,Self Employed,186023,  Rourkela,Odisha,362250,06-06-2012,NRI Banking,isha.pillai747@yahoo.com,8885593029,Verified,602
+CUST61697,Divya Iyer,FEMALE,24,Business Owner,4441241,janakpuri,Delhi,558414,01-12-2013,SME Banking,divya.iyer360@gmail.com,8331600910,Not Submitted,451
+CUST63668,dhruv kumar,Female,56,Professional,1617108,Amritsar,PUNJAB,253579,06-12-2020,Priority Banking,dhruv.kumar503@gmail.com,8426325581,Not Submitted,881
+CUST84130,Aarav Das,Female,33,Student,4143318,Udaipur,Rajasthan,713208,04-03-2012,Retail Banking,aarav.das60@gmail.com,8483739723,Expired,824
+CUST80047,suresh iyer,Female,21,  Professional,1355589,Kozhikode,Kerala,501134,04-03-2012,  Corporate Banking,suresh.iyer167@gmail.com,9302310976,Verified,588
+CUST28659,Aditya Sharma,Female,33,business owner,1201463,FARIDABAD,Haryana,227150,06-10-2006,Corporate Banking,sharma.aditya@gmail.com,8736918066,Verified,735
+CUST41696,sai bose,Male,21,  Salaried,4999736,hyderabad,Telangana,405549,13-11-2009,NRI Banking,sai.bose102@yahoo.com,8609721894,Pending,496
+CUST69892,Dhruv Das,Male,35,Student,3874171,Kozhikode,  Kerala,558751,19-02-2014,NRI Banking,dhruv.das822@gmail.com,9823872620,Verified,597
+CUST86273,RAMESH RAO,Male,43,Homemaker,3507418,Kozhikode,Kerala,618070,15-12-2019,Priority Banking,ramesh.rao111@gmail.com,9244534648,Verified,714
+CUST81646,rahul sharma,Male,45,Professional,1149369,Mumbai,Maharashtra,574054,21-01-2012,PRIORITY BANKING,rahul.sharma676@yahoo.com,8627722211,Expired,685
+CUST26803,divya nair,Female,61,Business Owner,375652,guntur,ANDHRA PRADESH,558946,15-07-2013,SME Banking,divya.nair678@gmail.com,9191205492,Verified,399
+CUST98488,  Kavya Singh,Female,63,Professional,4367528,Rohini,Delhi,490984,27-09-2008,SME Banking,kavya.singh998@yahoo.com,8408545686,Expired,606
+CUST64304,RAMESH DAS,Male,50,  Retired,4473230,Udaipur,Rajasthan,768343,19-01-2009,NRI Banking,ramesh.das219@yahoo.com,8387694035,Not Submitted,319
+CUST63197,Suresh Verma,Female,22,SELF EMPLOYED,1759908,New Delhi,Delhi,596707,17-11-2022,Corporate Banking,suresh.verma928@gmail.com,9377451497,Expired,617
+CUST84838,Sunita Patel,Female,37,Retired,4556201,Gurugram,Haryana,359642,03-11-2024,Priority Banking,sunita.patel599@yahoo.com,8554052132,Verified,392
+CUST89405,Divya Bose,Male,37,student,2160546,Mumbai,MAHARASHTRA,779987,18-08-2013,NRI Banking,divya.bose243@yahoo.com,8521954302,Expired,616
+CUST23159,Mohan Reddy,Female,53,Student,2339175,Vijayawada,Andhra Pradesh,741365,04-03-2012,Retail Banking,mohan.reddy29@yahoo.com,9576102460,Pending,730
+CUST46935,Priya Sharma,Male,32,Professional,3233648,New Delhi,delhi,708098,04-03-2012,Priority Banking,priya.sharma663@yahoo.com,9596524942,verified,686
+CUST60079,Kavya Kumar,Female,59,Homemaker,1883136,SALEM,  Tamil Nadu,308562,26-06-2023,Corporate Banking,kavya.kumar30@gmail.com,8366629382,Not Submitted,589
+CUST15965,MOHAN SHARMA,Male,40,Retired,3345536,Nagpur,Maharashtra,248662,04-03-2012,Priority Banking,mohan.sharma516@gmail.com,9196258788,Not Submitted,679
+CUST96169,Suresh Rao,Male,30,  Salaried,1734775,Jalandhar,  Punjab,147605,27-02-2010,Retail Banking,suresh.rao447@gmail.com,9574078155,Not Submitted,487
+CUST75288,Arjun Das,Female,39,Business Owner,367786,Chandigarh,Punjab,729015,04-11-2013,Retail Banking,arjun.das84@gmail.com,9774692904,Verified,682
+CUST62286,Geeta Pillai,Female,31,Homemaker,1896698,Bangalore,Karnataka,408777,26-06-2022,Priority Banking,geeta.pillai821@gmail.com,9835472281,Expired,712
+CUST74922,Rohan Kumar,Female,48,Business Owner,4077707,Hyderabad,Telangana,424986,07-05-2025,Retail Banking,rohan.kumar536@gmail.com,8148420285,Not Submitted,789
+CUST97852,Kavya Verma,Female,34,Business Owner,1720278,Siliguri,west bengal,759610,03-10-2006,Corporate Banking,kavya.verma14@gmail.com,8806218351,Not Submitted,565
+CUST80593,SAI BOSE,Male,33,Business Owner,4037495,New Delhi,Delhi,232116,19-06-2014,Priority Banking,sai.bose456@yahoo.com,8728381921,Expired,322
+CUST40396,Ananya Bose,Female,48,Retired,309548,gurugram,Haryana,176596,04-03-2012,NRI Banking,ananya.bose120@gmail.com,9848950428,Pending,866
+CUST31237,sai joshi,Female,63,BUSINESS OWNER,873030,  Thiruvananthapuram,Kerala,319175,24-11-2007,Priority Banking,sai.joshi966@yahoo.com,9150518836,Expired,477
+CUST77552,Sunita Joshi,Male,49,student,572970,Kochi,KERALA,221036,17-11-2023,PRIORITY BANKING,sunita.joshi43@gmail.com,9320531781,Pending,413
+CUST64396,Kavya Bose,Female,47,SELF EMPLOYED,4593028,Surat,Gujarat,543492,05-02-2008,Corporate Banking,kavya.bose529@yahoo.com,9256319955,Expired,739
+CUST51116,RAHUL MEHTA,Male,54,Salaried,2496970,Rourkela,Odisha,533560,04-03-2012,NRI Banking,rahul.mehta640@yahoo.com,8971696978,Not Submitted,450
+CUST49838,Arjun Sharma,Male,24,Retired,1076453,Panipat,HARYANA,481693,29-10-2010,SME Banking,arjun.sharma587@yahoo.com,8964778305,Pending,819
+CUST68479,Ananya Joshi,Female,46,Student,Rs.4564551,Hubli,karnataka,523960,16-07-2017,NRI BANKING,ananya.joshi451@yahoo.com,8547666960,Pending,831
+CUST58688,Vijay Iyer,Male,52,Business Owner,2616093,Agra,Uttar Pradesh,259045,04-03-2012,Retail Banking,vijay.iyer313@yahoo.com,8624838194,Verified,446
+CUST40516,Aditya Das,Male,23,business owner,4688190,berhampur,Odisha,787293,07-04-2021,Priority Banking,aditya.das586@yahoo.com,9792734933,Verified,584
+CUST79932,Kavya Sharma,Female,52,professional,527350,Kozhikode,Kerala,299277,16-08-2012,Retail Banking,kavya.sharma94@gmail.com,9254655603,Verified,747
+CUST76115,SURESH SHARMA,Female,41,Business Owner,658617,Jaipur,Rajasthan,774679,29-05-2017,Priority Banking,suresh.sharma936@yahoo.com,8824880344,Pending,716
+CUST17887,Ramesh Rao,Male,64,Business Owner,2254609,Berhampur,Odisha,723584,04-03-2012,Priority Banking,ramesh.rao547@gmail.com,9232045510,Expired,683
+CUST72459,mohan patel,Male,47,STUDENT,1605725,MUMBAI,Maharashtra,521872,30-01-2025,NRI Banking,mohan.patel914@yahoo.com,8479025201,Not Submitted,800
+CUST74724,shreya patel,Female,59,Business Owner,4284223,Vadodara,Gujarat,779449,04-03-2012,Corporate Banking,shreya.patel506@gmail.com,8821742994,Pending,500
+CUST95200,Suresh Nair,Male,38,Professional,3563122,NAGPUR,MAHARASHTRA,599252,03-04-2020,Retail Banking,suresh.nair230@gmail.com,8439562230,Pending,830
+CUST24134,Sunita Joshi,Female,42,Business Owner,606615,Howrah,West Bengal,186453,04-03-2012,NRI Banking,sunita.joshi641@gmail.com,8135802499,Verified,542
+CUST91292,  Arjun Sharma,Male,50,Business Owner,367869,Kochi,kerala,223254,12-05-2012,NRI Banking,arjun.sharma861@gmail.com,8375185107,Not Submitted,497
+CUST28953,Geeta Bose,Male,24,retired,4843006,Pune,Maharashtra,320106,17-09-2012,Priority Banking,geeta.bose350@gmail.com,8601869492,Expired,500
+CUST36911,Mohan Patel,Male,44,homemaker,206416,guntur,Rajasthan,141476,28-08-2006,Retail Banking,mohan.patel200@yahoo.com,9131874640,Expired,666
+CUST58804,dhruv verma,Female,25,Retired,3788290,Ludhiana,Punjab,308854,04-03-2012,Retail Banking,dhruv.verma326@gmail.com,9149601706,Pending,433
+CUST75350,Suresh Rao,Female,44,Self Employed,2849648,Karimnagar,Telangana,628828,30-07-2020,NRI Banking,rao.suresh@gmail.com,9317970120,Pending,794
+CUST45785,Aditya Rao,Male,35,self employed,3855151,Jaipur,Rajasthan,486537,23-06-2019,SME Banking,aditya.rao949@gmail.com,9686291021,Pending,377
+CUST95892,Suresh Singh,Female,30,student,4450394,Nashik,Maharashtra,330070,08-02-2010,Priority Banking,suresh.singh473@gmail.com,8560412945,Not Submitted,532
+CUST84393,shreya singh,Female,42,SELF EMPLOYED,1439255,Bhopal,Madhya Pradesh,519874,16-02-2019,NRI Banking,shreya.singh193@gmail.com,8786124569,Verified,887
+CUST24515,Kavya Das,Female,45,Professional,726825,SALEM,Tamil Nadu,434804,04-03-2012,Corporate Banking,kavya.das589@yahoo.com,8835336980,Pending,510
+CUST64401,Arjun Iyer,Male,50,Retired,3774521,  Dwarka,DELHI,706237,04-03-2012,Priority Banking,arjun.iyer892@gmail.com,8815817439,Pending,487
+CUST61992,rahul patel,Male,29,business owner,1112028,Mumbai,Maharashtra,618307,14-01-2020,SME Banking,rahul.patel249@yahoo.com,9399726314,Pending,775
+CUST94018,SHREYA PILLAI,Male,49,Professional,2736411,Chandigarh,Punjab,161029,02-06-2018,  Retail Banking,shreya.pillai384@yahoo.com,9130004816,Expired,304
+CUST52384,Aditya Mehta,Female,21,PROFESSIONAL,2802815,Chennai,tamil nadu,340788,04-03-2012,Priority Banking,aditya.mehta378@gmail.com,9924145310,Verified,769
+CUST89761,Aarav Joshi,Male,61,Professional,4436797,Berhampur,Odisha,353905,17-04-2016,Corporate Banking,aarav.joshi756@gmail.com,9247699074,Expired,313
+CUST36976,Meera Kumar,Female,64,Student,2233210,Hyderabad,Telangana,656803,04-03-2012,Corporate Banking,meera.kumar67@yahoo.com,9781146329,Pending,690
+CUST57131,Suresh Sharma,Female,49,SELF EMPLOYED,4098630,KOTA,Rajasthan,273451,02-05-2016,Priority Banking,suresh.sharma86@yahoo.com,8264066364,Pending,743
+CUST94023,Dhruv Pillai,Female,28,PROFESSIONAL,475703,Kochi,Kerala,280250,28-11-2025,Priority Banking,dhruv.pillai790@yahoo.com,8624653706,Expired,879
+CUST25300,Dhruv Bose,Female,46,Student,3374142,Bhopal,MADHYA PRADESH,653726,04-03-2012,NRI Banking,dhruv.bose438@gmail.com,8807044021,Expired,382
+CUST95789,Suresh Kumar,Male,44,Self Employed,1629761,VARANASI,Uttar Pradesh,317640,16-10-2020,CORPORATE BANKING,suresh.kumar834@gmail.com,8968848930,Expired,437
+CUST15486,SURESH PILLAI,Female,45,retired,210917,mysore,Karnataka,619531,04-03-2012,NRI Banking,suresh.pillai345@gmail.com,8977082994,Expired,572
+CUST72285,Meera Mehta,Female,21,student,1726512,Karimnagar,Telangana,157977,04-03-2012,SME Banking,meera.mehta497@gmail.com,9559471600,Not Submitted,668
+CUST25162,Sai Bose,Female,31,  Self Employed,1925371,Howrah,West Bengal,140642,15-05-2007,  Retail Banking,sai.bose785@gmail.com,8820052632,Pending,745
+CUST48138,Divya Kumar,Female,58,Salaried,3004121,bangalore,Karnataka,710666,13-09-2021,Corporate Banking,divya.kumar591@yahoo.com,8303858121,Not Submitted,418
+CUST14501,  Geeta Das,Male,65,Business Owner,4364252,Kozhikode,KERALA,611516,19-02-2011,Retail Banking,geeta.das722@yahoo.com,8263962774,Pending,887
+CUST79185,Meera Pillai,Male,65,Business Owner,1786551,Hisar,Haryana,247260,31-10-2013,nri banking,meera.pillai727@gmail.com,8574469049,Expired,399
+CUST77559,Priya Iyer,Female,30,Retired,3789157,Amritsar,Punjab,234574,01-07-2010,PRIORITY BANKING,priya.iyer611@yahoo.com,9842809063,Verified,334
+CUST60326,Sai Iyer,Male,29,Business Owner,Rs.1726501,Durgapur,West Bengal,673622,18-04-2012,RETAIL BANKING,sai.iyer838@gmail.com,9657165824,Verified,365
+CUST76341,RAMESH BOSE,Female,33,Retired,1589511,Agra,Uttar Pradesh,158409,28-07-2010,Retail Banking,ramesh.bose456@gmail.com,9478082887,Pending,607
+CUST43315,  Geeta Singh,Female,55,Student,1351617,Jalandhar,Punjab,773875,02-08-2006,Corporate Banking,geeta.singh664@yahoo.com,9264810151,Not Submitted,575
+CUST26187,MOHAN RAO,Male,27,retired,4257218,Madurai,  Tamil Nadu,405695,04-03-2012,NRI Banking,mohan.rao175@gmail.com,9965527175,Not Submitted,885
+CUST47594,Shanvith Reddy,F,40,Retired,2069012,Varanasi,UTTAR PRADESH,437929,04-03-2012,Retail Banking,aditya.mehta968@gmail.com,9406930025,Not Submitted,716
+CUST96661,Aditya Nair,Male,31,Retired,Rs.1726501,Bhubaneswar,Odisha,293306,09-04-2025,NRI Banking,aditya.nair976@gmail.com,9221583552,Pending,530
+CUST73998,divya bose,Male,42,Salaried,4011728,nagpur,Maharashtra,115405,09-12-2012,  Corporate Banking,divya.bose10@gmail.com,9652245387,Not Submitted,409
+CUST36013,Sai Mehta,Male,29,Business Owner,487694,BANGALORE,Karnataka,143142,06-12-2014,Priority Banking,sai.mehta983@yahoo.com,9690690799,Pending,639
+CUST11052,sunita kumar,Male,52,business owner,2517461,Kota,rajasthan,369782,25-01-2022,RETAIL BANKING,sunita.kumar786@gmail.com,8815466869,Pending,739
+CUST50166,Geeta Sharma,FEMALE,48,Self Employed,2970064,Faridabad,Haryana,557819,18-05-2006,Priority Banking,geeta.sharma288@yahoo.com,9151063294,VERIFIED,822
+CUST58705,Vijay Bose,Male,33,Self Employed,3371639,Rohini,Delhi,153033,05-12-2007,Retail Banking,vijay.bose457@yahoo.com,8468183891,Not Submitted,423
+CUST12867,Shreya Gupta,Male,39,Student,1231578,Madurai,tamil nadu,309430,04-03-2012,Retail Banking,shreya.gupta769@gmail.com,9751995775,verified,362
+CUST27428,Divya Mehta,Female,34,Student,2238831,Lucknow,uttar pradesh,790155,10-08-2007,NRI Banking,divya.mehta970@yahoo.com,8538454827,Expired,301
+CUST37021,rahul singh,Female,38,Self Employed,2870115,Nellore,Andhra Pradesh,273202,04-03-2012,Corporate Banking,rahul.singh924@gmail.com,9975741671,Pending,704
+CUST59528,Ananya Kumar,Male,62,Salaried,263682,jaipur,rajasthan,197657,19-12-2007,RETAIL BANKING,ananya.kumar10@yahoo.com,8463343405,Verified,554
+CUST39710,suresh kumar,Male,62,Self Employed,3113778,Kota,Rajasthan,227870,25-01-2010,SME BANKING,suresh.kumar980@yahoo.com,8227078391,Verified,683
+CUST29482,Arjun Joshi,Female,45,business owner,1389670,Indore,Madhya Pradesh,180584,07-03-2021,Priority Banking,arjun.joshi286@gmail.com,9924134875,Expired,789
+CUST38748,Mohan Gupta,Male,21,  Self Employed,3184238,gurugram,Haryana,490003,30-01-2024,CORPORATE BANKING,mohan.gupta62@yahoo.com,8936065712,Expired,317
+CUST30732,Kavya Kumar,Male,26,BUSINESS OWNER,Rs.1335121,Pune,Maharashtra,706832,24-09-2006,Corporate Banking,kavya.kumar144@yahoo.com,9541868896,Not Submitted,312
+CUST22050,sai das,Male,46,Self Employed,1927246,Karimnagar,Telangana,521347,04-03-2012,NRI BANKING,sai.das480@gmail.com,9508526623,Expired,524
+CUST15881,ISHA IYER,Male,41,Salaried,553063,Thrissur,  Kerala,483974,04-03-2012,retail banking,isha.iyer401@yahoo.com,8204560805,Verified,308
+CUST77672,Shreya Singh,Male,42,PROFESSIONAL,1250565,Hisar,HARYANA,151957,30-01-2013,SME Banking,shreya.singh622@gmail.com,8634211070,Verified,741
+CUST95235,Kavya Das,Male,52,Salaried,Rs.4920881,Cuttack,Odisha,530416,25-02-2013,Retail Banking,kavya.das525@yahoo.com,9832507637,Not Submitted,593
+CUST80138,  Dhruv Iyer,FEMALE,32,Salaried,869931,  Berhampur,ODISHA,564154,30-07-2025,RETAIL BANKING,dhruv.iyer619@gmail.com,9398902947,Pending,706
+CUST63093,Vivaan Patel,Female,47,Homemaker,3936793,hubli,Karnataka,303021,04-03-2012,  Corporate Banking,vivaan.patel772@gmail.com,8617141182,Pending,565
+CUST29331,  Rohan Mehta,Female,37,Salaried,3559018,Siliguri,West Bengal,582446,14-03-2021,NRI Banking,rohan.mehta593@gmail.com,8551160662,Pending,303
+CUST54017,Kavya Iyer,Female,44,Professional,3743542,Mysore,  Karnataka,679129,26-05-2017,Corporate Banking,kavya.iyer706@yahoo.com,8206542097,Verified,466
+CUST70810,Isha Das,Female,35,salaried,3292739,kota,Rajasthan,387348,13-05-2011,NRI BANKING,isha.das5@yahoo.com,9264685524,Expired,574
+CUST76093,Aditya Sharma,MALE,56,  Homemaker,2332968,Mangalore,Karnataka,207785,26-03-2012,CORPORATE BANKING,aditya.sharma157@gmail.com,8184581329,Verified,508
+CUST23555,Aditya Patel,Female,27,Retired,Rs.1179150,Mangalore,KARNATAKA,299402,03-05-2011,Corporate Banking,aditya.patel935@yahoo.com,9123576118,Not Submitted,568
+CUST43357,Dhruv Das,F,55,Self Employed,397927,bhubaneswar,Odisha,269747,14-08-2016,Retail Banking,dhruv.das31@gmail.com,8235914506,Not Submitted,824
+CUST73941,Dhruv Joshi,Female,41,PROFESSIONAL,2428966,KOTA,Rajasthan,560168,04-03-2012,NRI Banking,dhruv.joshi648@yahoo.com,8649065195,Not Submitted,692
+CUST84379,dhruv patel,Female,25,Self Employed,4861382,Gwalior,Madhya Pradesh,662875,13-05-2011,Priority Banking,dhruv.patel969@yahoo.com,9793927248,Not Submitted,517
+CUST62797,Ananya Nair,Female,25,business owner,286501,Mumbai,  Maharashtra,425620,04-03-2012,Priority Banking,ananya.nair570@yahoo.com,9420451603,Not Submitted,725
+CUST16880,Shreya Rao,Male,40,Salaried,552681,Lucknow,Uttar Pradesh,752516,12-01-2010,  Retail Banking,shreya.rao598@gmail.com,8908564991,Not Submitted,637
+CUST74828,Meera Singh,Female,50,Salaried,1963075,Pune,Maharashtra,219613,20-03-2009,priority banking,meera.singh320@yahoo.com,8213452068,Pending,683
+CUST96754,dhruv kumar,Female,28,Business Owner,2377835,karimnagar,Telangana,562433,04-03-2012,  NRI Banking,dhruv.kumar521@gmail.com,9152757656,Not Submitted,662
+CUST63026,dhruv nair,Female,65,Salaried,1994556,KOTA,Rajasthan,289338,09-02-2016,SME Banking,dhruv.nair295@yahoo.com,8852125249,Expired,510
+CUST42441,Ramesh Kumar,Male,57,Salaried,295884,Kolkata,West Bengal,660785,04-03-2012,SME Banking,ramesh.kumar103@gmail.com,9889001603,Expired,533
+CUST75251,Shreya Mehta,Male,44,RETIRED,3763145,Pune,Maharashtra,313259,11-09-2021,Corporate Banking,shreya.mehta899@yahoo.com,8665761958,Expired,391
+CUST47982,Rahul Sharma,Male,39,Business Owner,4233782,thiruvananthapuram,KERALA,126350,09-12-2022,Retail Banking,rahul.sharma608@gmail.com,9478231483,Pending,601
+CUST62312,Meera Pillai,Male,59,Business Owner,2683549,Bhubaneswar,Odisha,574072,04-03-2012,SME BANKING,meera.pillai205@gmail.com,9427487069,Not Submitted,877
+CUST49634,Isha Sharma,Male,44,Retired,4446702,Indore,  Madhya Pradesh,703048,04-03-2012,Corporate Banking,isha.sharma474@yahoo.com,9158353824,Expired,856
+CUST30286,Aditya Sharma,Male,52,  Student,204113,Agra,uttar pradesh,703419,06-05-2020,nri banking,aditya.sharma124@gmail.com,9126474585,Not Submitted,505
+CUST81654,Ananya Iyer,Female,39,Professional,2582999,JANAKPURI,Delhi,495184,04-03-2012,Retail Banking,ananya.iyer110@gmail.com,9404322294,Expired,804
+CUST95972,Isha Bose,Female,42,Student,4874025,madurai,Tamil Nadu,401861,04-03-2012,Priority Banking,isha.bose386@yahoo.com,9860746273,Expired,443
+CUST60342,Rahul Pillai,Female,60,Salaried,669478,Indore,MADHYA PRADESH,583418,04-03-2012,SME Banking,rahul.pillai861@gmail.com,9582657294,Pending,338
+CUST19432,Suresh Verma,Female,52,STUDENT,4580481,Surat,Gujarat,708077,09-03-2023,Corporate Banking,suresh.verma922@gmail.com,9559037242,Verified,512
+CUST90117,Geeta Sharma,Male,55,Professional,625199,Nizamabad,Telangana,385832,27-01-2018,retail banking,geeta.sharma268@gmail.com,9319293841,Expired,782
+CUST23639,priya sharma,F,62,retired,2039492,Nashik,  Maharashtra,428158,05-09-2014,SME Banking,priya.sharma548@yahoo.com,8119429209,Verified,789
+CUST84455,Sai Rao,Male,24,Homemaker,2246501,Mumbai,Maharashtra,569860,10-04-2006,retail banking,sai.rao617@yahoo.com,9750820521,Verified,429
+CUST63848,Isha Reddy,M,34,BUSINESS OWNER,808053,Panipat,  Haryana,351735,15-11-2023,CORPORATE BANKING,isha.reddy37@yahoo.com,8587224288,Verified,833
+CUST13406,Sunita Iyer,Female,58,Homemaker,2352284,rourkela,Odisha,467507,26-12-2021,Corporate Banking,sunita.iyer951@yahoo.com,9516730543,Expired,328
+CUST61721,  Isha Joshi,Female,63,Business Owner,2404416,Nagpur,Maharashtra,240345,04-03-2012,SME Banking,isha.joshi868@gmail.com,9600835600,Expired,312
+CUST95799,Priya Sharma,Female,49,Student,4400668,Pune,Maharashtra,690291,13-02-2012,NRI Banking,priya.sharma17@yahoo.com,9871289477,Pending,342
+CUST48543,Aarav Patel,Male,23,Self Employed,3239540,Kochi,Kerala,729947,13-11-2025,SME BANKING,aarav.patel524@yahoo.com,8865406379,Pending,453
+CUST78740,Priya Pillai,Female,33,Business Owner,2408068,karimnagar,Telangana,454651,29-07-2011,NRI Banking,priya.pillai323@yahoo.com,9886836215,Not Submitted,549
+CUST25461,rahul sharma,male,30,Professional,4386464,mangalore,Karnataka,298656,01-02-2016,NRI BANKING,rahul.sharma784@gmail.com,8235718766,Pending,502
+CUST68837,Sai Reddy,Male,48,Student,3922807,Berhampur,Odisha,251145,04-03-2012,SME Banking,sai.reddy8@gmail.com,8507350359,Pending,788
+CUST66431,  Isha Rao,Female,27,RETIRED,2787104,NIZAMABAD,TELANGANA,234310,23-05-2011,sme banking,isha.rao907@gmail.com,9750870273,Pending,469
+CUST24367,Arjun Nair,Male,52,Professional,3776109,GURUGRAM,HARYANA,401980,13-12-2006,sme banking,arjun.nair228@yahoo.com,8396468739,Verified,440
+CUST73505,Dhruv Sharma,male ,39,  Student,4316843,Vijayawada,ANDHRA PRADESH,651387,15-06-2009,  Corporate Banking,dhruv.sharma626@gmail.com,9382473359,Pending,390
+CUST33094,Suresh Joshi,Female,43,Student,1102411,Siliguri,West Bengal,617237,04-03-2012,Priority Banking,suresh.joshi30@gmail.com,8940555052,Expired,431
+CUST26936,Mohan Patel,Male,45,  Student,Rs.1726501,Kochi,Kerala,479834,04-07-2022,  Retail Banking,mohan.patel371@gmail.com,8524693118,Pending,641
+CUST42415,Aditya Patel,male ,45,STUDENT,1187191,  Nagpur,Maharashtra,199042,04-03-2012,PRIORITY BANKING,aditya.patel620@yahoo.com,8519966090,Expired,576
+CUST61595,Divya Gupta,Male,57,Professional,2029558,Ahmedabad,GUJARAT,578803,30-11-2013,  Corporate Banking,divya.gupta341@gmail.com,9702246140,Not Submitted,537
+CUST83716,Ramesh Verma,Male,33,retired,4342756,Jabalpur,Madhya Pradesh,616459,04-03-2012,Corporate Banking,ramesh.verma436@yahoo.com,8274046155,Verified,772
+CUST31750,Rahul Singh,Female,60,  Professional,1865150,MADURAI,Tamil Nadu,605044,04-03-2012,SME Banking,rahul.singh738@yahoo.com,9867812836,Verified,557
+CUST45989,Mohan Verma,M,44,Retired,2714819,Varanasi,Uttar Pradesh,377125,04-03-2012,  Corporate Banking,mohan.verma106@yahoo.com,9209867551,Not Submitted,712
+CUST16840,Mohan Iyer,Female,41,Professional,4106814,Salem,TAMIL NADU,362469,23-03-2016,SME Banking,mohan.iyer724@gmail.com,8669819226,Pending,420
+CUST35032,Aarav Joshi,Female,33,SELF EMPLOYED,239526,Udaipur,Rajasthan,314356,04-03-2012,Priority Banking,aarav.joshi933@gmail.com,8751519070,Expired,683
+CUST13779,Rahul Mehta,Male,29,Student,1634009,Thiruvananthapuram,KERALA,168771,31-05-2014,retail banking,rahul.mehta879@gmail.com,9759281551,Expired,422
+CUST36041,  Meera Gupta,Male,40,Self Employed,177048,panipat,haryana,233433,04-03-2012,SME Banking,meera.gupta475@gmail.com,9192790248,Verified,659
+CUST34673,Divya Joshi,Female,37,Self Employed,2624071,Kanpur,Uttar Pradesh,623683,12-08-2010,priority banking,divya.joshi658@gmail.com,8283045753,Not Submitted,394
+CUST34435,arjun mehta,Female,33,Professional,2859444,Howrah,West Bengal,448032,23-06-2013,  NRI Banking,arjun.mehta9@gmail.com,9207597190,Expired,334
+CUST76448,RAMESH KUMAR,Female,57,professional,2409563,  Mangalore,Karnataka,281994,04-03-2012,priority banking,ramesh.kumar989@yahoo.com,8709872762,Pending,329
+CUST59054,Suresh Mehta,Female,27,Self Employed,3041652,NASHIK,maharashtra,332814,02-05-2017,Priority Banking,suresh.mehta724@gmail.com,9441832901,Pending,703
+CUST20127,Aditya Nair,Female,33,Self Employed,4343881,ludhiana,Punjab,566551,27-09-2009,Retail Banking,aditya.nair436@gmail.com,8616096218,Not Submitted,609
+CUST49708,Meera Das,M,59,Student,1122729,Udaipur,Rajasthan,606551,05-04-2016,Priority Banking,meera.das435@gmail.com,8261477051,Expired,683
+CUST52550,Sai Patel,M,43,RETIRED,1086867,Lucknow,uttar pradesh,370705,04-03-2012,Retail Banking,sai.patel649@gmail.com,9591806906,Pending,705
+CUST12933,Ananya Rao,Male,48,Student,815076,madurai,Tamil Nadu,708627,20-10-2022,Retail Banking,ananya.rao51@gmail.com,8569166804,Pending,496
+CUST90135,SURESH BOSE,Male,61,Retired,3679630,Varanasi,Uttar Pradesh,517938,17-05-2012,NRI Banking,suresh.bose328@gmail.com,9897329706,Pending,854
+CUST64446,  Rohan Iyer,F,56,Homemaker,2531422,Bhopal,Madhya Pradesh,673707,07-04-2010,Priority Banking,rohan.iyer217@yahoo.com,9270851134,Not Submitted,684
+CUST33281,Shreya Joshi,Female,42,Salaried,4618323,Udaipur,Rajasthan,213100,04-03-2012,  Priority Banking,joshi.shreya@gmail.com,9754666903,Verified,476
+CUST36186,  Priya Mehta,Female,22,Business Owner,693689,Surat,Gujarat,591499,15-12-2017,Corporate Banking,priya.mehta816@gmail.com,8962952313,Expired,772
+CUST13109,Shreya Reddy,Female,39,Homemaker,651523,Durgapur,West Bengal,491025,04-03-2012,Priority Banking,shreya.reddy128@gmail.com,8722568368,Verified,340
+CUST87912,divya reddy,Female,39,Self Employed,4527001,Pune,Maharashtra,700914,16-12-2009,Retail Banking,divya.reddy734@gmail.com,9572298602,Pending,679
+CUST86957,suresh kumar,Female,45,Retired,3290380,Guntur,Andhra Pradesh,660751,18-07-2019,PRIORITY BANKING,suresh.kumar15@yahoo.com,9321651732,Expired,473
+CUST18807,ananya pillai,Male,49,Homemaker,619550,Lucknow,Uttar Pradesh,366579,23-09-2016,NRI Banking,ananya.pillai667@yahoo.com,8290514740,Expired,553
+CUST72394,Vijay Iyer,Male,59,Retired,1953499,New Delhi,Delhi,120069,24-09-2011,Priority Banking,vijay.iyer454@yahoo.com,8759721239,Verified,882
+CUST76787,  Rahul Nair,Male,25,self employed,1649842,Durgapur,West Bengal,209162,05-02-2020,Priority Banking,rahul.nair112@yahoo.com,8443614412,Expired,611
+CUST49795,Vijay Iyer,Female,43,BUSINESS OWNER,2949464,Surat,Gujarat,555958,02-02-2015,SME Banking,vijay.iyer57@yahoo.com,8590581599,Verified,615
+CUST71587,Vivaan Patel,Male,36,Student,4235598,Nashik,Maharashtra,503236,11-08-2018,SME Banking,vivaan.patel283@gmail.com,9606635278,Verified,900
+CUST51151,Rahul Nair,Female,34,Homemaker,3889980,Guntur,Andhra Pradesh,348743,16-03-2012,Corporate Banking,rahul.nair995@yahoo.com,8124844575,Not Submitted,779
+CUST24723,Geeta Singh,Male,26,Homemaker,4457553,Warangal,Telangana,749665,09-10-2025,NRI Banking,geeta.singh442@yahoo.com,8893427121,VERIFIED,779
+CUST69998,Dhruv Rao,male ,43,Homemaker,4968738,Chandigarh,Punjab,265487,04-03-2012,NRI Banking,rao.dhruv@gmail.com,9474220071,Expired,493
+CUST16450,Sai Verma,Male,34,professional,1816294,Durgapur,West Bengal,207363,29-03-2018,Priority Banking,sai.verma215@gmail.com,8904965545,Not Submitted,427
+CUST21069,sai joshi,M,38,Professional,282959,jalandhar,Punjab,371094,04-03-2012,SME Banking,sai.joshi144@yahoo.com,9961549262,Expired,683
+CUST13385,Sunita Reddy,Male,30,Professional,Rs.1726501,Ahmedabad,Gujarat,505352,16-01-2006,Priority Banking,sunita.reddy16@gmail.com,9171216706,Not Submitted,852
+CUST84873,Shreya Rao,Male,29,Self Employed,4467902,dwarka,delhi,631531,04-03-2012,Corporate Banking,shreya.rao257@gmail.com,9596228880,Expired,384
+CUST55075,ARJUN REDDY,Female,50,Professional,Rs.1952176,JANAKPURI,Delhi,571230,04-03-2012,NRI Banking,arjun.reddy527@yahoo.com,8374109567,Not Submitted,858
+CUST20874,dhruv reddy,Female,33,Professional,4435778,Vijayawada,Andhra Pradesh,127532,04-11-2023,Corporate Banking,dhruv.reddy799@gmail.com,8959272620,Pending,527
+CUST65215,Mohan Mehta,Female,29,Professional,2850471,BERHAMPUR,Odisha,373538,03-01-2005,SME Banking,mohan.mehta752@yahoo.com,9540637370,Not Submitted,376
+CUST28665,ARJUN PILLAI,Female,21,Homemaker,2897012,Amritsar,Punjab,659707,04-03-2012,Retail Banking,arjun.pillai449@gmail.com,8587873317,Expired,618
+CUST97151,Ananya Mehta,Female,61,Professional,625235,Durgapur,WEST BENGAL,399267,04-03-2012,retail banking,ananya.mehta857@gmail.com,9865680590,Pending,586
+CUST57277,Vijay Das,Male,23,Homemaker,3452973,  Thrissur,KERALA,593125,04-03-2012,  SME Banking,vijay.das833@yahoo.com,9127531354,Expired,750
+CUST81732,Meera Nair,Male,43,Student,3516523,Chandigarh,Punjab,203187,04-03-2012,Corporate Banking,meera.nair314@gmail.com,8435999953,Pending,811
+CUST19952,Divya Iyer,Male,37,Salaried,3544341,New Delhi,Delhi,668711,21-01-2021,  Corporate Banking,divya.iyer107@yahoo.com,8957369138,Verified,648
+CUST67534,Ananya Reddy,Female,54,Professional,1710767,Jodhpur,Rajasthan,515908,04-03-2012,NRI Banking,ananya.reddy270@gmail.com,8352013447,VERIFIED,889
+CUST39355,Kavya Patel,Female,50,  Professional,596286,Siliguri,West Bengal,729775,28-10-2014,NRI Banking,kavya.patel573@yahoo.com,9858393530,VERIFIED,809
+CUST28904,Surendra Reddy,Male,60,Homemaker,206835,Gwalior,Madhya Pradesh,725984,04-03-2012,Retail Banking,arjun.pillai543@gmail.com,9745883049,Pending,666
+CUST75494,Surendra Reddy,Male,33,Business Owner,3517420,Mysore,Karnataka,466223,17-11-2012,Corporate Banking,rahul.pillai21@yahoo.com,8833054373,verified,383
+CUST67763,Arjun Pillai,Female,49,Retired,1398642,Faridabad,Haryana,673704,15-12-2018,Retail Banking,arjun.pillai111@gmail.com,8207075216,Pending,339
+CUST96462,Vijay Reddy,Female,26,Homemaker,4510765,Gurugram,Haryana,700345,15-06-2025,SME Banking,vijay.reddy659@gmail.com,9312645460,Not Submitted,839
+CUST94008,  Mohan Sharma,Female,24,Retired,384571,Ahmedabad,Gujarat,478853,04-03-2012,SME Banking,mohan.sharma537@yahoo.com,8148018491,Verified,492
+CUST39933,vijay reddy,Female,30,SALARIED,1458027,rajkot,GUJARAT,553381,07-10-2010,nri banking,vijay.reddy900@yahoo.com,9110981591,Not Submitted,564
+CUST43619,  Arjun Pillai,Male,39,Business Owner,4648475,jalandhar,PUNJAB,384202,03-10-2024,SME BANKING,arjun.pillai907@yahoo.com,8634688227,Verified,683
+CUST30016,Shreya Kumar,Female,50,Self Employed,3086996,Vadodara,Gujarat,520321,22-03-2025,  Corporate Banking,shreya.kumar231@gmail.com,8571234785,Pending,357
+CUST83755,Mohan Patel,Male,28,Homemaker,4905961,  Nashik,Maharashtra,701019,04-02-2022,Corporate Banking,mohan.patel933@gmail.com,9836168115,Not Submitted,683
+CUST49302,Divya Singh,Female,55,Professional,3592445,Chennai,Tamil Nadu,766933,09-01-2014,corporate banking,divya.singh428@gmail.com,8597697758,Expired,428
+CUST49363,Ramesh Iyer,Male,34,  Salaried,1822770,Berhampur,Odisha,389767,17-05-2017,SME BANKING,ramesh.iyer25@yahoo.com,8393475095,Pending,460
+CUST16914,Divya Joshi,Female,33,business owner,3142185,Ahmedabad,Gujarat,179231,11-10-2009,Corporate Banking,divya.joshi849@gmail.com,9425601984,Pending,614
+CUST72505,aarav gupta,Female,49,Retired,3189899,Chennai,Tamil Nadu,579064,30-10-2017,NRI Banking,aarav.gupta88@yahoo.com,9422234793,Pending ,486
+CUST74174,Shanvith Reddy,Female,65,Salaried,2153232,Surat,Gujarat,563981,26-11-2010,SME Banking,meera.sharma778@yahoo.com,9133687368,Verified,759
+CUST46915,Surendra Reddy,Male,33,Professional,861314,Lucknow,Uttar Pradesh,229040,28-04-2024,SME Banking,aarav.pillai110@gmail.com,9714082400,Verified,821
+CUST34323,SHREYA NAIR,Male,64,Salaried,3782010,bangalore,Karnataka,193270,19-09-2009,Corporate Banking,shreya.nair203@yahoo.com,8603810893,Verified,351
+CUST47408,Sai Patel,FEMALE,36,Business Owner,3042048,Janakpuri,Delhi,405121,27-02-2005,NRI Banking,sai.patel925@yahoo.com,8185847386,VERIFIED,557
+CUST86969,Shreya Gupta,Female,33,Student,3110297,Chennai,Tamil Nadu,318728,26-09-2024,Priority Banking,shreya.gupta146@yahoo.com,8249713993,Not Submitted,772
+CUST34896,Arjun Patel,Female,31,Professional,3799946,Durgapur,West Bengal,480535,08-12-2019,  Priority Banking,arjun.patel623@gmail.com,8962882603,Expired,361
+CUST40597,DHRUV BOSE,Male,38,Student,4144551,Rourkela,Odisha,457143,04-03-2012,nri banking,dhruv.bose801@yahoo.com,9736551500,Pending,891
+CUST17736,rohan pillai,Female,41,self employed,175612,Howrah,West Bengal,699172,07-03-2023,  Corporate Banking,rohan.pillai497@yahoo.com,8984909762,Pending,794
+CUST65236,Rahul Pillai,male,49,Professional,1388282,Hubli,Karnataka,524464,15-06-2017,PRIORITY BANKING,rahul.pillai467@gmail.com,9274913716,Expired,460
+CUST27284,aditya pillai,Female,30,Salaried,1323662,Kolkata,WEST BENGAL,356430,04-03-2012,Retail Banking,aditya.pillai347@gmail.com,9530097895,Not Submitted,467
+CUST28045,Suresh Sharma,Female,61,Business Owner,3400797,Nizamabad,  Telangana,413709,07-06-2005,Priority Banking,sharma.suresh@gmail.com,9627706578,Verified,822
+CUST69198,Shreya Pillai,Male,46,Retired,4443332,  Nashik,Maharashtra,153684,04-03-2012,Corporate Banking,shreya.pillai896@gmail.com,8420629813,Pending,415
+CUST31660,SUNITA PATEL,Male,59,Professional,4854581,Berhampur,odisha,191448,31-10-2022,SME Banking,patel.sunita@gmail.com,9100010183,Not Submitted,554
+CUST93454,Vijay Reddy,Female,21,  Professional,1614494,Gurugram,  Haryana,587359,04-03-2012,  Retail Banking,vijay.reddy720@gmail.com,8331365141,Not Submitted,540
+CUST10255,Vivaan Rao,FEMALE,48,Homemaker,4874564,Chandigarh,Punjab,352768,07-10-2020,NRI Banking,vivaan.rao468@yahoo.com,9498650571,Pending,800
+CUST80675,Geeta Das,Male,53,Salaried,3031098,Vijayawada,Andhra Pradesh,676453,07-06-2018,Corporate Banking,geeta.das588@gmail.com,9844333729,Not Submitted,649
+CUST85631,Ramesh Pillai,Male,33,student,1042771,Rajkot,Gujarat,110626,04-03-2012,Priority Banking,ramesh.pillai938@gmail.com,9536067895,Pending,492
+CUST91167,Divya Sharma,Female,64,Student,501271,Thrissur,KERALA,445159,16-09-2005,PRIORITY BANKING,divya.sharma882@yahoo.com,8553872456,Expired,811
+CUST69139,Rahul Patel,Male,64,Salaried,236351,janakpuri,DELHI,640889,04-03-2012,CORPORATE BANKING,rahul.patel714@gmail.com,8877744414,Verified,328
+CUST54573,Rohan Reddy,Male,65,SELF EMPLOYED,3880132,  Nellore,andhra pradesh,362250,12-04-2007,Retail Banking,rohan.reddy376@yahoo.com,8844975061,Verified,468
+CUST58931,Mohan Sharma,Male,63,Professional,710517,Nizamabad,telangana,231478,04-03-2012,corporate banking,mohan.sharma308@gmail.com,9164418051,VERIFIED,723
+CUST76829,Kavya Das,Female,25,  Professional,4456582,Chennai,Tamil Nadu,767396,11-09-2008,NRI Banking,kavya.das848@gmail.com,9444120916,Verified,683
+CUST18694,Ananya Gupta,Female,62,Student,1371077,Hyderabad,Telangana,522371,04-03-2012,Retail Banking,ananya.gupta549@yahoo.com,8604564045,Not Submitted,584
+CUST51032,Ramesh Mehta,Female,33,Self Employed,4898077,  Rourkela,Odisha,461272,04-03-2012,SME Banking,ramesh.mehta613@gmail.com,8944920338,Expired,496
+CUST84473,Mohan Iyer,male,59,Self Employed,2286794,Siliguri,West Bengal,504854,31-08-2010,RETAIL BANKING,mohan.iyer951@gmail.com,8981711944,Not Submitted,427
+CUST65478,Ananya Rao,Female,24,Student,4902711,New Delhi,Delhi,764689,02-07-2007,  Retail Banking,ananya.rao226@yahoo.com,9693366694,Pending,645
+CUST32746,VIJAY DAS,Female,21,Business Owner,1050826,Rourkela,Odisha,566334,04-03-2012,Corporate Banking,vijay.das238@gmail.com,8575160348,Not Submitted,615
+CUST59501,Isha Bose,Male,41,Self Employed,1978115,  Salem,Tamil Nadu,370850,02-01-2014,SME Banking,bose.isha@gmail.com,8362071276,Verified,580
+CUST35652,Sunita Reddy,Male,24,PROFESSIONAL,3208250,visakhapatnam,Andhra Pradesh,206865,04-03-2012,Corporate Banking,sunita.reddy538@yahoo.com,9568037375,Pending,462
+CUST23305,Rohan Verma,Male,50,Retired,1191338,Kanpur,uttar pradesh,297616,24-01-2022,NRI BANKING,rohan.verma9@gmail.com,9973280418,Verified,677
+CUST74219,sunita joshi,Female,46,Retired,4692170,Jalandhar,Punjab,481129,04-03-2012,NRI Banking,sunita.joshi537@yahoo.com,8235548996,Expired,832
+CUST39762,Dhruv Gupta,Male,46,Business Owner,4233371,Berhampur,Odisha,499617,27-12-2020,priority banking,dhruv.gupta53@gmail.com,8208753775,Verified,776
+CUST45338,Shreya Nair,Female,61,Retired,1984536,Mumbai,Maharashtra,580139,04-03-2012,NRI Banking,shreya.nair335@gmail.com,8232389996,Not Submitted,324
+CUST49703,mohan joshi,Female,57,Self Employed,3659591,Pune,Maharashtra,557650,04-03-2012,Corporate Banking,mohan.joshi216@gmail.com,8385086707,Verified,455
+CUST87303,Meera Verma,Female,35,Homemaker,2207696,Nizamabad,Telangana,395411,04-03-2012,Retail Banking,meera.verma742@yahoo.com,8960790684,Verified,794
+CUST17458,divya patel,Female,30,Homemaker,3775285,guntur,Rajasthan,460000,04-03-2012,PRIORITY BANKING,divya.patel901@yahoo.com,9329811428,Pending,331
+CUST27495,Isha Nair,MALE,63,STUDENT,3146834,agra,Uttar Pradesh,283248,04-03-2012,NRI Banking,isha.nair85@yahoo.com,8306424872,Not Submitted,341
+CUST71952,priya pillai,Female,40,Business Owner,4418760,Jabalpur,Madhya Pradesh,548273,29-08-2019,SME Banking,priya.pillai216@gmail.com,9185312145,Verified,683
+CUST30516,Sai Das,Female,24,Business Owner,704112,Jodhpur,rajasthan,518483,13-11-2023,Retail Banking,sai.das990@gmail.com,9242703781,Not Submitted,558
+CUST11209,Suresh Pillai,Male,60,Student,3026982,Amritsar,Punjab,219679,25-07-2012,SME Banking,suresh.pillai341@yahoo.com,8393610444,Pending,302
+CUST51311,Ananya Iyer,F,40,Professional,2370468,Vijayawada,Andhra Pradesh,717717,04-03-2012,Retail Banking,ananya.iyer42@gmail.com,9102416360,Verified,534
+CUST60990,  Meera Mehta,Male,62,Self Employed,4722321,Nizamabad,Telangana,126094,04-03-2012,Corporate Banking,meera.mehta22@gmail.com,8281486664,Expired,739
+CUST33458,Suresh Mehta,Female,53,Business Owner,1168704,mangalore,Karnataka,238029,09-06-2015,NRI Banking,suresh.mehta365@yahoo.com,9303259499,Expired,823
+CUST62751,Suresh Verma,Female,58,Self Employed,4205247,Dwarka,delhi,798942,14-09-2021,Retail Banking,suresh.verma658@gmail.com,9301949932,VERIFIED,683
+CUST93634,Isha Mehta,Male,33,business owner,4655366,surat,Gujarat,167581,15-11-2005,  SME Banking,isha.mehta836@gmail.com,9542413659,Expired,409
+CUST40345,MOHAN RAO,Female,55,  Professional,4765482,Nagpur,maharashtra,715408,04-03-2012,Retail Banking,mohan.rao771@yahoo.com,8199823067,Expired,862
+CUST23614,Kavya Sharma,Female,29,Professional,1982221,Chandigarh,Punjab,360177,20-07-2021,Corporate Banking,kavya.sharma748@yahoo.com,8163749838,Not Submitted,821
+CUST93993,Aditya Mehta,F,29,student,2236919,Kochi,Kerala,158827,07-03-2010,Retail Banking,aditya.mehta284@yahoo.com,8870126834,Verified,555
+CUST74213,Surendra Reddy,Male,37,Professional,560483,Siliguri,West Bengal,276310,04-03-2012,Retail Banking,vivaan.pillai537@gmail.com,8251073179,Pending,774
+CUST60407,Ramesh Pillai,Female,44,Salaried,2395427,DWARKA,Delhi,395016,04-03-2012,nri banking,ramesh.pillai21@gmail.com,9403668506,Pending,401
+CUST65685,Divya Patel,Female,61,retired,1823248,Agra,UTTAR PRADESH,701420,10-01-2020,Priority Banking,divya.patel201@yahoo.com,8483197683,Pending,878
+CUST22695,aditya nair,Male,28,Salaried,3582099,nagpur,  Maharashtra,329241,04-06-2019,SME Banking,aditya.nair96@yahoo.com,8775498487,VERIFIED,760
+CUST31534,Priya Reddy,Male,22,Student,4945802,Mumbai,Maharashtra,274579,27-04-2009,SME Banking,priya.reddy201@yahoo.com,9165793697,Pending,476
+CUST30648,Ramesh Reddy,Female,27,Self Employed,3631715,New Delhi,DELHI,389069,04-03-2012,Priority Banking,ramesh.reddy162@yahoo.com,8331485406,Not Submitted,470
+CUST24832,rohan singh,Male,24,Professional,1284292,Karimnagar,TELANGANA,353061,12-01-2009,NRI Banking,rohan.singh622@gmail.com,8189730334,Verified,851
+CUST54260,Meera Kumar,F,22,Homemaker,246717,Mumbai,Maharashtra,197697,04-03-2012,Retail Banking,meera.kumar493@yahoo.com,8678780493,Verified,331
+CUST20040,Shreya Gupta,Male,53,Homemaker,2574116,  Coimbatore,Tamil Nadu,439373,09-06-2022,NRI BANKING,shreya.gupta479@gmail.com,9380552950,Not Submitted,343
+CUST91922,sunita nair,Male,36,professional,Rs.1894130,Kolkata,west bengal,592370,04-07-2018,priority banking,sunita.nair798@yahoo.com,8298391447,Verified,871
+CUST34600,Shreya Joshi,Female,36,Professional,2396464,Hyderabad,Telangana,258375,05-02-2020,Corporate Banking,shreya.joshi535@gmail.com,8537701423,Verified,367
+CUST15546,Isha Singh,Male,64,homemaker,2071654,Salem,Tamil Nadu,365136,04-03-2012,SME Banking,isha.singh482@gmail.com,9412030195,Verified,856
+CUST38329,priya pillai,Male,37,self employed,4564190,Rohini,Delhi,523894,26-01-2012,NRI Banking,priya.pillai93@gmail.com,8874438142,Verified,425
+CUST22492,Aarav Pillai,Male,54,Homemaker,4785123,DURGAPUR,  West Bengal,328842,29-03-2005,Retail Banking,aarav.pillai343@yahoo.com,9741235032,Verified,489
+CUST26144,Suresh Nair,Male,39,SALARIED,4673383,Guntur,Andhra Pradesh,279431,11-03-2010,Corporate Banking,suresh.nair775@yahoo.com,8269305573,Not Submitted,706
+CUST16076,Ramesh Bose,Male,48,Salaried,1230339,hyderabad,Telangana,168078,04-03-2012,Retail Banking,ramesh.bose408@yahoo.com,8129280427,VERIFIED,497
+CUST48063,Dhruv Nair,Female,40,Salaried,2180882,Gurugram,Haryana,579165,02-10-2005,NRI Banking,dhruv.nair884@yahoo.com,8246560683,Pending,840
+CUST31705,Sunita Pillai,male ,45,Homemaker,4954283,kota,Rajasthan,782923,04-03-2012,SME Banking,sunita.pillai303@gmail.com,8783734099,Pending,865
+CUST17179,Kavya Bose,Male,30,Retired,Rs.4117623,Jaipur,Rajasthan,589390,12-05-2019,priority banking,kavya.bose179@yahoo.com,8877819947,Pending,420
+CUST89954,Rohan Iyer,male ,30,Salaried,4757461,Udaipur,Rajasthan,680951,31-03-2018,Priority Banking,rohan.iyer392@gmail.com,8990362496,Not Submitted,667
+CUST15316,Kavya Joshi,Female,51,HOMEMAKER,1527790,VISAKHAPATNAM,ANDHRA PRADESH,648862,09-01-2005,Corporate Banking,kavya.joshi399@gmail.com,8919537700,VERIFIED,306
+CUST86344,aarav bose,Female,24,  Professional,1355007,Durgapur,WEST BENGAL,393243,04-03-2012,SME Banking,aarav.bose614@gmail.com,8582137012,Not Submitted,683
+CUST78679,Rohan Bose,Female,33,SALARIED,1788031,Amritsar,Punjab,203520,08-03-2015,corporate banking,rohan.bose953@gmail.com,8216730003,Verified,537
+CUST19743,Meera Sharma,Male,58,business owner,2369614,rourkela,ODISHA,716923,14-04-2021,Retail Banking,meera.sharma302@gmail.com,9395699678,Verified,472
+CUST23413,Suresh Pillai,Female,47,Business Owner,4507248,Ludhiana,Punjab,466661,04-11-2017,Corporate Banking,suresh.pillai437@yahoo.com,8360950819,Pending,859
+CUST63095,Aditya Mehta,Male,44,Homemaker,279703,Warangal,Telangana,260607,09-06-2013,Retail Banking,aditya.mehta645@gmail.com,9522363610,Expired,853
+CUST40830,Vivaan Joshi,Male,22,Homemaker,4736271,Udaipur,Rajasthan,112594,04-03-2012,corporate banking,vivaan.joshi556@gmail.com,8369263632,Expired,338
+CUST62645,Shreya Pillai,Male,55,Professional,1794072,Durgapur,West Bengal,398254,04-03-2012,Corporate Banking,shreya.pillai66@yahoo.com,9755446288,Not Submitted,762
+CUST58323,Vijay Sharma,Male,45,Salaried,3172895,nagpur,Maharashtra,588817,28-04-2021,Priority Banking,vijay.sharma172@gmail.com,8467897759,Expired,639
+CUST85051,Mohan Pillai,Female,31,Business Owner,3546556,Bhubaneswar,Odisha,305667,15-10-2006,SME Banking,mohan.pillai955@gmail.com,9280044306,Pending,635
+CUST12048,aarav singh,Female,64,Homemaker,4241697,Kozhikode,Kerala,345098,03-07-2023,sme banking,aarav.singh123@yahoo.com,8180004114,Verified,567
+CUST38110,Meera Sharma,Male,27,Professional,4550032,Nellore,Andhra Pradesh,579057,12-01-2022,Corporate Banking,meera.sharma273@yahoo.com,8961551687,Expired,736
+CUST31337,Ramesh Iyer,Female,48,Business Owner,4825865,Cuttack,Odisha,721915,24-04-2006,  Corporate Banking,ramesh.iyer287@gmail.com,9462807188,Expired,632
+CUST10820,Geeta Bose,F,40,Salaried,1458145,Bhubaneswar,Odisha,724813,04-03-2012,SME Banking,geeta.bose135@yahoo.com,8224267947,Verified,535
+CUST39109,DIVYA DAS,Male,39,Student,Rs.1726501,KOTA,RAJASTHAN,246039,05-11-2008,  Priority Banking,divya.das295@gmail.com,8964775301,Verified,306
+CUST55220,Sai Pillai,Male,33,HOMEMAKER,4106577,Pune,maharashtra,588180,11-02-2020,NRI Banking,sai.pillai492@gmail.com,8703487252,Not Submitted,389
+CUST69921,Aarav Nair,Male,34,  Self Employed,3865300,Ludhiana,Punjab,305191,04-03-2012,NRI Banking,aarav.nair591@yahoo.com,9542317499,Verified,896
+CUST94489,MEERA RAO,Female,46,Self Employed,1505277,Durgapur,West Bengal,708783,18-07-2010,sme banking,meera.rao976@yahoo.com,8293767948,verified,683
+CUST98502,Vivaan Bose,Male,46,Self Employed,3206030,Bhopal,Madhya Pradesh,291683,04-03-2012,  Retail Banking,vivaan.bose568@gmail.com,8599936356,Not Submitted,492
+CUST20749,Vijay Bose,M,25,Salaried,4010561,Guntur,Andhra Pradesh,330255,25-09-2023,sme banking,vijay.bose659@gmail.com,8730157079,Pending,466
+CUST37164,Arjun Joshi,Female,47,  Homemaker,4011651,chennai,  Tamil Nadu,318728,04-03-2012,Priority Banking,arjun.joshi413@gmail.com,9763044120,Not Submitted,442
+CUST23582,Geeta Verma,Male,26,Self Employed,992708,Madurai,  Tamil Nadu,523961,06-07-2005,SME Banking,geeta.verma881@gmail.com,8261198792,Not Submitted,871
+CUST22736,Meera Verma,Female,38,  Salaried,1340167,Janakpuri,Delhi,686397,05-07-2014,Corporate Banking,meera.verma781@yahoo.com,9180475880,Not Submitted,667
+CUST24029,Priya Sharma,FEMALE,64,Business Owner,1480420,Vadodara,gujarat,143957,23-12-2009,Retail Banking,priya.sharma930@yahoo.com,8925076625,Expired,592
+CUST77394,SHREYA RAO,Male,47,Self Employed,373517,  Bangalore,  Karnataka,581153,26-02-2010,NRI Banking,shreya.rao434@gmail.com,8972239317,Expired,402
+CUST74491,Aarav Joshi,Female,32,Homemaker,3510620,Kanpur,Uttar Pradesh,135995,16-10-2020,Retail Banking,aarav.joshi545@yahoo.com,9855278334,Expired,501
+CUST28117,ARJUN RAO,Female,24,Salaried,419145,Panipat,Haryana,678533,04-03-2012,SME Banking,arjun.rao26@yahoo.com,9731912405,Not Submitted,724
+CUST43491,sunita verma,Female,62,homemaker,2646691,  Kochi,Kerala,524188,06-07-2023,NRI Banking,sunita.verma664@gmail.com,9229147444,Not Submitted,808
+CUST86397,Kavya Das,Female,21,Retired,3891889,KOCHI,Kerala,283165,16-12-2020,Retail Banking,kavya.das53@gmail.com,8284176984,Pending,570
+CUST29215,Aarav Das,Male,22,Salaried,3878373,BHUBANESWAR,Odisha,642905,18-04-2016,NRI BANKING,aarav.das951@gmail.com,8272567836,Not Submitted,596
+CUST34761,Suresh Mehta,Female,26,Business Owner,3532534,JAIPUR,rajasthan,645716,14-12-2025,retail banking,suresh.mehta615@yahoo.com,8597528007,Not Submitted,461
+CUST82510,Geeta Iyer,Male,43,  Professional,3315750,Warangal,telangana,719259,22-06-2022,Retail Banking,geeta.iyer47@yahoo.com,8403911870,Not Submitted,771
+CUST81658,RAMESH SINGH,Male,35,Retired,4963973,Chennai,Tamil Nadu,668581,04-03-2012,  SME Banking,ramesh.singh141@yahoo.com,9908415147,Verified,709
+CUST10055,Shreya Nair,Male,37,Self Employed,517344,Surat,GUJARAT,208981,04-03-2012,SME Banking,shreya.nair369@yahoo.com,9255310912,Verified,823
+CUST81657,Aditya Gupta,Female,50,Homemaker,3511354,Hyderabad,Telangana,394687,06-04-2008,NRI Banking,aditya.gupta869@yahoo.com,8768455304,Not Submitted,399
+CUST16461,Priya Reddy,Female,59,Retired,1280513,Bangalore,KARNATAKA,488868,04-03-2012,Corporate Banking,priya.reddy46@gmail.com,9833114470,Pending,789
+CUST49152,Sunita Iyer,Female,39,SELF EMPLOYED,543914,nizamabad,Telangana,693798,04-03-2012,Priority Banking,sunita.iyer52@gmail.com,9980673779,Expired,580
+CUST27145,Geeta Nair,Female,42,Homemaker,3662595,Vijayawada,andhra pradesh,525751,20-03-2006,SME Banking,geeta.nair55@gmail.com,9300508459,Pending,411
+CUST42925,RAMESH IYER,Female,55,Salaried,201332,KARIMNAGAR,Telangana,727412,07-06-2007,Retail Banking,ramesh.iyer573@gmail.com,9739439444,Expired,785
+CUST66371,Sai Nair,Female,24,Homemaker,4615171,Rajkot,gujarat,776431,06-06-2017,Priority Banking,sai.nair180@gmail.com,8906571826,Expired,658
+CUST47416,Priya Mehta,Female,49,  Professional,861914,Jabalpur,Madhya Pradesh,326301,04-03-2012,Priority Banking,priya.mehta695@yahoo.com,9994001774,Not Submitted,707
+CUST81476,Vivaan Das,Male,42,Business Owner,2074659,Warangal,Telangana,122390,04-03-2012,Corporate Banking,vivaan.das733@yahoo.com,8652105788,Not Submitted,612
+CUST97755,Ananya Das,Female,30,student,1184590,Surat,Gujarat,647388,29-03-2015,nri banking,ananya.das582@gmail.com,8933665199,Verified,814
+CUST82973,Arjun Kumar,Male,33,Retired,3920934,Chandigarh,Punjab,309449,04-03-2012,NRI Banking,kumar.arjun@gmail.com,8268702405,Pending,543
+CUST13906,Dhruv Nair,Female,33,Student,3389964,Karimnagar,Telangana,419825,15-04-2017,Retail Banking,dhruv.nair296@gmail.com,8410701151,Pending,683
+CUST62989,Aditya Nair,Male,38,Salaried,3254273,Rourkela,Odisha,568789,25-08-2021,SME BANKING,aditya.nair48@gmail.com,8553206885,VERIFIED,688
+CUST58140,Shreya Verma,Female,56,Professional,3670618,INDORE,Madhya Pradesh,257668,08-08-2011,corporate banking,verma.shreya@gmail.com,9565412358,Verified,867
+CUST56990,Divya Bose,Male,40,professional,273249,howrah,West Bengal,709408,04-03-2012,retail banking,divya.bose803@gmail.com,9226463759,Not Submitted,305
+CUST53813,Mohan Nair,Female,33,Professional,597906,Hyderabad,TELANGANA,220348,04-03-2012,SME Banking,mohan.nair854@yahoo.com,8235741420,Pending,435
+CUST83399,Geeta Bose,Male,21,Student,2498798,Kozhikode,kerala,655439,30-12-2006,Retail Banking,geeta.bose269@yahoo.com,9550633661,Verified,797
+CUST57543,Aditya Pillai,Female,29,  Salaried,4927411,Janakpuri,Delhi,594836,26-12-2005,Corporate Banking,aditya.pillai697@gmail.com,9852329085,Verified,333
+CUST21546,Vivaan Rao,FEMALE,40,Professional,1846047,THIRUVANANTHAPURAM,Kerala,184159,04-03-2012,NRI Banking,vivaan.rao794@gmail.com,9296683608,Expired,518
+CUST42947,Priya Iyer,Female,33,Retired,4372656,Rourkela,Odisha,443363,24-10-2011,NRI Banking,priya.iyer142@gmail.com,9976500176,Expired,481
+CUST97304,Arjun Joshi,male,26,Self Employed,986594,Kochi,Kerala,516743,19-05-2015,RETAIL BANKING,arjun.joshi722@yahoo.com,9854515363,Verified,819
+CUST16655,Vijay Rao,Female,34,Salaried,Rs.2979146,Hubli,KARNATAKA,796478,04-03-2012,Corporate Banking,vijay.rao633@gmail.com,9996309776,Not Submitted,683
+CUST85887,Vivaan Verma,male ,29,Business Owner,3070995,Bangalore,Karnataka,559219,12-09-2024,Retail Banking,vivaan.verma308@yahoo.com,8802164038,Pending,519
+CUST19658,Surendra Reddy,Male,51,Student,Rs.3834547,Karimnagar,Telangana,612250,28-12-2005,SME Banking,ramesh.rao980@gmail.com,8429377560,Expired,547
+CUST70211,  Priya Pillai,Male,61,Self Employed,Rs.662949,nizamabad,Telangana,266712,02-11-2019,Corporate Banking,pillai.priya@gmail.com,8713447690,Not Submitted,886
+CUST69839,sai iyer,Male,32,Business Owner,4894543,Rajkot,  Gujarat,436826,01-11-2008,Retail Banking,sai.iyer864@gmail.com,8956136783,Pending,733
+CUST89691,Aarav Mehta,Female,54,salaried,3107585,Faridabad,Haryana,622579,04-03-2012,Retail Banking,aarav.mehta445@gmail.com,9675021545,Verified,886
+CUST30260,  Arjun Verma,Male,38,Self Employed,4420342,karimnagar,Telangana,166016,13-10-2024,SME Banking,verma.arjun@gmail.com,9329513860,Pending,618
+CUST11337,ANANYA BOSE,Male,29,STUDENT,259435,ludhiana,Punjab,163171,23-03-2019,Retail Banking,ananya.bose135@gmail.com,9236571491,Verified,512
+CUST86619,Surendra Reddy,Male,64,Self Employed,745907,MYSORE,Karnataka,737274,15-08-2019,Retail Banking,reddy.surendra@gmail.com,8724961011,Pending ,465
+CUST64746,Aditya Joshi,Female,45,professional,Rs.490404,Nellore,andhra pradesh,270403,04-03-2012,CORPORATE BANKING,aditya.joshi62@gmail.com,8373520394,Verified,703
+CUST43518,Rohan Patel,Male,42,Student,1302975,  Janakpuri,Delhi,389504,06-08-2020,NRI Banking,rohan.patel505@yahoo.com,8205319161,Not Submitted,628
+CUST79681,Aditya Reddy,Female,33,Self Employed,2337262,Dwarka,Delhi,191316,04-03-2012,Retail Banking,reddy.aditya@gmail.com,8386770868,Not Submitted,546
+CUST45501,rohan patel,Male,45,Student,4367706,kota,RAJASTHAN,403976,31-08-2014,Retail Banking,rohan.patel379@gmail.com,9456525687,Expired,513
+CUST44825,Dhruv Singh,Male,24,Salaried,2548430,Salem,Tamil Nadu,721867,08-06-2019,SME Banking,dhruv.singh837@gmail.com,8329234183,Verified,857
+CUST22108,Kavya Bose,Female,34,Business Owner,1462132,rourkela,Odisha,294779,04-03-2012,SME Banking,kavya.bose865@yahoo.com,9220719310,Pending,586
+CUST16113,meera mehta,M,33,Homemaker,1429268,Rourkela,ODISHA,495339,31-05-2006,NRI Banking,meera.mehta496@yahoo.com,9431988918,Not Submitted,325
+CUST30207,Divya Kumar,Female,59,Self Employed,374722,Karimnagar,Telangana,368088,29-11-2017,Corporate Banking,divya.kumar361@yahoo.com,8351933427,Pending,796
+CUST14555,SHREYA JOSHI,Female,56,Salaried,560663,durgapur,West Bengal,306543,04-03-2012,Priority Banking,shreya.joshi124@yahoo.com,8314644529,Verified,
+CUST62761,Rohan Kumar,Male,37,Business Owner,3862933,HOWRAH,West Bengal,337217,04-04-2008,Corporate Banking,rohan.kumar521@gmail.com,8372468758,Expired,514
+CUST93287,SHREYA MEHTA,Female,25,Homemaker,2202206,  Jabalpur,Madhya Pradesh,394748,03-12-2016,Retail Banking,shreya.mehta848@gmail.com,9700104110,Verified,356
+CUST42955,Ananya Patel,Male,61,Homemaker,1611965,KOCHI,Kerala,558916,06-04-2013,RETAIL BANKING,ananya.patel941@yahoo.com,9711576973,Verified,388
+CUST21770,Shreya Gupta,Female,57,Salaried,1842698,Madurai,Tamil Nadu,760437,11-12-2021,Corporate Banking,shreya.gupta580@yahoo.com,9557803192,Not Submitted,740

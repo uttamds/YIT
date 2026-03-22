@@ -1,0 +1,102 @@
+Product_ID,Product_Name,Product_Category,Sub_Category,Min_Loan_Amount_INR,Max_Loan_Amount_INR,Min_Tenure_Months,Max_Tenure_Months,Interest_Rate_Pct,Processing_Fee_Pct,Prepayment_Allowed,GST_Applicable,Launch_Date,Status,Issuing_Bank,Risk_Category,Target_Segment
+PRD0001,home loan,  Loans,Secured,500000,500000,7,303,8.12,0.48,No,Applicable,18-Aug-20,ACTIVE,HDFC Bank,HIGH,NRI Banking
+PRD0002,Personal Loan,Loans,Unsecured,500000,1000000,11,207,15.92,2.31,NO,yes,13-07-2019,ACTIVE,HDFC Bank,Medium,Retail Banking
+PRD0003,  Auto Loan,Loans,Secured,500000,1000000,12,142,14.99,0.48,Yes,yes,25-09-2021,Under Review,  Bank of Baroda,high,Priority Banking
+PRD0004,GOLD LOAN,Loans,Secured,10000,1000000,7,136,10.24,1.44,YES,Yes,08-02-1997,Active,hdfc bank,High,SME Banking
+PRD0005,Education Loan,LOANS,Unsecured,10000,500000,10,169,8.95,0.37,YES,Applicable,04-03-2020,Active,hdfc bank,Low,Retail Banking
+PRD0006,Business Loan,Loans,Unsecured,50000,50000000,11,67,12.63,2.26,Yes,No,04-03-2020,Active,  HDFC Bank,Medium,  SME Banking
+PRD0007,Loan Against Property,Loans,Secured,10000,50000000,8,29,16.43,2.15,Yes,yes,26-07-2022,Discontinued,HDFC Bank,Medium,Retail Banking
+PRD0008,Credit Card,CARDS,Unsecured,500,10000000,1,360,10.09,0.03,Yes,Yes,28-06-2009,Active,HDFC BANK,HIGH,Retail Banking
+PRD0009,Savings Account,DEPOSITS,Deposits,1000,5000,1,120,4.24,0,N/A,No,07-09-1999,Discontinued,HDFC Bank,Low,Priority Banking
+PRD0010,Fixed Deposit,Deposits,Deposits,1000,10000000,1,120,8.28,0,N/A,No,04-03-2020,ACTIVE,HDFC Bank,HIGH,Corporate Banking
+PRD0011,RECURRING DEPOSIT,Deposits,Deposits,1000,Rs.10000000,1,120,6.95,0,N/A,No,02-11-2015,Active,  HDFC Bank,Low,Priority Banking
+PRD0012,Mutual Fund,Investments,Investments,500,10000000,1,360,3.26,1.21,Yes,No,04-07-2017,Active,HDFC Bank,MEDIUM,NRI Banking
+PRD0013,Insurance,Insurance,Insurance,500,10000000,1,360,8.24,1.03,No,No,04-03-2020,Under Review,HDFC Bank,low,Corporate Banking
+PRD0014,OD Facility,loans,Unsecured,100000,100000000,8,129,16.53,0.31,YES,N/A,31-07-2024,ACTIVE,HDFC Bank,low,NRI Banking
+PRD0015,Home Loan,Loans,Secured,Rs.25000,5000000,8,284,22.46,1.63,Yes,N/A,04-03-2020,ACTIVE,ICICI Bank,  Low,NRI Banking
+PRD0016,Personal Loan,Loans,Unsecured,10000,100000000,8,223,19.5,2.26,Yes,Applicable,13-11-2024,ACTIVE,icici bank,MEDIUM,SME Banking
+PRD0017,auto loan,LOANS,Secured,10000,50000000,11,136,7,0.79,Partial,yes,26-12-2003,active,ICICI Bank,MEDIUM,Priority Banking
+PRD0018,Gold Loan,Loans,Secured,500000,50000000,7,348,15.78,0.87,Yes,No,08-03-2003,Under Review,icici bank,HIGH,Corporate Banking
+PRD0019,Education Loan,Loans,Unsecured,100000,5000000,10,297,15.54,1.12,YES,Yes,04-03-2020,active,ICICI Bank,Medium,retail banking
+PRD0020,Business Loan,Loans,Unsecured,50000,1000000,12,286,11.33,2.02,Yes,N/A,13-06-2022,active,ICICI Bank,MEDIUM,Priority Banking
+PRD0021,Loan Against Property,Loans,Secured,50000,5000000,10,151,9.51,2.18,yes,yes,02-Nov-12,Under Review,ICICI BANK,HIGH,RETAIL BANKING
+PRD0022,Credit Card,CARDS,Unsecured,500,10000000,1,360,10.27,1.37,Yes,Yes,15-02-2000,ACTIVE,ICICI Bank,Low,SME BANKING
+PRD0023,Savings Account,Deposits,Deposits,1000,10000000,1,120,5.36,0,N/A,No,07-Apr-97,Discontinued,ICICI Bank,medium,NRI Banking
+PRD0024,Fixed Deposit,Deposits,Deposits,1000,10000000,1,120,4.4,0,N/A,No,04-03-2020,active,ICICI Bank,Medium,Retail Banking
+PRD0025,Recurring Deposit,Deposits,Deposits,1000,10000000,1,120,3.64,0,N/A,No,06-03-2003,Active,ICICI BANK,Medium,Retail Banking
+PRD0026,Mutual Fund,INVESTMENTS,Investments,500,10000000,1,360,3.01,0.08,No,No,12-06-2000,Active,ICICI Bank,  HIGH,Priority Banking
+PRD0027,Insurance,Insurance,Insurance,500,2500,1,360,14.85,0.2,Yes,Yes,24-04-2016,ACTIVE,ICICI Bank,MEDIUM,Priority Banking
+PRD0028,OD Facility,Loans,Unsecured,500000,50000000,9,325,18.12,0.41,No,N/A,04-03-2020,active,ICICI Bank,low,SME BANKING
+PRD0029,Home Loan,LOANS,Secured,100000,500000,11,274,11.84,1.2,YES,Applicable,03-04-2006,active,SBI,HIGH,Priority Banking
+PRD0030,Personal Loan,Loans,Unsecured,10000,100000000,12,58,14.15,1.1,YES,Yes,09-10-1996,Under Review,SBI,Medium,SME Banking
+PRD0031,AUTO LOAN,Loans,Secured,25000,500000,12,123,15.88,0.77,Partial,Yes,24-Feb-98,Discontinued,  Bank of Baroda,  HIGH,priority banking
+PRD0032,Gold Loan,Loans,Secured,100000,1000000,9,184,13,1.02,yes,N/A,20-03-2003,Under Review,SBI,Medium,CORPORATE BANKING
+PRD0033,  Auto Loan,Loans,Unsecured,100000,100000000,10,59,14.57,1.62,yes,N/A,18-07-2018,active,SBI,Medium,SME Banking
+PRD0034,Business Loan,Loans,Unsecured,100000,100000000,9,229,16.46,0.57,YES,Yes,05-04-2025,Under Review,SBI,High,  Priority Banking
+PRD0035,Loan Against Property,Loans,Secured,500000,500000,11,184,9.92,0.91,Partial,N/A,09-Jul-97,active,SBI,low,NRI Banking
+PRD0036,CREDIT CARD,cards,Unsecured,500,10000000,1,360,1.17,1.11,Yes,No,02-06-2003,Active,  Bank of Baroda,HIGH,Corporate Banking
+PRD0037,Savings Account,  Deposits,Deposits,1000,10000000,1,120,8.03,0,N/A,No,04-03-2020,Active,SBI,medium,corporate banking
+PRD0038,fixed deposit,DEPOSITS,Deposits,1000,10000000,1,120,4.92,0,N/A,No,17-10-1995,Active,SBI,Medium,Corporate Banking
+PRD0039,RECURRING DEPOSIT,Deposits,Deposits,1000,10000000,1,120,4.79,0,N/A,No,02-Nov-22,Active,SBI,Medium,Corporate Banking
+PRD0040,MUTUAL FUND,Investments,Investments,500,10000000,1,360,6.05,0.38,Yes,Yes,20-Apr-02,Active,SBI,Medium,Priority Banking
+PRD0041,Insurance,Insurance,Insurance,500,10000000,1,360,7,0.69,No,Yes,02-Jan-12,Under Review,SBI,Low,NRI Banking
+PRD0042,OD Facility,Loans,Unsecured,25000,500000,10,102,22.76,1.51,Partial,Applicable,22-01-2014,Discontinued,  SBI,  HIGH,Priority Banking
+PRD0043,Home Loan,Loans,Secured,50000,250000,11,116,13.58,2.03,YES,No,04-03-2020,active,Axis Bank,HIGH,SME Banking
+PRD0044,Personal Loan,loans,Unsecured,25000,5000000,7,281,13.46,1.58,Yes,No,06-09-2017,Under Review,Axis Bank,Medium,NRI Banking
+PRD0045,Auto Loan,Loans,Secured,25000,100000000,7,196,18.57,1.88,YES,N/A,04-03-2020,Active,axis bank,Medium,retail banking
+PRD0046,Gold Loan,loans,Secured,100000,100000000,10,300,22.58,0.86,Yes,Applicable,04-03-2020,Active,Axis Bank,low,Corporate Banking
+PRD0047,education loan,Loans,Unsecured,500000,100000000,7,109,11.7,2.09,YES,Applicable,04-03-2020,Active,axis bank,Low,Corporate Banking
+PRD0048,Business Loan,Loans,Unsecured,25000,50000000,9,42,23.24,0.44,yes,Yes,13-02-2003,Active,Axis Bank,Medium,Corporate Banking
+PRD0049,Loan Against Property,Loans,Secured,500000,5000000,7,123,22.24,2.19,No,Yes,04-03-2020,Active,AXIS BANK,High,SME Banking
+PRD0050,credit card,CARDS,Unsecured,500,10000000,1,360,1.21,0.69,No,No,13-03-2005,Under Review,Axis Bank,High,Corporate Banking
+PRD0051,  Savings Account,Deposits,Deposits,1000,10000000,1,120,6.51,0,N/A,No,29-03-1998,Active,Axis Bank,Low,Priority Banking
+PRD0052,Fixed Deposit,Deposits,Deposits,1000,10000000,1,120,6.84,0,N/A,No,04-03-2020,active,Axis Bank,Medium,Corporate Banking
+PRD0053,Recurring Deposit,Deposits,Deposits,1000,10000000,1,120,7.63,0,N/A,No,09-10-2003,active,Axis Bank,low,NRI Banking
+PRD0054,mutual fund,investments,Investments,Rs.500,10000000,1,360,7,0.14,Yes,Yes,19-11-2004,active,Axis Bank,High,Retail Banking
+PRD0055,Insurance,Insurance,Insurance,500,10000000,1,360,7.67,0.51,Yes,Yes,31-05-1997,Active,Axis Bank,high,Priority Banking
+PRD0056,OD Facility,Loans,Unsecured,500000,1000000,12,265,19.89,2.33,Yes,Yes,30-08-2003,Discontinued,AXIS BANK,High,Retail Banking
+PRD0057,HOME LOAN,  Loans,Secured,50000000,100000000,11,357,18.96,0.87,NO,Yes,21-Apr-97,ACTIVE,Kotak Mahindra,High,Retail Banking
+PRD0058,Personal Loan,Loans,Unsecured,25000000,50000000,10,277,14.59,2.48,yes,Applicable,03-08-2016,ACTIVE,Kotak Mahindra,Medium,SME Banking
+PRD0059,Auto Loan,Loans,Secured,500000,50000000,9,348,9.54,1.57,Partial,N/A,10-08-2025,Under Review,Kotak Mahindra,low,Priority Banking
+PRD0060,GOLD LOAN,Loans,Secured,50000,50000000,9,149,8.83,0.66,NO,yes,30-05-2007,active,Kotak Mahindra,Low,Corporate Banking
+PRD0061,Education Loan,LOANS,Unsecured,500000,2500000,6,309,22.46,1.06,No,Yes,27-05-2017,ACTIVE,Kotak Mahindra,Low,Priority Banking
+PRD0062,Business Loan,Loans,Unsecured,10000,500000,10,349,22.78,0.77,yes,Applicable,04-03-2020,Active,  Kotak Mahindra,Medium,NRI Banking
+PRD0063,LOAN AGAINST PROPERTY,Loans,Secured,50000,100000000,8,34,14.29,1.81,Partial,Applicable,28-05-1995,Active,Kotak Mahindra,HIGH,Retail Banking
+PRD0064,Credit Card,CARDS,Unsecured,500,10000000,1,360,7,0.57,Yes,Yes,08-06-2012,Under Review,Kotak Mahindra,High,PRIORITY BANKING
+PRD0065,Savings Account,Deposits,Deposits,1000,10000000,1,120,7,0,N/A,No,04-03-2020,Active,kotak mahindra,Medium,Priority Banking
+PRD0066,  Fixed Deposit,Deposits,Deposits,1000,10000000,1,120,8.37,0,N/A,No,02-05-1999,Active,Kotak Mahindra,HIGH,Priority Banking
+PRD0067,Recurring Deposit,Deposits,Deposits,1000,10000000,1,120,4.39,0,N/A,No,05-07-2016,Active,Kotak Mahindra,Medium,SME Banking
+PRD0068,MUTUAL FUND,Investments,Investments,500,10000000,1,360,11.49,0.5,Yes,Yes,22-01-2009,Under Review,kotak mahindra,HIGH,Priority Banking
+PRD0069,Insurance,Insurance,Insurance,500,10000000,1,360,12.6,0.94,No,No,04-03-2020,Active,Kotak Mahindra,High,NRI Banking
+PRD0070,OD Facility,Loans,Unsecured,100000,100000000,9,302,8.39,0.56,Partial,Applicable,04-03-2020,Active,Kotak Mahindra,Low,sme banking
+PRD0071,home loan,Loans,Secured,500000,50000000,6,315,9.92,1.09,yes,yes,12-07-2004,Active,Yes Bank,  HIGH,Corporate Banking
+PRD0072,Personal Loan,Loans,Unsecured,10000,500000,9,211,10.57,2.11,Yes,yes,14-01-2002,Discontinued,  Bank of Baroda,LOW,Retail Banking
+PRD0073,Auto Loan,Loans,Secured,25000,500000,11,345,9.64,1.92,NO,yes,11-05-2015,Discontinued,Yes Bank,  Low,Corporate Banking
+PRD0074,  Auto Loan,Loans,Secured,10000,1000000,7,64,11.19,1.53,yes,N/A,04-03-2020,Discontinued,Yes Bank,  Medium,PRIORITY BANKING
+PRD0075,  Education Loan,Loans,Unsecured,10000,50000,9,229,22.91,0.34,YES,Yes,04-03-2020,Active,YES BANK,Medium,NRI Banking
+PRD0076,Business Loan,Loans,Unsecured,25000,50000000,12,295,14.4,0.43,yes,N/A,13-03-1996,Discontinued,Yes Bank,Low,SME Banking
+PRD0077,Loan Against Property,LOANS,Secured,2500000,5000000,7,360,16.85,2.25,yes,N/A,10-02-2014,Under Review,Yes Bank,low,Priority Banking
+PRD0078,Credit Card,CARDS,Unsecured,500,10000000,1,360,7,0.5,No,Yes,20-Nov-19,Discontinued,Yes Bank,  HIGH,Corporate Banking
+PRD0079,Savings Account,Deposits,Deposits,1000,10000000,1,120,7.39,0,N/A,No,04-04-2001,Under Review,Yes Bank,Medium,Retail Banking
+PRD0080,Fixed Deposit,DEPOSITS,Deposits,1000,10000000,1,120,3.88,0,N/A,No,04-03-2020,Discontinued,Yes Bank,HIGH,Priority Banking
+PRD0081,RECURRING DEPOSIT,Deposits,Deposits,1000,10000000,1,120,4.9,0,N/A,No,22-09-2014,ACTIVE,Yes Bank,LOW,SME BANKING
+PRD0082,Mutual Fund,Investments,Investments,500,10000000,1,360,9.69,0.99,Yes,Yes,04-03-2020,Active,Yes Bank,High,Corporate Banking
+PRD0083,Insurance,INSURANCE,Insurance,500,Rs.10000000,1,360,7.28,1.38,No,No,04-03-2020,ACTIVE,Yes Bank,MEDIUM,SME Banking
+PRD0084,OD FACILITY,Loans,Unsecured,500000,1000000,12,184,12.25,0.41,No,yes,08-Apr-00,active,Yes Bank,High,SME Banking
+PRD0085,  Auto Loan,loans,Secured,10000,Rs.100000000,11,68,7.86,0.93,Partial,yes,04-03-2020,Active,Bank of Baroda,Low,Retail Banking
+PRD0086,Personal Loan,Loans,Unsecured,10000,50000000,9,42,16.49,1.36,NO,Applicable,10-Oct-97,Under Review,Bank of Baroda,High,SME Banking
+PRD0087,Auto Loan,LOANS,Secured,25000,Rs.5000000,7,169,14.31,1.89,YES,Yes,01-11-2002,ACTIVE,BANK OF BARODA,low,  Priority Banking
+PRD0088,gold loan,Loans,Secured,50000,250000,11,190,17.84,0.85,Yes,yes,10-12-2005,Active,Bank of Baroda,HIGH,Corporate Banking
+PRD0089,EDUCATION LOAN,Loans,Unsecured,100000,5000000,6,321,14.48,0.89,yes,N/A,06-Jan-97,active,  Bank of Baroda,High,Retail Banking
+PRD0090,BUSINESS LOAN,loans,Unsecured,25000,1000000,8,173,9.38,1.02,Partial,Applicable,04-03-2020,ACTIVE,BANK OF BARODA,low,SME Banking
+PRD0091,Loan Against Property,LOANS,Secured,100000,50000000,7,253,22.61,1.84,yes,N/A,19-01-2011,Active,Bank of Baroda,Medium,NRI Banking
+PRD0092,Credit Card,CARDS,Unsecured,500,10000000,1,360,1.58,0.43,No,No,04-03-2020,Active,Bank of Baroda,HIGH,SME Banking
+PRD0093,Savings Account,Deposits,Deposits,1000,5000,1,120,7,0,N/A,No,04-03-2020,active,Bank of Baroda,HIGH,Corporate Banking
+PRD0094,Fixed Deposit,Deposits,Deposits,1000,10000000,1,120,3.39,0,N/A,No,27-09-1998,Under Review,Bank of Baroda,High,Priority Banking
+PRD0095,  Recurring Deposit,  Deposits,Deposits,1000,10000000,1,120,3.69,0,N/A,No,23-Nov-24,Active,Bank of Baroda,Low,Priority Banking
+PRD0096,  Mutual Fund,Investments,Investments,Rs.500,10000000,1,360,1.45,0.64,Yes,No,05-06-2024,Active,bank of baroda,high,Priority Banking
+PRD0097,Insurance,INSURANCE,Insurance,500,10000000,1,360,10.42,0.08,Yes,Yes,04-03-2020,Active,Bank of Baroda,medium,Priority Banking
+PRD0098,OD Facility,Loans,Unsecured,50000,50000000,7,317,9.66,0.91,yes,Yes,04-03-2020,Active,Bank of Baroda,Medium,  Priority Banking
+PRD0099,Home Loan,Loans,Secured,25000,1000000,9,85,13.03,2.08,yes,N/A,03-02-2012,Active,PNB,Low,SME Banking
+PRD0100,Personal Loan,LOANS,Unsecured,500000,500000,11,195,17,1,YES,Yes,28-01-2021,Active,PNB,Medium,Corporate Banking
+PRD0101,Auto Loan,Loans,Secured,Rs.50000,5000000,11,226,23.65,1.43,Partial,N/A,04-03-2020,ACTIVE,pnb,Medium,  Corporate Banking
